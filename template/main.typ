@@ -2,10 +2,10 @@
 #import "acronyms.typ": acronyms
 
 #show: supercharged-dhbw.with(
-  title: "Exploration of Typst for the Composition of a University Thesis",
+  title: "Lorem Ipsum",
   authors: (
-    (name: "Max Mustermann", student-id: "7654321", course: "TIS21", course-of-studies: "IT-Security", company: (
-      (name: "YXZ GmbH", post-code: "70435", city: "Stuttgart")
+    (name: "Mael Dossoh", student-id: "3167941", course: "22B5", course-of-studies: "Angewandte Informatik", company: (
+      (name: "ProSystems GmbH", post-code: "74889", city: "Sinsheim")
     )),
   ),
   acronyms: acronyms, // displays the acronyms defined in the acronyms dictionary
@@ -13,9 +13,9 @@
   bibliography: bibliography("sources.bib"),
   date: datetime.today(),
   language: "de", // en, de
-  supervisor: (company: "John Appleseed"),
-  university: "Cooperative State University Baden-Württemberg",
-  university-location: "Ravensburg Campus Friedrichshafen",
+  supervisor: (company: "Schweikert Benno"),
+  university: "Duale Hochschule Baden-Württemberg Karlsruhe",
+  university-location: "Karlsruhe",
   // for more options check the package documentation (https://typst.app/universe/package/supercharged-dhbw)
 )
 
@@ -40,6 +40,8 @@ Use the `acr` function to insert acronyms, which looks like this #acr("HTTP").
 #acrlpl("API") are used to define the interaction between different software systems.
 
 #acrs("REST") is an architectural style for networked applications.
+
+#acrs("URL") is a reference to a web resource.
 
 == Lists
 

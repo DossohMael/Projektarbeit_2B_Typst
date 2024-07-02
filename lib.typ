@@ -41,7 +41,7 @@
   bibliography: none,
   bib-style: "ieee",
   logo-left: image("dhbw.svg"),
-  logo-right: image("Bild1.png"),
+  logo-right: image("prosystemslogo.png"),
   logo-size-ratio: "1:1",
   body,
 ) = {

@@ -1,5 +1,5 @@
 #import "..\lib.typ": *
-#import "acronyms.typ": acronyms
+#import "acronyms.typ": *
 
 #show: supercharged-dhbw.with(
   title: "Lorem Ipsum",
@@ -10,7 +10,7 @@
   ),
   acronyms: acronyms, // displays the acronyms defined in the acronyms dictionary
   at-university: false, // if true the company name on the title page and the confidentiality statement are hidden
-  bibliography: bibliography("sources.bib"),
+  bibliography: bibliography("sources.bib", style: "institute-of-electrical-and-electronics-engineers"),
   date: datetime.today(),
   language: "de", // en, de
   supervisor: (company: "Schweikert Benno"),
@@ -62,6 +62,7 @@ Create figures or tables like this:
 === Figures
 
 #figure(caption: "Image Example", image(width: 4cm, "assets/ts.svg"))
+#figure(caption: "Image Example", image(width: 4cm, "../dhbw.svg"))
 
 === Tables
 
@@ -70,7 +71,7 @@ Create figures or tables like this:
   inset: 10pt,
   align: horizon,
   table.header(
-    [], [*Area*], [*Parameters*],
+    [*Names*], [*Area*], [*Parameters*],
   ),
   text("cylinder.svg"),
   $ pi h (D^2 - d^2) / 4 $,
@@ -106,8 +107,9 @@ project of the Artos Institute.
 
 Cite like this #cite(form: "prose", <iso18004>).
 Or like this @iso18004.
-
 You can also reference by adding `<ref>` with the desired name after figures or headings.
+
+Or like this #cite(form: "prose", <forstandardizationiso2005isoiec>)
 
 For example this @table references the table on the previous page.
 

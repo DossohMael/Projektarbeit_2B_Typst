@@ -213,6 +213,14 @@
     strong(it)
   }
 
+  if (show-table-of-contents) {
+    outline(title: [#if (language == "de") {
+      [Inhaltsverzeichnis]
+    } else {
+      [Table of Contents]
+    }], indent: auto, depth: toc-depth)
+  }
+  
   context {
     let elems = query(figure.where(kind: image), here())
     let count = elems.len()
@@ -261,13 +269,7 @@
     }
   }
   
-  if (show-table-of-contents) {
-    outline(title: [#if (language == "de") {
-      [Inhaltsverzeichnis]
-    } else {
-      [Table of Contents]
-    }], indent: auto, depth: toc-depth)
-  }
+
     
   if (show-acronyms and acronyms != none and acronyms.len() > 0) {
     print-acronyms(language, acronym-spacing)

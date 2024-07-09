@@ -1,4 +1,4 @@
-#import "..\lib.typ": *
+#import "lib.typ": *
 #import "acronyms.typ": *
 
 #show: supercharged-dhbw.with(
@@ -21,7 +21,7 @@
 
 // Edit this content to your likings
 
-= Introduction
+= Einleitung
 
 #lorem(100)
 
@@ -29,7 +29,7 @@
 
 #lorem(100)
 
-= Examples
+= Grundlagen und Begriffsdefinitionen
 
 #lorem(30)
 
@@ -62,7 +62,7 @@ Create figures or tables like this:
 === Figures
 
 #figure(caption: "Image Example", image(width: 4cm, "assets/ts.svg"))
-#figure(caption: "Image Example", image(width: 4cm, "../dhbw.svg"))
+#figure(caption: "Image Example", image(width: 4cm, "dhbw.svg"))
 
 === Tables
 

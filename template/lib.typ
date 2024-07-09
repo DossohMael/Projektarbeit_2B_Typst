@@ -96,8 +96,8 @@
   }
 
   // save heading and body font families in variables
-  let body-font = "Open Sans"
-  let heading-font = "Montserrat"
+  let body-font = "Arial"
+  let heading-font = "Arial"
   
   // customize look of figure
   set figure.caption(separator: [ --- ], position: bottom)
@@ -218,7 +218,7 @@
       [Inhaltsverzeichnis]
     } else {
       [Table of Contents]
-    }], indent: auto, depth: toc-depth)
+    }], indent: auto, depth: toc-depth,)
   }
   
   context {
@@ -260,7 +260,7 @@
     if (show-code-snippets and count > 0) {
       outline(
         title: [#heading(level: 3)[#if (language == "de") {
-          [Codeverzeichnis]
+          [Listingzeichnis]
         } else {
           [Code Snippets]
         }]],

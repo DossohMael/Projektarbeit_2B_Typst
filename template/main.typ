@@ -5,7 +5,7 @@
   title: "Optimierung und Dokumentation der Entwicklungs-, Test- und Release-Prozesse eines Kleinunternehmens",
   authors: (
     (name: "Mael Dossoh", student-id: "3167941", course: "22B5", course-of-studies: "Angewandte Informatik", company: (
-      (name: "ProSystems GmbH", post-code: "74889", city: "Sinsheim")
+      (name: "ProSystems GmbH", post-code: none, city: "Sinsheim")
     )),
   ),
   acronyms: acronyms, // displays the acronyms defined in the acronyms dictionary
@@ -14,7 +14,7 @@
   date: datetime.today(),
   language: "de", // en, de
   supervisor: (company:"Schweikert Benno"),
-  university: "Duale Hochschule Baden-Württemberg",
+  university: "Dualen Hochschule Baden-Württemberg",
   university-location: "Karlsruhe",
   // for more options check the package documentation (https://typst.app/universe/package/supercharged-dhbw)
 )

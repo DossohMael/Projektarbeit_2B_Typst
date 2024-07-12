@@ -60,26 +60,26 @@
 
   // type of thesis (optional)
   if (type-of-thesis != none and type-of-thesis.len() > 0) {
-    align(center, text(weight: "semibold", 1.25em, type-of-thesis))
+    align(center, text(weight: "regular", 1.25em, type-of-thesis))
     v(0.5em)
   }
 
   // type of degree (optional)
   if (type-of-degree != none and type-of-degree.len() > 0) {
-    align(center, text(1em, [#if (language == "de") {
-      [für den Erwerb des]
+    align(center, text(1.25em, [#if (language == "de") {
+      [für die Prüfung zum]
     } else {
       [for the]
     }]))
 
     v(-0.25em)
-    align(center, text(weight: "semibold", 1.25em, type-of-degree))
+    align(center, text(weight: "regular", 1.25em, type-of-degree))
   }
   v(1.5em)
 
   // course of studies
   align(center, text(1.2em, [#if (language == "de") {
-    [aus dem Studiengang #authors.map(author => author.course-of-studies).dedup().join(" | ")]
+    [des Studiengangs #authors.map(author => author.course-of-studies).dedup().join(" | ")]
   } else {
     [from the course of studies #authors.map(author => author.course-of-studies).dedup().join(" | ")]
   }]))
@@ -103,7 +103,7 @@
     v(3em)
   }
 
-  align(center, text(1em, if (language == "de") {
+  align(center, text(1.25em, if (language == "de") {
     "von"
   } else {
     "by"
@@ -165,7 +165,7 @@
     // company
     if (not at-university) {
       text(weight: "semibold", if (language == "de") {
-        "Unternehmen:"
+        "Ausbildungsfirma:"
       } else {
         "Company:"
       })

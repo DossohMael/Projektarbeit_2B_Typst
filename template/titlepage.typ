@@ -136,6 +136,7 @@
 
   // date
   align(center, text(12pt, if (type(date) == datetime) {
+    "Agabedatum "
     date.display(date-format)
   } else {
     [#date.at(0).display(date-format) -- #date.at(1).display(date-format)]

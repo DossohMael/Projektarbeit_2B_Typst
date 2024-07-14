@@ -9,7 +9,7 @@
   many-authors,
   date-format
 ) = {
-  v(20em)
+  v(24em)
   text(size: 12pt, weight: "bold", if (language == "de") {
     "Sperrvermerk"
   } else {
@@ -28,7 +28,7 @@
     // align(center,
     //   // text(weight: "bold", title)
     // )
-    v(1em)
+    // v(1em)
     let insitution
     let companies
     if (language == "de") {

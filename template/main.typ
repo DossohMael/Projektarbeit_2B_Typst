@@ -23,15 +23,44 @@
 
 = Einleitung
 
-#lorem(100)
-
-#lorem(101)
-
-#lorem(100)
+== Motivation und Ziel der Arbeit
+== Relevanz des Themas für kleine Unternehmen
+== Aufbau der Arbeit (Geplantes Vorgehen)
 
 = Grundlagen und Begriffsdefinitionen
+== Relevante Normen und Standards (z.B. ISO, IEEE)
+== Effizienz und Effektivität in der Prozessoptimierung
+== Methoden zur Identifikation von Schwachstellen
+== Dokumentationspflicht gegenüber Auftraggebern
+== Definition und Bedeutung von Entwicklungs-, Test- und Release-Prozessen
+== Überblick gängiger Tools in der Softwareentwicklung
 
-#lorem(30)
+= Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
+== Durchführung einer Mitarbeiterumfrage (z.B. mittels Microsoft Forms)
+== Auswertung des Mitarbeiterfeedbacks
+== Beschreibung der aktuellen Prozesse
+== Visuelle Darstellung der Prozesse (Diagramme und Flussdiagramme)
+== Analyse der Effizienz und Effektivität der bestehenden Prozesse
+
+= Einarbeitung von Mitarbeitern
+== Bedeutung der Einarbeitung neuer Mitarbeiter
+== Bestehende Einarbeitungsprozesse
+== Dokumentation und Schulungsmaterialien
+
+= Vorschläge zur Prozessoptimierung
+== Basierend auf den Ergebnissen der Mitarbeiterumfrage und der Analyse, sowie auf Industriestandards und Best Practices
+== Anpassung dieser Normen für die spezifischen Bedürfnisse des Kleinunternehmens
+==     - Identifikation und Priorisierung von Verbesserungspotentialen
+== Implementierung und Anpassung von gängigen Tools der Softwareentwicklung (z.B. Jira, Git, CI/CD-Pipelines)
+== (Vielleicht?) Kosten-Nutzen-Analyse der vorgeschlagenen Maßnahmen 
+== (Vielleicht?) Vorschläge zur Optimierung der Einarbeitung
+
+
+= Schlussfolgerung und Ausblick
+== Zusammenfassung der wichtigsten Erkenntnisse
+== Bewertung der vorgeschlagenen Maßnahmen
+== Ausblick auf zukünftige Entwicklungen und weitere Optimierungsmöglichkeiten
+
 
 == Acronyms
 

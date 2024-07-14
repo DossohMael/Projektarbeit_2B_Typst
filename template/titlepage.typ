@@ -149,22 +149,26 @@
     gutter: 11pt,
 
     // students
-    text(weight: "semibold", if (language == "de") {
-      [Matrikelnummer, Kurs:]
+    text(weight: "regular", if (language == "de") {
+      "Matrikelnummer:"
+      linebreak()
+      "Kurs:"
     } else {
       [Student ID, Course:]
     }),
     stack(
       dir: ttb,
       for author in authors {
-        text([#author.student-id, #author.course])
+        text([#author.student-id])
+        linebreak()
+        text([#author.course])
         linebreak()
       }
     ),
 
     // company
     if (not at-university) {
-      text(weight: "semibold", if (language == "de") {
+      text(weight: "regular", if (language == "de") {
         "Ausbildungsfirma:"
       } else {
         "Company:"
@@ -225,7 +229,7 @@
     // supervisor
     // company
     if ("company" in supervisor) {
-      text(weight: "semibold", if (language == "de") {
+      text(weight: "regular", if (language == "de") {
         "Betreuer im Unternehmen:"
       } else {
         "Supervisor in the Company:"
@@ -237,8 +241,9 @@
 
     // university
     if ("university" in supervisor) {
-      text(weight: "semibold", if (language == "de") {
-        "Betreuer an der DHBW:"
+      text(weight: "regular", if (language == "de") {
+        // "Betreuer an der DHBW:"
+        "Gutachter der Studienakademie"
       } else {
         "Supervisor at DHBW:"
       })

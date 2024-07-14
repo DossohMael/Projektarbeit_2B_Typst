@@ -13,7 +13,7 @@
   bibliography: bibliography("sources.bib", style: "institute-of-electrical-and-electronics-engineers"),
   date: datetime.today(),
   language: "de", // en, de
-  supervisor: (company:"Schweikert Benno"),
+  supervisor: (company:"Schweikert Benno", university: "Strand Marcus"),
   university: "Dualen Hochschule Baden-Württemberg",
   university-location: "Karlsruhe",
   // for more options check the package documentation (https://typst.app/universe/package/supercharged-dhbw)

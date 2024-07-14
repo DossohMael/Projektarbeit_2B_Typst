@@ -13,7 +13,7 @@
   authors: (),
   language: none,
   at-university: none,
-  type-of-thesis: "Projektarbeit",
+  type-of-thesis: "PROJEKTARBEIT",
   type-of-degree: "Bachelor of Science",
   show-confidentiality-statement: true,
   show-declaration-of-authorship: true,

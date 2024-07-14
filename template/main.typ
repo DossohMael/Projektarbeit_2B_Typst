@@ -13,7 +13,7 @@
   bibliography: bibliography("sources.bib", style: "institute-of-electrical-and-electronics-engineers"),
   date: datetime.today(),
   language: "de", // en, de
-  supervisor: (company:"Schweikert Benno", university: "Strand Marcus"),
+  supervisor: (company:"M.Sc. Benno Schweikert", university: "Prof. Dr. Marcus Strand"),
   university: "Dualen Hochschule Baden-Württemberg",
   university-location: "Karlsruhe",
   // for more options check the package documentation (https://typst.app/universe/package/supercharged-dhbw)
@@ -24,6 +24,8 @@
 = Einleitung
 
 == Motivation und Ziele der Arbeit
+Um die Einarbeitung neuer Mitarbeiter zu erleichtern und die Dokumentationspflicht gegenüber Auftraggebern zu erfüllen, sollen die bestehenden Entwicklungs-, Test- und Release-Prozesse identifiziert und gemäß den Normen, wie beispielsweise ISO 9000 und ISO 25000, dokumentiert werden. Zusätzlich sollen mögliche Verbesserungspotentiale aufgedeckt und dargestellt werden, um die Effizienz und Effektivität der Prozesse zu steigern.
+
 == Relevanz des Themas für kleine Unternehmen
 == Aufbau der Arbeit (Geplantes Vorgehen)
  - Grundlagen und Begriffsdefinitionen

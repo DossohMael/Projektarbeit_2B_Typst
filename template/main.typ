@@ -23,9 +23,15 @@
 
 = Einleitung
 
-== Motivation und Ziel der Arbeit
+== Motivation und Ziele der Arbeit
 == Relevanz des Themas für kleine Unternehmen
 == Aufbau der Arbeit (Geplantes Vorgehen)
+ - Grundlagen und Begriffsdefinitionen
+ - Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
+ - Einarbeitung von Mitarbeitern
+ - Vorschläge zur Prozessoptimierung
+ - Schlussfolgerung und Ausblick #cite(form: "prose", <iso18004>)
+
 
 = Grundlagen und Begriffsdefinitionen
 == Relevante Normen und Standards (z.B. ISO, IEEE)
@@ -47,14 +53,12 @@
 == Bestehende Einarbeitungsprozesse
 == Dokumentation und Schulungsmaterialien
 
-= Vorschläge zur Prozessoptimierung
-== Basierend auf den Ergebnissen der Mitarbeiterumfrage und der Analyse, sowie auf Industriestandards und Best Practices
-== Anpassung dieser Normen für die spezifischen Bedürfnisse des Kleinunternehmens
-==     - Identifikation und Priorisierung von Verbesserungspotentialen
+= Vorschläge zur Prozessoptimierung (Basierend auf den Ergebnissen der Mitarbeiterumfrage, der Analyse, sowie auf Industriestandards)
+== Anpassung dieser Normen auf die Bedürfnisse eines Kleinunternehmens
+== Identifikation und Priorisierung von Verbesserungspotentialen
 == Implementierung und Anpassung von gängigen Tools der Softwareentwicklung (z.B. Jira, Git, CI/CD-Pipelines)
 == (Vielleicht?) Kosten-Nutzen-Analyse der vorgeschlagenen Maßnahmen 
 == (Vielleicht?) Vorschläge zur Optimierung der Einarbeitung
-
 
 = Schlussfolgerung und Ausblick
 == Zusammenfassung der wichtigsten Erkenntnisse

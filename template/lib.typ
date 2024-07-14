@@ -304,9 +304,9 @@
   [#metadata(none)<end>]
   // reset page numbering and set to alphabetic numbering
   set page(
-    numbering: "a",
+    numbering: "I",
     footer: context align(numbering-alignment, numbering(
-      "a", 
+      "I", 
       ..counter(page).get(),
     ))
   )
@@ -315,7 +315,7 @@
   // Display bibliography.
   if bibliography != none {
     set std-bibliography(title: [#if (language == "de") {
-      [Literatur]
+      [Literaturverzeichnis]
     } else {
       [References]
     }], style: bib-style)

@@ -9,25 +9,25 @@
   many-authors,
   date-format
 ) = {
-  v(2em)
-  text(size: 20pt, weight: "bold", if (language == "de") {
+  v(20em)
+  text(size: 12pt, weight: "bold", if (language == "de") {
     "Sperrvermerk"
   } else {
     "Confidentiality Statement"
   })
-  v(1em)
-  if (confidentiality-statement-content != none) {
-    confidentiality-statement-content
-  } else {
-    text(if (language == "de") {
-      "Die vorliegende Arbeit mit dem Titel"
-    } else {
-      "The Thesis on hand"
-    })
-    v(1em)
-    align(center,
-      text(weight: "bold", title)
-    )
+  // v(1em)
+  // if (confidentiality-statement-content != none) {
+  //   confidentiality-statement-content
+  // } else {
+  //   text(if (language == "de") {
+  //     "Die vorliegende Arbeit mit dem Titel"
+  //   } else {
+  //     "The Thesis on hand"
+  //   })
+    // v(1em)
+    // align(center,
+    //   // text(weight: "bold", title)
+    // )
     v(1em)
     let insitution
     let companies
@@ -47,9 +47,10 @@
       companies = authors.map(author => author.company.name).dedup().join(", ", last: " and ")
     }
     par(justify: true, [#if (language == "de") {
-      [enthält unternehmensinterne bzw. vertrauliche Informationen der #companies, ist deshalb mit einem Sperrvermerk versehen und wird ausschließlich zu Prüfungszwecken am Studiengang #authors.map(author => author.course-of-studies).dedup().join(" | ") der #university #university-location vorgelegt.
+      [
+      // enthält unternehmensinterne bzw. vertrauliche Informationen der #companies, ist deshalb mit einem Sperrvermerk versehen und wird ausschließlich zu Prüfungszwecken am Studiengang #authors.map(author => author.course-of-studies).dedup().join(" | ") der #university #university-location vorgelegt.
 
-      Der Inhalt dieser Arbeit darf weder als Ganzes noch in Auszügen Personen außerhalb des Prüfungsprozesses und des Evaluationsverfahrens zugänglich gemacht werden, sofern keine anders lautende Genehmigung der #insitution (#companies) vorliegt.]
+      Der Inhalt dieser Arbeit darf weder als Ganzes noch in Auszügen Personen außerhalb des Prüfungsprozesses und des Evaluationsverfahrens zugänglich gemacht werden, sofern keine anders lautende Genehmigung der Ausbildungsstätte vorliegt.]
     } else {
       [contains internal respective confidential data of #companies. It is intended solely for inspection by the assigned examiner, the head of the #authors.map(author => author.course-of-studies).dedup().join(" | ") department and, if necessary, the Audit Committee at the #university #university-location.
 
@@ -57,35 +58,35 @@
     }])
   }
 
-  let end-date = if (type(date) == datetime) {
-    date
-  } else {
-    date.at(1)
-  }
+  // let end-date = if (type(date) == datetime) {
+  //   date
+  // } else {
+  //   date.at(1)
+  // }
 
-  v(2em)
-  text([#if (language == "de") {
-    [#authors.map(author => author.company.city).dedup().join(", ", last: " und "), #end-date.display(date-format)]
-  } else {
-    [#authors.map(author => author.company.city).dedup().join(", ", last: " and "), #end-date.display(date-format)]
-  }])
+  // v(2em)
+  // text([#if (language == "de") {
+  //   [#authors.map(author => author.company.city).dedup().join(", ", last: " und "), #end-date.display(date-format)]
+  // } else {
+  //   [#authors.map(author => author.company.city).dedup().join(", ", last: " and "), #end-date.display(date-format)]
+  // }])
 
-  v(0.5em)
-  if (many-authors) {
-    grid(
-      columns: (1fr, 1fr),
-      gutter: 20pt,
-      ..authors.map(author => {
-        v(3.5em)
-        line(length: 80%)
-        author.name
-      })
-    )
-  } else {
-    for author in authors {
-      v(4em)
-      line(length: 40%)
-      author.name
-    }
-  }
+  // v(0.5em)
+  // if (many-authors) {
+  //   grid(
+  //     columns: (1fr, 1fr),
+  //     gutter: 20pt,
+  //     ..authors.map(author => {
+  //       v(3.5em)
+  //       line(length: 80%)
+  //       author.name
+  //     })
+  //   )
+  // } else {
+  //   for author in authors {
+  //     v(4em)
+  //     line(length: 40%)
+  //     author.name
+  //   }
+  // }
 }

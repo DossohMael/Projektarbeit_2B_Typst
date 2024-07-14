@@ -1,24 +1,19 @@
 #let declaration-of-authorship(authors, title, date, language, many-authors, at-university, city, date-format) = {
   pagebreak()
-  v(2em)
-  text(size: 20pt, weight: "bold", if (language == "de") {
+// v(2em)
+  text(size: 12pt, weight: "bold", if (language == "de") {
     "Erklärung"
   } else {
     "Declaration of Authorship"
   })
 
-  v(1em)
+  // v(1em)
   if (language == "de") {
     par(justify: true, [
-      (gemäß §5(3) der „Studien- und Prüfungsordnung DHBW Technik“ vom 29. 9. 2017) Ich versichere hiermit, dass ich meine Projektarbeit mit dem Thema:"
+      (gemäß §5(3) der „Studien- und Prüfungsordnung DHBW Technik“ vom 29. 9. 2017) Ich versichere hiermit, dass ich meine Projektarbeit mit dem Thema:
     ])
 
-    //Function to insert TODOs outline
-    let todo_outline = outline(
-    title: [Add Quotes to Tile],
-    target: figure.where(kind: "todo")
-    )
-      text(weight: "bold", title,)
+    text(weight: "bold", "„"+title+"“")
 
     par(justify: true, [
       selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Ich versichere zudem, dass die eingereichte elektronische Fassung mit der gedruckten Fassung übereinstimmt.
@@ -43,7 +38,7 @@
     date.at(1)
   }
 
-  v(4em)
+  v(6em)
   if (at-university) {
     text([#city, #end-date.display(date-format)])
   } else {
@@ -72,8 +67,8 @@
       grid(
         columns: (1fr,auto),
         rows: (auto),
-        align(left)["Ort,Datum"],
-        align(right)["Unterschrift"]
+        align(left)[Ort,Datum],
+        align(right)[Unterschrift]
         )
     
     }

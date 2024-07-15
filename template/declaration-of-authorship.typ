@@ -10,13 +10,9 @@
   // v(1em)
   if (language == "de") {
     par(justify: true, [
-      (gemäß §5(3) der „Studien- und Prüfungsordnung DHBW Technik“ vom 29. 9. 2017) Ich versichere hiermit, dass ich meine Projektarbeit mit dem Thema:
-    ])
-
-    text(weight: "bold", "„"+title+"“")
-
-    par(justify: true, [
-      selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Ich versichere zudem, dass die eingereichte elektronische Fassung mit der gedruckten Fassung übereinstimmt.
+      "(gemäß §5(3) der „Studien- und Prüfungsordnung DHBW Technik“ vom 29. 9. 2017) Ich versichere hiermit, dass ich meine Projektarbeit mit dem Thema: 
+      #text(weight: "bold","„" + title + "“"),
+      "selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Ich versichere zudem, dass die eingereichte elektronische Fassung mit der gedruckten Fassung übereinstimmt.
     ])
   } else {
     par(justify: true, [

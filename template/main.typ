@@ -37,10 +37,12 @@ Um die Einarbeitung neuer Mitarbeiter zu erleichtern und die Dokumentationspflic
 
 = Grundlagen und Begriffsdefinitionen
 == Relevante Normen und Standards (z.B. ISO, IEEE)
+== Definition von Prozessen
+
+== Definition und Bedeutung von Entwicklungs-, Test- und Release-Prozessen
 == Effizienz und Effektivität in der Prozessoptimierung
 == Methoden zur Identifikation von Schwachstellen
 == Dokumentationspflicht gegenüber Auftraggebern
-== Definition und Bedeutung von Entwicklungs-, Test- und Release-Prozessen
 == Überblick gängiger Tools in der Softwareentwicklung
 
 = Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse

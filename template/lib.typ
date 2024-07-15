@@ -216,6 +216,7 @@
     outline(
       title: [#heading(level:2, outlined: true)[#if (language == "de") {
       [Inhaltsverzeichnis]
+
     } else {
       [Table of Contents]
     }]], 
@@ -303,11 +304,11 @@
   set page(
     numbering: "I",
     footer: context align(numbering-alignment, numbering(
-      "I", 
-      ..counter(page).get(),
+      "I",
+      ..counter(page).at(<end>),
     ))
   )
-  counter(page).update(1)
+  counter(page).update(7)
 
   // Display bibliography.
   if bibliography != none {

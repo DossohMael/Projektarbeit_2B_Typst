@@ -24,7 +24,11 @@
 = Einleitung
 
 == Motivation und Ziele der Arbeit
-Um die Einarbeitung neuer Mitarbeiter zu erleichtern und die Dokumentationspflicht gegenüber Auftraggebern zu erfüllen, sollen die bestehenden Entwicklungs-, Test- und Release-Prozesse identifiziert und gemäß den Normen, wie beispielsweise ISO 9000 und ISO 25000, dokumentiert werden. Zusätzlich sollen mögliche Verbesserungspotentiale aufgedeckt und dargestellt werden, um die Effizienz und Effektivität der Prozesse zu steigern.
+
+Die vorliegende Arbeit verfolgt das Ziel die Softwareentwiklungs-Prozesse eines Kleinunternehmens zu analysieren und potentielle Verbesserungspotentiale aufzudecken.
+Dadurch soll Einarbeitung neuer Mitarbeiter der Softwareentwicklungsabteilung eines Kleinunternehmens zu optimieren und dabei Dokumentationspflichten gegenüber Auftraggebern zu erfüllen. Dazu ist es erforderlich, die bestehenden Entwicklungs-, Test- und Release-Prozesse zu identifizieren und gemäß den einschlägigen Normen, wie beispielsweise der ISO 9000 und der ISO 25000, zu dokumentieren. Die genannten Normen legen insbesondere Wert auf einen prozessorientierten Ansatz, welcher zur systematischen Verbesserung und Kontrolle von Geschäftsprozessen beiträgt. Wie Deming bereits feststellte, sind Prozesse und Qualitätsmanagement von entscheidender Bedeutung, um die Effizienz und Effektivität von Abläufen zu steigern. Die Definition und Dokumentation klarer Prozesse führt zu einer Verbesserung der Konsistenz und Zuverlässigkeit der Arbeitsergebnisse. Zudem wird die Transparenz und Nachvollziehbarkeit für alle Beteiligten erhöht. Wie Juran hervorhob, bedeutet Qualität, das Richtige richtig zu tun, wenn niemand zusieht. Die Einhaltung von Qualitätsstandards, wie beispielsweise ISO 9000 und ISO 25000, kann Unternehmen dabei unterstützen, die Qualität ihrer Produkte und Dienstleistungen zu sichern und kontinuierlich zu optimieren.
+
+Die Implementierung eines formellen Qualitätsmanagementsystems stellt für kleine Unternehmen oft eine Herausforderung dar. Oftmals fehlt es an einer klaren Organisation und Struktur, da diese Unternehmen vermeintlich zu klein sind, um umfassende Systeme effektiv durchzuführen. Dennoch kann die Einführung vereinfachter Versionen dieser Normen erheblich zur Verbesserung der internen Abläufe beitragen. Wie Crosby feststellte, müssen kleine Unternehmen zwar flexibel und innovativ sein, dies bedeutet jedoch nicht, dass sie auf strukturierte Prozesse verzichten können. Ein pragmatischer Ansatz, der die spezifischen Bedürfnisse und Ressourcen kleiner Unternehmen berücksichtigt, kann diesen helfen, die Vorteile des Qualitätsmanagements zu nutzen, ohne dabei übermäßig belastet zu werden.
 
 == Relevanz des Themas für kleine Unternehmen
 == Aufbau der Arbeit (Geplantes Vorgehen)
@@ -36,9 +40,8 @@ Um die Einarbeitung neuer Mitarbeiter zu erleichtern und die Dokumentationspflic
 
 
 = Grundlagen und Begriffsdefinitionen
-== Relevante Normen und Standards (z.B. ISO, IEEE)
 == Definition von Prozessen
-
+== Relevante Normen und Standards (z.B. ISO, IEEE)
 == Definition und Bedeutung von Entwicklungs-, Test- und Release-Prozessen
 == Effizienz und Effektivität in der Prozessoptimierung
 == Methoden zur Identifikation von Schwachstellen

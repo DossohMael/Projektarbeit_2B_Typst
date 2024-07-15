@@ -120,7 +120,7 @@
   
   show heading.where(level: 1): it => {
     pagebreak()
-    v(2em) + it + v(1em)
+    v(0.1em) + it + v(0.1em)
   }
   show heading.where(level: 2): it => v(1em) + it + v(0.5em)
   show heading.where(level: 3): it => v(0.5em) + it + v(0.25em)
@@ -171,16 +171,7 @@
       }
     }
   )
-
-  // set page numbering to roman numbering
-  set page(
-    numbering: "I",
-    number-align: numbering-alignment,
-  )
-  counter(page).update(1)
-
   
-
   if (show-declaration-of-authorship) {
     declaration-of-authorship(
       authors,
@@ -207,12 +198,18 @@
       date-format
     )
   }
+  // set page numbering to roman numbering
+  set page(
+    numbering: "I",
+    number-align: numbering-alignment,
+  )
+  counter(page).update(1)
 
   show outline.entry.where(
     level: 1,
   ): it => {
-    v(18pt, weak: true)
-    strong(it)
+    v(10pt, weak: true)
+    text(weight: "regular",it)
   }
 
   if (show-table-of-contents) {

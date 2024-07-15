@@ -217,11 +217,11 @@
 
   if (show-table-of-contents) {
     outline(
-      title: [#if (language == "de") {
+      title: [#heading(level:2, outlined: true)[#if (language == "de") {
       [Inhaltsverzeichnis]
     } else {
       [Table of Contents]
-    }], 
+    }]], 
     indent: auto, depth: toc-depth)
   }
   
@@ -231,7 +231,7 @@
     
     if (show-list-of-figures and count > 0) {
       outline(
-        title: [#heading(level: 2)[#if (language == "de") {
+        title: [#heading(level: 2, outlined: true)[#if (language == "de") {
           [Abbildungsverzeichnis]
         } else {
           [List of Figures]
@@ -247,7 +247,7 @@
 
     if (show-list-of-tables and count > 0) {
       outline(
-        title: [#heading(level: 3)[#if (language == "de") {
+        title: [#heading(level: 2, outlined: true)[#if (language == "de") {
           [Tabellenverzeichnis]
         } else {
           [List of Tables]
@@ -263,7 +263,7 @@
 
     if (show-code-snippets and count > 0) {
       outline(
-        title: [#heading(level: 3)[#if (language == "de") {
+        title: [#heading(level: 2, outlined: true)[#if (language == "de") {
           [Listingzeichnis]
         } else {
           [Code Snippets]

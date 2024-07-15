@@ -70,75 +70,75 @@ Um die Einarbeitung neuer Mitarbeiter zu erleichtern und die Dokumentationspflic
 == Ausblick auf zukünftige Entwicklungen und weitere Optimierungsmöglichkeiten
 
 
-// == Acronyms
+== Acronyms
 
-// Use the `acr` function to insert acronyms, which looks like this #acr("HTTP").
+Use the `acr` function to insert acronyms, which looks like this #acr("HTTP").
 
-// #acrlpl("API") are used to define the interaction between different software systems.
+#acrlpl("API") are used to define the interaction between different software systems.
 
-// #acrs("REST") is an architectural style for networked applications.
+#acrs("REST") is an architectural style for networked applications.
 
-// #acrs("URL") is a reference to a web resource.
+#acrs("URL") is a reference to a web resource.
 
-// == Lists
+== Lists
 
-// Create bullet lists or numbered lists.
+Create bullet lists or numbered lists.
 
-// - These bullet
-// - points
-// - are colored
+- These bullet
+- points
+- are colored
 
-// + It also
-// + works with
-// + numbered lists!
++ It also
++ works with
++ numbered lists!
 
-// == Figures and Tables
+== Figures and Tables
 
-// Create figures or tables like this:
+Create figures or tables like this:
 
-// === Figures
+=== Figures
 
-// #figure(caption: "Image Example", image(width: 4cm, "assets/ts.svg"))
-// #figure(caption: "Image Example", image(width: 4cm, "dhbw.svg"))
+#figure(caption: "Image Example", image(width: 4cm, "figures/ts.svg"))
+#figure(caption: "Image Example", image(width: 4cm, "figures/dhbw.svg"))
 
-// === Tables
+=== Tables
 
-// #figure(caption: "Table Example", table(
-//   columns: (1fr, auto, auto),
-//   inset: 10pt,
-//   align: horizon,
-//   table.header(
-//     [*Names*], [*Area*], [*Parameters*],
-//   ),
-//   text("cylinder.svg"),
-//   $ pi h (D^2 - d^2) / 4 $,
-//   [
-//     $h$: height \
-//     $D$: outer radius \
-//     $d$: inner radius
-//   ],
-//   text("tetrahedron.svg"),
-//   $ sqrt(2) / 12 a^3 $,
-//   [$a$: edge length]
-// ))<table>
+#figure(caption: "Table Example", table(
+  columns: (1fr, auto, auto),
+  inset: 10pt,
+  align: horizon,
+  table.header(
+    [*Names*], [*Area*], [*Parameters*],
+  ),
+  text("cylinder.svg"),
+  $ pi h (D^2 - d^2) / 4 $,
+  [
+    $h$: height \
+    $D$: outer radius \
+    $d$: inner radius
+  ],
+  text("tetrahedron.svg"),
+  $ sqrt(2) / 12 a^3 $,
+  [$a$: edge length]
+))<table>
 
-// == Code Snippets
+== Code Snippets
 
-// Insert code snippets like this:
+Insert code snippets like this:
 
-// #figure(caption: "Codeblock Example", sourcecode[```typ
-// #show "ArtosFlow": name => box[
-//   #box(image(
-//     "logo.svg",
-//     height: 0.7em,
-//   ))
-//   #name
-// ]
+#figure(caption: "Codeblock Example", sourcecode[```typ
+#show "ArtosFlow": name => box[
+  #box(image(
+    "logo.svg",
+    height: 0.7em,
+  ))
+  #name
+]
 
-// This report is embedded in the
-// ArtosFlow project. ArtosFlow is a
-// project of the Artos Institute.
-// ```])
+This report is embedded in the
+ArtosFlow project. ArtosFlow is a
+project of the Artos Institute.
+```])
 
 == References
 

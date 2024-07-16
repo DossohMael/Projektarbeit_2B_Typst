@@ -4,4 +4,5 @@
   REST: "Representational State Transfer",
   URL: "Uniform Resource Locator",
   QM: "Qualitätsmanagement",
+  QMS: "Qualitätsmanagement-System(e)",
 )

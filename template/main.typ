@@ -10,7 +10,7 @@
   ),
   acronyms: acronyms, // displays the acronyms defined in the acronyms dictionary
   at-university: false, // if true the company name on the title page and the confidentiality statement are hidden
-  bibliography: bibliography("sources.bib", style: "institute-of-electrical-and-electronics-engineers"),
+  bibliography: bibliography("sources.bib", style: "../din-1505-2-alphanumeric.csl"),
   date: datetime.today(),
   language: "de", // en, de
   supervisor: (company:"M.Sc. Benno Schweikert", university: "Prof. Dr. Marcus Strand"),
@@ -25,6 +25,9 @@
 
 == Motivation und Ziele der Arbeit
 
+  Die Disziplin des #acrlpl("QM") (#acrs("QM")) hat sich über die Jahre erheblich weiterentwickelt und umfasst heute eine breite Palette von Prinzipien, Methoden und Techniken, die darauf abzielen, die Qualität von Produkten und Dienstleistungen sicherzustellen und zu verbessern. Vor dem 20. Jahrhundert erfolge die Sicherung von Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister, der für die Endqualität der hergestellten Waren verantwortlich war. Diese Vorgehensweise wurde jedoch mit der industriellen Revolution und der damit einhergehenden Massenproduktion zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. Insbesondere in der Automobilindustrie, aber auch in anderen Branchen, wurden Qualitätsmanagement-Systeme eingeführt, um die Qualität der Produkte zu sichern und zu verbessern. Heute sind Qualitätsmanagement-Systeme in vielen Branchen Standard und werden von Unternehmen genutzt, um die Kundenzufriedenheit zu steigern und die Wettbewerbsfähigkeit zu erhöhen.
+
+
 Die vorliegende Arbeit verfolgt das Ziel die Softwareentwiklungs-Prozesse eines Kleinunternehmens zu analysieren und potentielle Verbesserungspotentiale aufzudecken.
 Dadurch soll Einarbeitung neuer Mitarbeiter der Softwareentwicklungsabteilung eines Kleinunternehmens zu optimieren und dabei Dokumentationspflichten gegenüber Auftraggebern zu erfüllen. Dazu ist es erforderlich, die bestehenden Entwicklungs-, Test- und Release-Prozesse zu identifizieren und gemäß den einschlägigen Normen, wie beispielsweise der ISO 9000 und der ISO 25000, zu dokumentieren. Die genannten Normen legen insbesondere Wert auf einen prozessorientierten Ansatz, welcher zur systematischen Verbesserung und Kontrolle von Geschäftsprozessen beiträgt. Wie Deming bereits feststellte, sind Prozesse und Qualitätsmanagement von entscheidender Bedeutung, um die Effizienz und Effektivität von Abläufen zu steigern. Die Definition und Dokumentation klarer Prozesse führt zu einer Verbesserung der Konsistenz und Zuverlässigkeit der Arbeitsergebnisse. Zudem wird die Transparenz und Nachvollziehbarkeit für alle Beteiligten erhöht. Wie Juran hervorhob, bedeutet Qualität, das Richtige richtig zu tun, wenn niemand zusieht. Die Einhaltung von Qualitätsstandards, wie beispielsweise ISO 9000 und ISO 25000, kann Unternehmen dabei unterstützen, die Qualität ihrer Produkte und Dienstleistungen zu sichern und kontinuierlich zu optimieren.
 
@@ -36,7 +39,7 @@ Die Implementierung eines formellen Qualitätsmanagementsystems stellt für klei
  - Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
  - Einarbeitung von Mitarbeitern
  - Vorschläge zur Prozessoptimierung
- - Schlussfolgerung und Ausblick #cite(form: "prose", <iso18004>)
+ - Schlussfolgerung und Ausblick
 
 
 = Grundlagen und Begriffsdefinitionen
@@ -143,12 +146,12 @@ ArtosFlow project. ArtosFlow is a
 project of the Artos Institute.
 ```])
 
-== References
+// == References
 
-Cite like this #cite(form: "prose", <iso18004>).
-Or like this @iso18004.
-You can also reference by adding `<ref>` with the desired name after figures or headings.
+// Cite like this #cite(form: "prose", <iso18004>).
+// Or like this @iso18004.
+// You can also reference by adding `<ref>` with the desired name after figures or headings.
 
-Or like this #cite(form: "prose", <forstandardizationiso2005isoiec>)
+// Or like this #cite(form: "prose", <forstandardizationiso2005isoiec>)
 
 // For example this @table references the table on the previous page.

@@ -6,4 +6,5 @@
   QM: "Qualitätsmanagement",
   QMS: "Qualitätsmanagementsystem",
   KMU: "Kleine und mittlere Unternehmen",
+  ISO: "International Organization for Standardization",
 )

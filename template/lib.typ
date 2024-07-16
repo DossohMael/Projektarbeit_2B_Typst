@@ -301,11 +301,12 @@
 
   [#metadata(none)<end>]
   // reset page numbering and set to alphabetic numbering
+  counter(page).update(7)
   set page(
     numbering: "I",
     footer: context align(numbering-alignment, numbering(
       "I",
-      ..counter(page).at(<end>),
+      ..counter(page).get(),
     ))
   )
   counter(page).update(7)

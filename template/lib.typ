@@ -301,7 +301,6 @@
 
   [#metadata(none)<end>]
   // reset page numbering and set to alphabetic numbering
-  counter(page).update(7)
   set page(
     numbering: "I",
     footer: context align(numbering-alignment, numbering(
@@ -309,6 +308,8 @@
       ..counter(page).get(),
     ))
   )
+
+  // set page numberung of references
   counter(page).update(7)
 
   // Display bibliography.

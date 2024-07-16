@@ -10,7 +10,7 @@
   ),
   acronyms: acronyms, // displays the acronyms defined in the acronyms dictionary
   at-university: false, // if true the company name on the title page and the confidentiality statement are hidden
-  bibliography: bibliography("sources.bib", style: "../din-1505-2-alphanumeric.csl"),
+  bibliography: bibliography("sources.bib", style: "./din-1505-2-alphanumeric.csl"),
   date: datetime.today(),
   language: "de", // en, de
   supervisor: (company:"M.Sc. Benno Schweikert", university: "Prof. Dr. Marcus Strand"),

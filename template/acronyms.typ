@@ -4,5 +4,6 @@
   REST: "Representational State Transfer",
   URL: "Uniform Resource Locator",
   QM: "Qualitätsmanagement",
-  QMS: "Qualitätsmanagement-System(e)",
+  QMS: "Qualitätsmanagementsystem",
+  KMU: "Kleine und mittlere Unternehmen",
 )

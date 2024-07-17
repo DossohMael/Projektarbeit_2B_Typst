@@ -25,7 +25,7 @@
   show-appendix: false,
   show-abstract: true,
   show-header: true,
-  numbering-alignment: center,
+  numbering-alignment: right,
   toc-depth: 3,
   acronym-spacing: 5em,
   abstract: none,

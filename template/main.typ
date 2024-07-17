@@ -37,7 +37,17 @@ Das Bayerische Staatsministerium für Wirtschaft und Medien, Energie und Technol
 
 Demnach kann die Einführung von Richtlinien auch für #acrs("KMU") einen wesentlichen Beitrag zur Verbesserung der internen Abläufe leisten. 
 
-//Die Firma ProSystems GmbH, ProSystems ist der Partner für Systemberatung und Softwareentwicklung sowie autorisierter und zertifizierter Entwickler für das Niagara 4 Framework® von Tridium in Deutschland
+Die vorliegende Arbeit verfolgt daher folgende Ziele: Im ersten Schritt wird das bestehende #acrs("QMS") eines Kleinunternehmens analysiert. Dies wird anhand des Beispiels des Kleinunternehmens ProSystems GmbH, welches Softwarelösungen für mittelständische Unternehmen entwickelt, erläutert. Das Unternehmen ist auf Systemintegration spezialisiert und bietet Dienstleistungen wie die Durchführung kompletter IT-basierter Automatisierungsprojekte sowie die Integration von Produktionsplannungs-, Fertigungssteuerungs- oder Unternehmensressourcen-Planungs-Systemen @prosy170724
+
+Die Zielsetzung besteht in der Vereinfahung der Einarbeitung neuer Mitglieder sowie der Erfüllung der Dokumentationsflicht gegenüber Auftraggebern.  
+
+Von besonderer Relevanz für die vorliegende Arbeit sind die internen Entwicklungs-, Test- und Release-Prozesse, welche einer fortwährenden Optimierung und Erweiterung unterliegen, um neue Kompetenzbereiche und zusätzliche Dienstleistungen abzudecken.
+
+
+
+Dazu ist es erforderlich, die bestehenden Entwicklungs-, Test- und Release-Prozesse zu identifizieren und gemäß den einschlägigen Normen, wie beispielsweise der ISO 9000 und der ISO 25000, zu dokumentieren.  
+
+Des Weiteren ist die Erarbeitung von Verbesserungsvorschlägen gemäß den ausgewählten Normen für die bestehenden Prozesse erforderlich. Hierbei ist ein besonderes Augenmerk auf den prozessorientierten Ansatz (Process Approach, PA) zu legen. Die Definition und Dokumentation klarer Prozesse führt zu einer Verbesserung der Konsistenz und Zuverlässigkeit der Arbeitsergebnisse.
 
 Die vorliegende Arbeit verfolgt daher die Ziele, das bestehende #acrs("QMS") eines Unternehmens zu analysieren um Verbesserungspotentiale zu errabeiten, mit dem Ziel die Effizienz und Effektivität der Abläufe zu steigern.Softwareentwiklungs-Prozesse eines Kleinunternehmens zu analysieren und potentielle Verbesserungspotentiale aufzudecken.
 Dadurch soll Einarbeitung neuer Mitarbeiter der Softwareentwicklungsabteilung eines Kleinunternehmens zu optimieren und dabei Dokumentationspflichten gegenüber Auftraggebern zu erfüllen. Dazu ist es erforderlich, die bestehenden Entwicklungs-, Test- und Release-Prozesse zu identifizieren und gemäß den einschlägigen Normen, wie beispielsweise der ISO 9000 und der ISO 25000, zu dokumentieren. Die genannten Normen legen insbesondere Wert auf einen prozessorientierten Ansatz, welcher zur systematischen Verbesserung und Kontrolle von Geschäftsprozessen beiträgt. Wie Deming bereits feststellte, sind Prozesse und Qualitätsmanagement von entscheidender Bedeutung, um die Effizienz und Effektivität von Abläufen zu steigern. Die Definition und Dokumentation klarer Prozesse führt zu einer Verbesserung der Konsistenz und Zuverlässigkeit der Arbeitsergebnisse. Zudem wird die Transparenz und Nachvollziehbarkeit für alle Beteiligten erhöht. Wie Juran hervorhob, bedeutet Qualität, das Richtige richtig zu tun, wenn niemand zusieht. Die Einhaltung von Qualitätsstandards, wie beispielsweise ISO 9000 und ISO 25000, kann Unternehmen dabei unterstützen, die Qualität ihrer Produkte und Dienstleistungen zu sichern und kontinuierlich zu optimieren.

@@ -25,19 +25,23 @@
 
 Die Disziplin des Qualitätsmanagements (#acrs("QM")) hat sich im Verlauf der Jahre erheblich weiterentwickelt und umfasst gegenwärtig eine breite Palette von Prinzipien, Methoden und Techniken. Diese zielen darauf ab, die Qualität von Produkten und Dienstleistungen sicherzustellen und zu optimieren @iso9001de. In der Zeit vor dem 20. Jahrhundert erfolgte die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde jedoch mit der industriellen Revolution und der damit einhergehenden Massenproduktion zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. Die Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) erfolgte insbesondere in der Automobilindustrie mit dem Ziel, die Qualität der produzierten Fahrzeuge zu verbessern und deren Sicherheit zu erhöhen. Die Einführung der ISO #footnote[International Organization for Standardization, https://www.iso.org/about] 9000 Normenreihe für #acrs("QMS") 
 in den 1980er Jahren führte zur Etablierung weltweit anerkannter Standards, welche bis heute verwendet und weiterentwickelt werden. Sie bilden die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9000de.
-// wie iso akkürzen?
+// wie soll ich iso am besten akkürzen?
 
-Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen (#acrs("KMU")) eine signifikante Herausforderung dar, da in diesen Unternehmensformen oftmals eine klare Organisation und Struktur fehlt, was die effektive Umsetzung umfassender #acrs("QMS") erschwert. Dennoch kann die Einführung vereinfachter Versionen von Normen einen wesentlichen Beitrag zur Verbesserung der internen Abläufe leisten. Das Bayerische Staatsministerium für Wirtschaft und Medien, Energie und Technologie betont in diesem Zusammenhang, dass @qm2015:
-#pagebreak()
-#set quote(block: true) 
-#quote["Die neue Struktur der ISO 9001 kleinen und mittleren Unternehmen (KMU) entgegen. Die Prozessorientierung der Norm ermöglicht eine strukturierte Erfassung der Tätigkeiten und dazugehöriger Ressourcen. Mit der Einführung eines QM-Systems können u.a. die Transparenz betrieblicher Abläufe erhöht, die Fehlerquoten und somit die Kosten reduziert, höhere Kundenzufriedenheit erzielt, der Marktzugang verbessert und potenzielle Risiken aufgrund von Nichtkonformitäten gesenkt werden.]
+Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen (#acrs("KMU")) eine signifikante Herausforderung dar, da in diesen Unternehmensformen oftmals eine klare Organisation und Struktur fehlt, was die effektive Umsetzung umfassender #acrs("QMS") erschwert.
+Das Bayerische Staatsministerium für Wirtschaft und Medien, Energie und Technologie betont in diesem Zusammenhang, dass @qm2015:
 
 // #pagebreak()
 
-Die vorliegende Arbeit verfolgt das Ziel die Softwareentwiklungs-Prozesse eines Kleinunternehmens zu analysieren und potentielle Verbesserungspotentiale aufzudecken.
+#set quote(block: true) 
+#quote["Mit der Einführung eines #acrs("QMS") können #acrs("KMU") u.a. die Transparenz betrieblicher Abläufe erhöht, die Fehlerquoten und somit die Kosten reduziert, höhere Kundenzufriedenheit erzielt, der Marktzugang verbessert und potenzielle Risiken aufgrund von Nichtkonformitäten gesenkt werden."]
+
+Demnach kann die Einführung von Richtlinien auch für #acrs("KMU") einen wesentlichen Beitrag zur Verbesserung der internen Abläufe leisten. 
+
+//Die Firma ProSystems GmbH, ProSystems ist der Partner für Systemberatung und Softwareentwicklung sowie autorisierter und zertifizierter Entwickler für das Niagara 4 Framework® von Tridium in Deutschland
+
+Die vorliegende Arbeit verfolgt daher die Ziele, das bestehende #acrs("QMS") eines Unternehmens zu analysieren um Verbesserungspotentiale zu errabeiten, mit dem Ziel die Effizienz und Effektivität der Abläufe zu steigern.Softwareentwiklungs-Prozesse eines Kleinunternehmens zu analysieren und potentielle Verbesserungspotentiale aufzudecken.
 Dadurch soll Einarbeitung neuer Mitarbeiter der Softwareentwicklungsabteilung eines Kleinunternehmens zu optimieren und dabei Dokumentationspflichten gegenüber Auftraggebern zu erfüllen. Dazu ist es erforderlich, die bestehenden Entwicklungs-, Test- und Release-Prozesse zu identifizieren und gemäß den einschlägigen Normen, wie beispielsweise der ISO 9000 und der ISO 25000, zu dokumentieren. Die genannten Normen legen insbesondere Wert auf einen prozessorientierten Ansatz, welcher zur systematischen Verbesserung und Kontrolle von Geschäftsprozessen beiträgt. Wie Deming bereits feststellte, sind Prozesse und Qualitätsmanagement von entscheidender Bedeutung, um die Effizienz und Effektivität von Abläufen zu steigern. Die Definition und Dokumentation klarer Prozesse führt zu einer Verbesserung der Konsistenz und Zuverlässigkeit der Arbeitsergebnisse. Zudem wird die Transparenz und Nachvollziehbarkeit für alle Beteiligten erhöht. Wie Juran hervorhob, bedeutet Qualität, das Richtige richtig zu tun, wenn niemand zusieht. Die Einhaltung von Qualitätsstandards, wie beispielsweise ISO 9000 und ISO 25000, kann Unternehmen dabei unterstützen, die Qualität ihrer Produkte und Dienstleistungen zu sichern und kontinuierlich zu optimieren.
 
-== Aufbau der Arbeit (Geplantes Vorgehen)
  - Grundlagen und Begriffsdefinitionen
  - Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
  - Einarbeitung von Mitarbeitern

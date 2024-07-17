@@ -25,21 +25,19 @@
 
 Die Disziplin des Qualitätsmanagements (#acrs("QM")) hat sich im Verlauf der Jahre erheblich weiterentwickelt und umfasst gegenwärtig eine breite Palette von Prinzipien, Methoden und Techniken. Diese zielen darauf ab, die Qualität von Produkten und Dienstleistungen sicherzustellen und zu optimieren @iso9001de. In der Zeit vor dem 20. Jahrhundert erfolgte die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde jedoch mit der industriellen Revolution und der damit einhergehenden Massenproduktion zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. Die Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) erfolgte insbesondere in der Automobilindustrie mit dem Ziel, die Qualität der produzierten Fahrzeuge zu verbessern und deren Sicherheit zu erhöhen. Die Einführung der ISO #footnote[International Organization for Standardization, https://www.iso.org/about] 9000 Normenreihe für #acrs("QMS") 
 in den 1980er Jahren kann als Meilenstein in der Entwicklung von Qualitätsmanagementskonzepten betrachtet werden. Die Konzepte des "Process approach (#acrs("PA"))", des "Plan-do-check-act (#acrs("PDCA")) cycle" sowie des "Risk-based thinking (#acrs("RBT"))" wurden in diesem Kontext maßgeblich geprägt und haben bis heute weltweit Anerkennung gefunden. Diese Prinzipien bilden die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9000de.
-
-// kann ich ISO in der Fußzeile so abkürzen?
-// sollten die konzepte in Gänzefüßen kursiv sein?
+// Kann ich ISO in der Fußzeile so abkürzen?
+// Sollten die konzepte in Gänzefüßen kursiv sein?
 
 Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen (#acrs("KMU")) eine signifikante Herausforderung dar, da in diesen Unternehmensformen oftmals eine klare Organisation und Struktur fehlt, was die effektive Umsetzung umfassender #acrs("QMS") erschwert.
 Das Bayerische Staatsministerium für Wirtschaft und Medien, Energie und Technologie betont in diesem Zusammenhang, dass @qm2015:
-
-// #pagebreak()
-
+#pagebreak()
 #set quote(block: true) 
 #quote["Mit der Einführung eines #acrs("QMS") können #acrs("KMU") u.a. die Transparenz betrieblicher Abläufe erhöht, die Fehlerquoten und somit die Kosten reduziert, höhere Kundenzufriedenheit erzielt, der Marktzugang verbessert und potenzielle Risiken aufgrund von Nichtkonformitäten gesenkt werden."]
+// Formatiereung des Paragraphen, wohin mit dem Pagebreak?
 
-Insofern kann die Implementierung von Richtlinien auch für #acrs("KMU") eine wesentliche Funktion bei der Optimierung der internen Abläufe erfüllen. Die vorliegende Arbeit zielt darauf ab, die Theorie zu überprüfen, dass die Anwendung vereinfachter Versionen anerkannter Richtlinien zu einer Steigerung der Effizienz und Effektivität von Unternehmensprozessen führt. Dazu wird eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("QMS") eines mittelständischen Unternehmens anhand etablierter Normen durchgeführt. Ziel ist es, Optimierungspotenziale zu identifizieren und darzustellen, um die Hypothese der Arbeit zu validieren. Die Erläuterung hierzu erfolgt anhand des Beispiels des Kleinunternehmens ProSystems GmbH, welches Softwarelösungen entwickelt. Das Unternehmen ist auf Systemintegration spezialisiert und bietet Dienstleistungen an, welche die vollständige Durchführung IT-basierter Automatisierungsprojekte sowie die Integration von Systemen zur Produktionsplanung, Fertigungssteuerung und Unternehmensressourcenplanung umfassen @prosy170724. Diese Arbeit untersucht, wie ProSystems GmbH durch die Implementierung vereinfachter Richtlinien ihre internen Abläufe verbessern und ihre Entwicklungs-, Test- und Release-Prozesse optimieren kann.
-
-
+Insofern kann die Implementierung von Richtlinien auch für #acrs("KMU") eine wesentliche Funktion bei der Optimierung der internen Abläufe erfüllen. Die vorliegende Arbeit verfolgt das Ziel, bestehende Unternehmensprozesse mit anerkannten Normen und Standards zu vergleichen, um deren Effizienz und Effektivität zu bewerten und mögliche Optimierungspotenziale zu identifizieren. 
+Dazu wird eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU") ProSystems GmbH anhand etablierter Normen durchgeführt. Auf Basis dieser Analyse werden Vorschläge zur Prozessoptimierung erarbeitet und Maßnahmen zur Umsetzung dieser Vorschläge vorgestellt. Das Unternehmen entwickelt Softwarelösungen und ist auf die Systemintegration spezialisiert. Es bietet Dienstleistungen an, welche die vollständige Durchführung IT-basierter Automatisierungsprojekte sowie die Integration von Systemen zur Produktionsplanung, Fertigungssteuerung und Unternehmensressourcenplanung umfassen @prosy170724. Zu analysieren sind als dessen Entwicklungs-, Test- und Release-Prozesse.
+// Satz bearbeiten, die Aufgabe besser formulieren: (Die vorliegende Arbeit zielt .... führt)
 
  - Grundlagen und Begriffsdefinitionen
  - Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse

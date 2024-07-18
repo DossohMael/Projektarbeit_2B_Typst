@@ -38,28 +38,29 @@ Das Bayerische Staatsministerium für Wirtschaft und Medien, Energie und Technol
 Insofern kann die Implementierung von Richtlinien auch für #acrs("KMU") eine wesentliche Funktion bei der Optimierung der internen Abläufe erfüllen. Die vorliegende Arbeit verfolgt das Ziel, bestehende Unternehmensprozesse mit anerkannten Normen und Standards zu vergleichen, um deren Effizienz und Effektivität zu bewerten und mögliche Optimierungspotenziale zu identifizieren. 
 Dazu wird eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU") ProSystems GmbH anhand etablierter Normen durchgeführt. Auf Basis dieser Analyse sollen Vorschläge zur Prozessoptimierung erarbeitet und Maßnahmen zur Umsetzung dieser Vorschläge vorgestellt werden. Das Unternehmen entwickelt Softwarelösungen und ist auf die Systemintegration spezialisiert. Es bietet Dienstleistungen an, welche die vollständige Durchführung IT-basierter Automatisierungsprojekte sowie die Integration von Systemen zur Produktionsplanung, Fertigungssteuerung und Unternehmensressourcenplanung umfassen @prosy170724. Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung, da die Qualität der Softwareprodukte und die Kundenzufriedenheit maßgeblich von der Effizienz und Effektivität dieser Prozesse abhängen.
 // Satz bearbeiten, die Aufgabe besser formulieren: (Die vorliegende Arbeit zielt .... führt)
-== Geplantes Vorgehen
  - Grundlagen und Begriffsdefinitionen
  - Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
  - Einarbeitung von Mitarbeitern
  - Vorschläge zur Prozessoptimierung
  - Schlussfolgerung und Ausblick
 
-
 = Grundlagen und Begriffsdefinitionen
-== Definition von Qualitätsmanagment Systemen
-== Definition von Prozessen
-== Relevante Normen und Standards (z.B. ISO, IEEE)
-== Effizienz und Effektivität in der Prozessoptimierung
-== Methoden zur Identifikation von Schwachstellen
-== Definition und Bedeutung von Entwicklungs-, Test- und Release-Prozessen
-== Wissenschaftliche Durchführung von Befragungen und Dokumentation von Prozessen
-== Dokumentationspflicht gegenüber Auftraggebern
+== Qualitätsmanagement
+== Prozessansatz
+//== Relevante Normen und Standards (z.B. ISO, IEEE)
+=== Erhebung und Dokumentation von Prozessen, Dokumentationspflicht gegenüber Auftraggebern
+=== Effizienz und Effektivität in der Prozessoptimierung
+=== Methoden zur Identifikation von Schwachstellen
+== Entwicklungs-, Test- und Release-Prozesse
 
 = Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
-== Durchführung einer Mitarbeiterumfrage (z.B. mittels Microsoft Forms)
-== Auswertung des Mitarbeiterfeedbacks
-== Erhebung und Beschreibung der aktuellen Prozesse,  sowie Darstellung dieser (Diagramme und      Flussdiagramme, BPMN, die verwendeten Notationen beschreiben)
+== Mitarbeiterumfrage 
+- Was, warum?
+=== Durchführung
+- Wie?
+=== Ergebnisse und Auswertung 
+== Erhebung und Beschreibung der aktuellen Prozesse, 
+Darstellung der aktuellen Prozesse mir Diagrammen (Flussdiagramme, BPMN)
 === Analyse der SVN und GIT Versionskontroll Systeme Repos (Trunk based und brachnbased VCS) 
 === Analyse der Bestehenden Einarbeitungsprozesse, Dokumentation und Schulungsmaterialien
 ===  Analyse der Effizienz und Effektivität der bestehenden Prozesse

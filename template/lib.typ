@@ -262,7 +262,7 @@
     if (show-code-snippets and count > 0) {
       outline(
         title: [#heading(level: 2, outlined: true)[#if (language == "de") {
-          [Listingzeichnis]
+          [Listingverzeichnis]
         } else {
           [Code Snippets]
         }]],

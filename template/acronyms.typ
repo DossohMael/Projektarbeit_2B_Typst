@@ -7,7 +7,8 @@
   QMS: "Qualitätsmanagementsystem",
   KMU: "Kleine und mittlere Unternehmen",
   ISO: "International Organization for Standardization",
-  PA: "Process approach",
+  PA: "Process Approach",
   PDCA: "Plan-Do-Check-Act",
-  RBT: "Risk-based thinking",
+  RBT: "Risk-Based Thinking",
+  KPI: "Key Performance Indicators",
 )

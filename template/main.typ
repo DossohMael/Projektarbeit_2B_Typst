@@ -45,20 +45,28 @@ Dazu wird eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU
  - Schlussfolgerung und Ausblick
 
 = Grundlagen und Begriffsdefinitionen
+
 == Qualitätsmanagement
+
 == Prozessansatz
-//== Relevante Normen und Standards (z.B. ISO, IEEE)
-=== Erhebung und Dokumentation von Prozessen, Dokumentationspflicht gegenüber Auftraggebern
+=== Erhebung und Dokumentation 
+ Dokumentationspflicht gegenüber Auftraggebern
 === Effizienz und Effektivität in der Prozessoptimierung
+Wie wird qualität gemessen? Key performance indicators
 === Methoden zur Identifikation von Schwachstellen
+
 == Entwicklungs-, Test- und Release-Prozesse
+== Kleine und mittlere Unternehmen
 
 = Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
+
 == Mitarbeiterumfrage 
-- Was, warum?
+- Was, warum? Als Anhang hinzufügen.
 === Durchführung
-- Wie?
-=== Ergebnisse und Auswertung 
+- Wie? Mit Befolgung welcher Normen und Konzepte?
+=== Ergebnisse und Auswertung
+Auswertung durch Tools, qualitativ und Quantitativ 
+
 == Erhebung und Beschreibung der aktuellen Prozesse, 
 Darstellung der aktuellen Prozesse mir Diagrammen (Flussdiagramme, BPMN)
 === Analyse der SVN und GIT Versionskontroll Systeme Repos (Trunk based und brachnbased VCS) 

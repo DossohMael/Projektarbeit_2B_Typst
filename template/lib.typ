@@ -290,6 +290,7 @@
   set page(
     numbering: "1",
     footer: context align(numbering-alignment, numbering(
+    // hätte gerne das Format :"Seite" + #Seitennummer"
     "1 / 1", 
     ..counter(page).get(),
     ..counter(page).at(<end>),

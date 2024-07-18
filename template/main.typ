@@ -23,16 +23,16 @@
 
 = Einleitung
 
-Die Disziplin des Qualitätsmanagements (#acrs("QM")) hat sich im Verlauf der Jahre erheblich weiterentwickelt und umfasst gegenwärtig eine breite Palette von Prinzipien, Methoden und Techniken. Diese zielen darauf ab, die Qualität von Produkten und Dienstleistungen sicherzustellen und zu optimieren @iso9001de. In der Zeit vor dem 20. Jahrhundert erfolgte die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde jedoch mit der industriellen Revolution und der damit einhergehenden Massenproduktion zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. Die Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) erfolgte insbesondere in der Automobilindustrie mit dem Ziel, die Qualität der produzierten Fahrzeuge zu verbessern und deren Sicherheit zu erhöhen. Die Einführung der ISO #footnote[International Organization for Standardization, https://www.iso.org/about] 9000 Normenreihe für #acrs("QMS") 
+Die Disziplin des Qualitätsmanagements (#acrs("QM")) hat sich im Verlauf der Jahre erheblich weiterentwickelt und umfasst gegenwärtig eine breite Palette von Prinzipien, Methoden und Techniken. Diese zielen darauf ab, die Qualität von Produkten und Dienstleistungen sicherzustellen und zu optimieren @iso9001de. In der Zeit vor dem 20. Jahrhundert erfolgte die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde jedoch mit der industriellen Revolution und der damit einhergehenden Massenproduktion zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. Die Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) erfolgte insbesondere in der Automobilindustrie mit dem Ziel, die Qualität der produzierten Fahrzeuge zu verbessern und deren Sicherheit zu erhöhen. Die International Organization for Standardization #acrs:("ISO"),  9000 Normenreihe für #acrs("QMS") 
 in den 1980er Jahren kann als Meilenstein in der Entwicklung von Qualitätsmanagementskonzepten betrachtet werden. Die Konzepte des "Process approach (#acrs("PA"))", des "Plan-do-check-act (#acrs("PDCA")) cycle" sowie des "Risk-based thinking (#acrs("RBT"))" wurden in diesem Kontext maßgeblich geprägt und haben bis heute weltweit Anerkennung gefunden. Diese Prinzipien bilden die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9000de.
 // Kann ich ISO in der Fußzeile so abkürzen?
 // Sollten die konzepte in Gänzefüßen kursiv sein?
 
 Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen (#acrs("KMU")) eine signifikante Herausforderung dar, da in diesen Unternehmensformen oftmals eine klare Organisation und Struktur fehlt, was die effektive Umsetzung umfassender #acrs("QMS") erschwert.
-Das Bayerische Staatsministerium für Wirtschaft und Medien, Energie und Technologie betont in diesem Zusammenhang, dass @qm2015:
+Das Bayerische Staatsministerium für Wirtschaft und Medien, Energie und Technologie betont in diesem Zusammenhang, dass:
 #pagebreak()
 #set quote(block: true) 
-#quote["Mit der Einführung eines #acrs("QMS") können #acrs("KMU") u.a. die Transparenz betrieblicher Abläufe erhöht, die Fehlerquoten und somit die Kosten reduziert, höhere Kundenzufriedenheit erzielt, der Marktzugang verbessert und potenzielle Risiken aufgrund von Nichtkonformitäten gesenkt werden."]
+#quote["Mit der Einführung eines #acrs("QMS") können #acrs("KMU") u.a. die Transparenz betrieblicher Abläufe erhöht, die Fehlerquoten und somit die Kosten reduziert, höhere Kundenzufriedenheit erzielt, der Marktzugang verbessert und potenzielle Risiken aufgrund von Nichtkonformitäten gesenkt werden."@qm2015]  
 // Formatiereung des Paragraphen, wohin mit dem Pagebreak?
 
 Insofern kann die Implementierung von Richtlinien auch für #acrs("KMU") eine wesentliche Funktion bei der Optimierung der internen Abläufe erfüllen. Die vorliegende Arbeit verfolgt das Ziel, bestehende Unternehmensprozesse mit anerkannten Normen und Standards zu vergleichen, um deren Effizienz und Effektivität zu bewerten und mögliche Optimierungspotenziale zu identifizieren. 
@@ -67,25 +67,24 @@ Wie wird qualität gemessen? Key performance indicators
 === Ergebnisse und Auswertung
 Auswertung durch Tools, qualitativ und Quantitativ 
 
-== Erhebung und Beschreibung der aktuellen Prozesse, 
+== Erhebung und Beschreibung der aktuellen Prozesse 
 Darstellung der aktuellen Prozesse mir Diagrammen (Flussdiagramme, BPMN)
-=== Analyse der SVN und GIT Versionskontroll Systeme Repos (Trunk based und brachnbased VCS) 
+=== Analyse der SVN und GIT Versionskontrollsysteme 
+- Repos durchgehen 
+- Trunk based und brachnbased VCS 
 === Analyse der Bestehenden Einarbeitungsprozesse, Dokumentation und Schulungsmaterialien
-===  Analyse der Effizienz und Effektivität der bestehenden Prozesse
+=== Analyse der Effizienz und Effektivität der bestehenden Prozesse
 
-= Vorschläge zur Prozessoptimierung (Basierend auf den Ergebnissen der Mitarbeiterumfrage, der Analyse, sowie den Industriestandards)
+= Vorschläge zur Prozessoptimierung 
+Basierend auf den Ergebnissen der Mitarbeiterumfrage, der Analyse, sowie den Industriestandards
 == Identifikation und Priorisierung von Verbesserungspotentialen
-== Anpassung dieser Normen auf die Bedürfnisse eines Kleinunternehmens
-== (Vielleicht?) Kosten-Nutzen-Analyse der vorgeschlagenen Maßnahmen 
-== (Vielleicht?) Vorschläge zur Optimierung der Einarbeitung
+== Anpassung der Vorschläge auf die Bedürfnisse eines Kleinunternehmens
+== Kosten-Nutzen-Analyse der vorgeschlagenen Maßnahmen 
 
 = Schlussfolgerung und Ausblick
 == Zusammenfassung der wichtigsten Erkenntnisse
-== Bewertung der vorgeschlagenen Maßnahmen
-== Ausblick auf zukünftige Entwicklungen und weitere Optimierungsmöglichkeiten
-
-
-== Acronyms
+== Ausblick auf zukünftige Aufgaben und Herausforderungen
+Vorstellung möglicher software tools
 
 Use the `acr` function to insert acronyms, which looks like this #acr("HTTP").
 

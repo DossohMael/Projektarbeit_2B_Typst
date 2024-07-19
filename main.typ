@@ -39,7 +39,7 @@ Demnach kann die Implementierung von Richtlinien auch für #acrs("KMU") eine wes
 Dazu wird eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU") ProSystems GmbH anhand etablierter Normen durchgeführt. Auf Basis dieser Analyse sollen Vorschläge zur Prozessoptimierung erarbeitet und Maßnahmen zur Umsetzung dieser Vorschläge vorgestellt werden. Das Unternehmen entwickelt Softwarelösungen und ist auf die Systemintegration spezialisiert. Es bietet Dienstleistungen an, welche die vollständige Durchführung IT-basierter Automatisierungsprojekte sowie die Integration von Systemen zur Produktionsplanung, Fertigungssteuerung und Unternehmensressourcenplanung umfassen @prosy170724. Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung, da die Qualität der Softwareprodukte und die Kundenzufriedenheit maßgeblich von der Effizienz und Effektivität dieser Prozesse abhängen.
 // Satz bearbeiten, die Aufgabe besser formulieren: (Die vorliegende Arbeit zielt .... führt)
 
-Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und eine Übersicht über die behandelten Themen und Kapitel gegeben. Das nachfolgende Kapitel „Grundlagen und Begriffsdefinitionen” dient der Einführung in die für das Verständnis dieser Arbeit grundlegenden Konzepte. Im Anschluss erfolgt eine Analyse der bestehenden Entwicklungs-, Test- und Releaseprozesse (vgl. Kapitel X), um die aktuelle Situation im Unternehmen zu erfassen. Zu Beginn des Prozesses erfolgt eine Mitarbeiterbefragung, um die Meinungen und Erfahrungen der Mitarbeitenden zu den bestehenden Prozessen zu erfassen. Im Anschluss an die Auswertung der Befragung erfolgt eine formale Erfassung und Darstellung der Entwicklungsprozesse. Das folgende Kapitel, welches den Titel „Vorschläge zur Prozessoptimierung” trägt, basiert auf den Resultaten der durchgeführten Mitarbeiterbefragung, der formalen Analyse sowie auf etablierten Normen und Industriestandards. Im Rahmen der vorliegenden Untersuchung werden zunächst Verbesserungspotenziale identifiziert und priorisiert. Die daraus resultierenden Maßnahmen werden im Anschluss an die spezifischen Bedürfnisse eines Kleinunternehmens angepasst. Das abschließende Kapitel „Fazit und Ausblick” dient der Zusammenfassung der wichtigsten Ergebnisse der Projektarbeit. Darüber hinaus wird ein Ausblick auf zukünftige Aufgaben und Herausforderungen gegeben, die sich aus den vorgeschlagenen Optimierungen ergeben können.
+Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und eine Übersicht über die behandelten Themen und Kapitel gegeben. Das nachfolgende Kapitel „Grundlagen und Begriffsdefinitionen” dient der Einführung in die für das Verständnis dieser Arbeit grundlegenden Konzepte. Im Anschluss erfolgt eine Analyse der bestehenden Entwicklungs-, Test- und Releaseprozesse (vgl. Kapitel X), um die aktuelle Situation im Unternehmen zu erfassen. Zu Beginn des Prozesses erfolgt eine Mitarbeiterbefragung, um die Meinungen und Erfahrungen der Mitarbeitenden zu den bestehenden Prozessen zu erfassen. Im Anschluss an die Auswertung der Befragung erfolgt eine formale Erfassung und Darstellung der Entwicklungsprozesse. Das folgende Kapitel, welches den Titel „Vorschläge zur Prozessoptimierung” trägt, basiert auf den Resultaten der durchgeführten Mitarbeiterbefragung, der formalen Analyse sowie auf etablierten Normen und Industriestandards. Im Rahmen der vorliegenden Untersuchung werden zunächst Verbesserungspotenziale identifiziert und priorisiert. Die daraus resultierenden Maßnahmen werden im Anschluss an die spezifischen Bedürfnisse eines #acrs("KMU") angepasst. Das abschließende Kapitel „Fazit und Ausblick” dient der Zusammenfassung der wichtigsten Ergebnisse der Projektarbeit. Darüber hinaus wird ein Ausblick auf zukünftige Aufgaben und Herausforderungen gegeben, die sich aus den vorgeschlagenen Optimierungen ergeben können.
 
 
 = Grundlagen und Begriffsdefinitionen
@@ -58,6 +58,7 @@ Wie wird qualität gemessen? Key performance indicators
 
 == Entwicklungs-, Test- und Release-Prozesse
 == Kleine und mittlere Unternehmen
+// Reihenfolge der Kapitel überdenken
 
 = Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
 
@@ -71,29 +72,25 @@ Auswertung durch Tools, qualitativ und Quantitativ
 == Erhebung und Beschreibung der aktuellen Prozesse 
 Darstellung der aktuellen Prozesse mir Diagrammen (Flussdiagramme, BPMN)
 === Analyse der SVN und GIT Versionskontrollsysteme 
-- Repos durchgehen 
-- Trunk based und brachnbased VCS 
-=== Analyse der Bestehenden Einarbeitungsprozesse, Dokumentation und Schulungsmaterialien
-=== Analyse der Effizienz und Effektivität der bestehenden Prozesse
+- Einige Repos durchgehen: Trunk based (SVN), Feature Branche based (GIT) 
+- Analyse der Bestehenden Einarbeitungsprozesse, Dokumentation und Schulungsmaterialien
+- Analyse der Effizienz und Effektivität der bestehenden Prozesse
 
 = Vorschläge zur Prozessoptimierung 
 Basierend auf den Ergebnissen der Mitarbeiterumfrage, der Analyse, sowie den Industriestandards
 == Identifikation und Priorisierung von Verbesserungspotentialen
-== Anpassung der Vorschläge auf die Bedürfnisse eines Kleinunternehmens
+== Anpassung der Vorschläge auf die Bedürfnisse kleiner und mittlerer Unternehmen
 == Kosten-Nutzen-Analyse der vorgeschlagenen Maßnahmen 
 
 = Schlussfolgerung und Ausblick
 == Zusammenfassung der wichtigsten Erkenntnisse
 == Ausblick auf zukünftige Aufgaben und Herausforderungen
-Vorstellung möglicher software tools
+// Vorstellung möglicher software tools (nächste PA)
 
-Use the `acr` function to insert acronyms, which looks like this #acr("HTTP").
-
-#acrlpl("API") are used to define the interaction between different software systems.
-
-#acrs("REST") is an architectural style for networked applications.
-
-#acrs("URL") is a reference to a web resource.
+//Use the `acr` function to insert acronyms, which looks like this #acr("HTTP").
+// #acrlpl("API") are used to define the interaction between different software systems.
+// #acrs("REST") is an architectural style for networked applications.
+// #acrs("URL") is a reference to a web resource.
 
 == Lists
 

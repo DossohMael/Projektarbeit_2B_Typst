@@ -311,7 +311,8 @@
   )
 
   // set page numberung of references
-  counter(page).update(7)
+  counter(page).update(6)
+  //je nach letzter Seitenanzahl anpassen
 
   // Display bibliography.
   if bibliography != none {

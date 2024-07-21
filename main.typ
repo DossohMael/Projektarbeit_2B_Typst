@@ -37,16 +37,25 @@ Diesbezüglich betont das Bayerische Staatsministerium für Wirtschaft und Medie
 // Formatiereung des Par, wohin mit dem Pagebreak?
 
 Demnach kann die Implementierung von Richtlinien auch für #acrs("KMU") eine wesentliche Funktion bei der Optimierung der internen Abläufe erfüllen. Die vorliegende Arbeit verfolgt das Ziel, bestehende Unternehmensprozesse mit anerkannten Normen und Standards zu vergleichen, um deren Effizienz und Effektivität zu bewerten und mögliche Optimierungspotenziale zu identifizieren. 
-Im Rahmen der vorliegenden Untersuchung erfolgt eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU") ProSystems GmbH unter Berücksichtigung etablierter Normen. 
+Im Rahmen der vorliegenden Arbeit erfolgt eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU") ProSystems GmbH unter Berücksichtigung etablierter Normen. 
 ProSystems GmbH entwickelt Softwarelösungen und hat sich auf die Systemintegration spezialisiert.
-Das Leistungsspektrum des Unternehmens umfasst die vollständige Durchführung IT-basierter Automatisierungsprojekte sowie die Integration von Systemen zur Produktionsplanung, Fertigungssteuerung und Unternehmensressourcenplanung umfassen @prosy170724. Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung, da die Qualität der Softwareprodukte und die Kundenzufriedenheit maßgeblich von der Effizienz und Effektivität dieser Prozesse abhängen.
+Das Leistungsspektrum des Unternehmens umfasst die komplette Realisierung von IT-basierten Automatisierungsprojekten sowie die Integration von Systemen zur Produktionsplanung, Fertigungssteuerung und Unternehmensressourcenplanung @prosy170724. Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung, da die Qualität der Softwareprodukte und die Kundenzufriedenheit maßgeblich von der Effizienz und Effektivität dieser Prozesse abhängen.
 
 Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und eine Übersicht über die behandelten Themen und Kapitel gegeben: Das nachfolgende Kapitel „Grundlagen und Begriffsdefinitionen” dient der Einführung in die für das Verständnis dieser Arbeit grundlegenden Konzepte. Im Anschluss erfolgt eine Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse im Kapitel „Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse”. Zu Beginn des Prozesses erfolgt eine Befragung der Mitarbeitenden, um deren Meinungen und Erfahrungen mit den bestehenden Prozessen zu erfassen. Daraufhin erfolgt eine Auswertung der Befragung sowie eine formale Erfassung und Darstellung der Entwicklungsprozesse. Das nachfolgende Kapitel, „Vorschläge zur Prozessoptimierung”, basiert auf den Resultaten der durchgeführten Mitarbeiterbefragung, der formalen Analyse sowie auf etablierten Normen und Industriestandards.Im Rahmen dessen erfolgt eine Identifikation und Priorisierung von Verbesserungspotenzialen. Die abgeleiteten Maßnahmen werden daraufhin an die spezifischen Bedürfnisse eines #acrs("KMU") adaptiert. Das finale Kapitel „Fazit und Ausblick” dient der Zusammenfassung der essenziellen Ergebnisse der Projektarbeit. Darüber hinaus wird ein Ausblick auf potenzielle zukünftige Aufgaben und Herausforderungen gegeben, die sich aus den vorgeschlagenen Optimierungen ergeben können.
 // Kapiteltitel und Inhalte anpassen falls sie sich ändern
 
 = Grundlagen und Begriffsdefinitionen
-Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis der vorliegenden Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem Prozessansatz sowie den spezifischen Anforderungen und Herausforderungen #acrs("KMU"). Die Kenntnis dieser Grundlagen ist erfolderlich, um die nachfolgende Analyse und Bewertung der Unternehmensprozesse nachvollziehen zu können. Dabei wird sich hauptsächlich auf die von der #acrs("ISO") in den Normen "ISO 9000", "ISO 9001" sowie "ISO 25000" verwendeten Definitionen bezogen.
+Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem Prozessansatz sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Dabei wird sich hauptsächlich auf die von der #acrs("ISO") in den Normen "ISO 9000", "ISO 9001" sowie "ISO 25000" verwendeten Definitionen bezogen.
+
+== Die Internationale Organisation für Normung #acrs("ISO")
+#set quote(block: true) 
+#quote["ISO, the International Organization for Standardization, brings global experts together to agree on the best way of doing things – for anything from making a product to managing a process @isoabout"]
+
+// Zitat am Anfang?
+// Aus iso statuten zitieren 
 == Qualitätsmanagement
+
+
 
 === Software Qualität
 

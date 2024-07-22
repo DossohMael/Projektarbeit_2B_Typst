@@ -45,12 +45,10 @@ Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und ei
 // Kapiteltitel und Inhalte anpassen falls sie sich ändern.
 
 = Grundlagen und Begriffsdefinitionen
-Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem Prozessansatz sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Dabei wird sich hauptsächlich auf die von der #acrs("ISO") in den Normen "#acrs("ISO") 9000", "#acrs("ISO") 9001" sowie "#acrs("ISO") 25000" verwendeten Definitionen bezogen.
-
-
+Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem Prozessansatz sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Dabei erfolgt eine primäre Orientierung an den Definitionen der #acrs("ISO") in den Normen "#acrs("ISO") 9000", "#acrs("ISO") 9001" sowie "#acrs("ISO") 25000".
 
 == Die Internationale Organisation für Normung
-Die #acrs("ISO") ist eine internationale Vereinigung nationaler Normungsorganisationen mit derzeit 172 Mitgliedsländern. Sie wird insgesamt von 839 Technischen Komitees und Unterkomitees unterstützt (Stand Juli 2024). Sie wurde 1947 in Genf, Schweiz, gegründet und hat seitdem 25.488 internationale Normen herausgegeben @isoabout.
+Die #acrs("ISO") ist eine internationale Vereinigung nationaler Normungsorganisationen mit derzeit 172 Mitgliedsländern. Insgesamt wird die Organisation von 839 technischen Komitees und Unterkomitees unterstützt (Stand Juli 2024). Sie wurde 1947 in Genf, Schweiz, gegründet und hat seitdem 25.488 internationale Normen herausgegeben @isoabout.
 #acrs("ISO")-Standards sind Formeln, welche die optimale Vorgehensweise für eine Tätigkeit definieren. Sie werden von internationalen Experten festgelegt und umfassen die Bereiche der Produktfertigung, des Prozessmanagements, der Erbringung von Dienstleistungen sowie der Materialwirtschaft @isostandards. 
 
 Typische Beispiele für von der #acrs("ISO") erarbeitete Standards sind:

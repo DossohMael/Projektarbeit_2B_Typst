@@ -78,19 +78,19 @@ Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die not
 
 #pagebreak()
 
-Die Kombination der beiden zuvor dargelegten Definitionen bildet die Grundlage für das #acrs("QM"), welches sich mit der Sicherstellung befasst, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen und somit eine kontinuierliche Verbesserung der Qualität ermöglichen. Dies impliziert die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt.
+Die Kombination der zuvor dargelegten Definitionen bildet die Grundlage für das #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen. Dies impliziert die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt.
 
 Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits, Überprüfungen sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten. Des Weiteren ist die Einbeziehung sämtlicher Interessengruppen, einschließlich Lieferanten und Kunden, von entscheidender Bedeutung, um ein umfassendes und erfolgreiches  #acrs("QM")  zu gewährleisten @iso9001de.
 
-Die Prinzipien des Qualitätsmanagements laut #acrs("ISO") 9001 umfassen mehrere wesentliche Konzepte:
+#acrs("ISO") 9001 definiert die sieben wesentlichen Grundsätze des Qualitätsmanagements wie folgt:
 
-- Kundenorientierung: Die Bedürfnisse und Erwartungen der Kunden stehen im Mittelpunkt und bestimmen die Qualitätsstandards.
-- Führung: Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
-- Einbeziehung von Personen: Alle Mitarbeitenden sollen einbezogen und motiviert werden, zur Erreichung der Qualitätsziele beizutragen.
-- Prozessorientierter Ansatz: Die Aktivitäten und Ressourcen einer Organisation werden als zusammenhängende Prozesse verstanden, die systematisch gemanagt werden.
-- Verbesserung: Die Organisation verpflichtet sich zu einem fortlaufenden Verbesserungsprozess in allen Bereichen.
-- Faktengestützte Entscheidungsfindung: Entscheidungen werden auf der Grundlage von Daten und Fakten getroffen.
-- Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
+1. Kundenorientierung: Die Bedürfnisse und Erwartungen der Kunden stehen im Mittelpunkt und bestimmen die Qualitätsstandards.
+2. Führung: Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
+3. Einbeziehung von Personen: Alle Mitarbeitenden sollen einbezogen und motiviert werden, zur Erreichung der Qualitätsziele beizutragen.
+4. Prozessorientierter Ansatz: Die Aktivitäten und Ressourcen einer Organisation werden als zusammenhängende Prozesse verstanden, die systematisch verwaltet werden.
+5. Verbesserung: Die Organisation verpflichtet sich zu einem fortlaufenden Verbesserungsprozess in allen Bereichen.
+6. Faktengestützte Entscheidungsfindung: Entscheidungen werden auf der Grundlage von Daten und Fakten getroffen.
+7. Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
 #pagebreak()
 

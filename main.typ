@@ -48,8 +48,22 @@ Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und ei
 Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem Prozessansatz sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Dabei wird sich hauptsächlich auf die von der #acrs("ISO") in den Normen "ISO 9000", "ISO 9001" sowie "ISO 25000" verwendeten Definitionen bezogen.
 
 == Die Internationale Organisation für Normung #acrs("ISO")
-#set quote(block: true) 
-#quote["ISO, the International Organization for Standardization, brings global experts together to agree on the best way of doing things – for anything from making a product to managing a process @isoabout"]
+Die ISO ist eine internationale Vereinigung nationaler Normungsorganisationen mit derzeit 172 Mitgliedsländern. Sie wird insgesamt von 839 Technischen Komitees und Unterkomitees unterstützt (Stand Juli 2024). Sie wurde 1947 in Genf, Schweiz, gegründet und hat seitdem 25.488 internationale Normen herausgegeben @isoabout.
+
+
+
+
+
+Beispiele für ISO-Standards:
+
+- Technische Standards: Der MP3-Standard für Audiodateien und Standards für Telefonkarten sind typische Beispiele für technische Normen, die von der ISO entwickelt wurden. Sie spielen eine entscheidende Rolle in der Softwareindustrie, indem sie die Kompatibilität und Interoperabilität zwischen verschiedenen Systemen und Anwendungen sicherstellen.
+
+- Klassifikatorische Ländercodes: Ländercodes wie DE für Deutschland, NL für die Niederlande und JP für Japan basieren auf ISO-Standards. Diese Codes sind in vielen internationalen Anwendungen und Datenbanken unerlässlich, da sie eine einheitliche Identifikation und Verwaltung von Länderinformationen ermöglichen.
+
+- Verhaltensstandards: Die ISO 9000-Familie, insbesondere der Qualitätsmanagementstandard ISO 9001, ist ein verbreiteter Standard, der Unternehmen hilft, ihre Qualitätsmanagementsysteme zu verbessern und zu zertifizieren. Dieser Standard wird oft in der Softwareindustrie angewendet, um sicherzustellen, dass Entwicklungsprozesse qualitativ hochwertig und konsistent sind, was letztlich zur Verbesserung der Produktqualität und Kundenzufriedenheit beiträgt.
+
+Durch diese Beispiele wird deutlich, dass die ISO durch ihre Normungsarbeit einen bedeutenden Einfluss auf zahlreiche Bereiche hat, insbesondere auch auf die Softwareindustrie, indem sie Standards setzt, die sowohl technische als auch organisatorische Aspekte abdecken.
+
 
 // Zitat am Anfang?
 // Aus iso statuten zitieren 

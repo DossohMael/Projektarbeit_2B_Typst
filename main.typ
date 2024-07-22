@@ -80,6 +80,20 @@ Die Kombination der beiden zuvor dargelegten Definitionen bildet die Grundlage f
 
 Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits, Überprüfungen sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten. Des Weiteren ist die Einbeziehung sämtlicher Interessengruppen, einschließlich Lieferanten und Kunden, von entscheidender Bedeutung, um ein umfassendes und erfolgreiches  #acrs("QM")  zu gewährleisten @iso9001de.
 
+Die Prinzipien des Qualitätsmanagements umfassen, laut Iso 9000, 7 Grundlegende Konzepte:
+
+- Kundenorientierung: Die Bedürfnisse und Erwartungen der Kunden stehen im Mittelpunkt und bestimmen die Qualitätsstandards.
+
+- Verantwortlichkeit der Führung: Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
+
+- Einbeziehung der beteiligten Personen: Alle Mitarbeitenden sollen einbezogen und motiviert werden, zur Erreichung der Qualitätsziele beizutragen.
+
+- Prozessorientierter Ansatz: Die Aktivitäten und Ressourcen einer Organisation werden als zusammenhängende Prozesse verstanden, die systematisch gemanagt werden.
+
+- Kontinuierliche Verbesserung: Die Organisation verpflichtet sich zu einem fortlaufenden Verbesserungsprozess in allen Bereichen.
+
+- Sachbezogener Entscheidungsfindungsansatz: Entscheidungen werden auf der Grundlage von Daten und Fakten getroffen.
+
 === Software Qualität
 
 == Der Prozessansatz

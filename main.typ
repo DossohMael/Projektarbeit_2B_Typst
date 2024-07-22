@@ -76,23 +76,23 @@ Laut ISO 9000:2015 wird "Management" definiert als:
 #quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000de])
 Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die notwendig sind, um die Ziele einer Organisation zu erreichen, einschließlich der Planung, Organisation, Leitung, Koordination und Kontrolle aller Aktivitäten und Ressourcen. Diese Definition ist wesentlich für das Verständnis von #acrs("QM"), da sie die systematische und methodische Herangehensweise betont, die notwendig ist, um eine Organisation effektiv und effizient zu führen und zu steuern @iso9000de.
 
+#pagebreak()
+
 Die Kombination der beiden zuvor dargelegten Definitionen bildet die Grundlage für das #acrs("QM"), welches sich mit der Sicherstellung befasst, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen und somit eine kontinuierliche Verbesserung der Qualität ermöglichen. Dies impliziert die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt.
 
 Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits, Überprüfungen sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten. Des Weiteren ist die Einbeziehung sämtlicher Interessengruppen, einschließlich Lieferanten und Kunden, von entscheidender Bedeutung, um ein umfassendes und erfolgreiches  #acrs("QM")  zu gewährleisten @iso9001de.
 
-Die Prinzipien des Qualitätsmanagements umfassen, laut Iso 9000, 7 Grundlegende Konzepte:
+Die Prinzipien des Qualitätsmanagements laut #acrs("ISO") 9001 umfassen mehrere wesentliche Konzepte:
 
 - Kundenorientierung: Die Bedürfnisse und Erwartungen der Kunden stehen im Mittelpunkt und bestimmen die Qualitätsstandards.
-
-- Verantwortlichkeit der Führung: Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
-
-- Einbeziehung der beteiligten Personen: Alle Mitarbeitenden sollen einbezogen und motiviert werden, zur Erreichung der Qualitätsziele beizutragen.
-
+- Führung: Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
+- Einbeziehung von Personen: Alle Mitarbeitenden sollen einbezogen und motiviert werden, zur Erreichung der Qualitätsziele beizutragen.
 - Prozessorientierter Ansatz: Die Aktivitäten und Ressourcen einer Organisation werden als zusammenhängende Prozesse verstanden, die systematisch gemanagt werden.
+- Verbesserung: Die Organisation verpflichtet sich zu einem fortlaufenden Verbesserungsprozess in allen Bereichen.
+- Faktengestützte Entscheidungsfindung: Entscheidungen werden auf der Grundlage von Daten und Fakten getroffen.
+- Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
-- Kontinuierliche Verbesserung: Die Organisation verpflichtet sich zu einem fortlaufenden Verbesserungsprozess in allen Bereichen.
-
-- Sachbezogener Entscheidungsfindungsansatz: Entscheidungen werden auf der Grundlage von Daten und Fakten getroffen.
+#pagebreak()
 
 === Software Qualität
 

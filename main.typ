@@ -63,39 +63,22 @@ Diese Beispiele zeigen, dass die #acrs("ISO") durch ihre Normungsarbeit einen be
 // Muss ich quellen wie verschiedene Links auf der ISO Website unterscheiden.
 
 == Qualitätsmanagement
-Eine Erörterung der spezifischen Anforderungen und Herausforderungen des Qualitätsmanagements erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der ISO zu den Begriffen "Qualität" und "Management" von entscheidender Bedeutung, da diese Definitionen als weltweite Referenzstandards dienen.
+Eine Erörterung der spezifischen Anforderungen und Herausforderungen des #acrs("QM") erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der ISO zu den Begriffen "Qualität" und "Management" von entscheidender Bedeutung, da diese Definitionen als weltweite Referenzstandards dienen.
 
 Laut ISO 9000:2015 wird "Qualität" definiert als:
 #set quote(block: true)
-#quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt." 
-Wobei "Inhärente Merkmale", Merkmale sind die einem Produkt, einer Dienstleistung oder einem Prozess innewohnen und "Anforderungen", Bedürfnisse oder Erwartungen, die festgelegt, üblicherweise vorausgesetzt oder verpflichtend sind. @iso9000de])
-
-Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens @iso9000de.
+#quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000de]) 
+Wobei "Inhärente Merkmale", Merkmale sind die einem Produkt, einer Dienstleistung oder einem Prozess innewohnen und "Anforderungen", Bedürfnisse oder Erwartungen, die festgelegt, üblicherweise vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens @iso9000de.
 
 Laut ISO 9000:2015 wird "Management" definiert als:
 
 #set quote(block: true)
 #quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000de])
-Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die notwendig sind, um die Ziele einer Organisation zu erreichen, einschließlich der Planung, Organisation, Leitung, Koordination und Kontrolle aller Aktivitäten und Ressourcen. Diese Definition ist wesentlich für das Verständnis von Qualitätsmanagement, da sie die systematische und methodische Herangehensweise betont, die notwendig ist, um eine Organisation effektiv und effizient zu führen und zu steuern @iso9000de.
+Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die notwendig sind, um die Ziele einer Organisation zu erreichen, einschließlich der Planung, Organisation, Leitung, Koordination und Kontrolle aller Aktivitäten und Ressourcen. Diese Definition ist wesentlich für das Verständnis von #acrs("QM"), da sie die systematische und methodische Herangehensweise betont, die notwendig ist, um eine Organisation effektiv und effizient zu führen und zu steuern @iso9000de.
 
+Die Kombination der beiden zuvor dargelegten Definitionen bildet die Grundlage für das #acrs("QM"), welches sich mit der Sicherstellung befasst, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen und somit eine kontinuierliche Verbesserung der Qualität ermöglichen. Dies impliziert die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt.
 
-
-
-
-Der Begriff "Qualitätsmanagement"
-
-- Verhaltensnormen: Die #acrs("ISO") 9000-Familie, insbesondere die Qualitätsmanagementnorm #acrs("ISO") 9001, ist eine weit verbreitete Norm, die Unternehmen bei der Verbesserung und Zertifizierung ihrer Qualitätsmanagementsysteme unterstützt. Diese Norm wird häufig in der Softwareindustrie angewandt, um sicherzustellen, dass die Entwicklungsprozesse von hoher Qualität und konsistent sind, was letztlich zur Verbesserung der Produktqualität und der Kundenzufriedenheit beiträgt.
-
-Iso 9000:
-- Kundenorientierung
-- Verantwortlichkeit der Führung
-- Einbeziehung der beteiligten Personen
-- Prozessorientierter Ansatz und (früher eigenständig) Systemorientierter Managementansatz
-- Kontinuierliche Verbesserung
-- Sachbezogener Entscheidungsfindungsansatz
-- Lieferantenbeziehungen zum gegenseitigen Nutzen
-
- ISO 9001 legt die Mindestanforderungen an ein Qualitätsmanagementsystem (QM-System) fest, denen eine Organisation zu genügen hat, um Produkte und Dienstleistungen bereitstellen zu können, welche die Kundenerwartungen sowie allfällige behördliche Anforderungen erfüllen. Zugleich soll das Managementsystem einem stetigen Verbesserungsprozess unterliegen.
+Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits, Überprüfungen sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten. Des Weiteren ist die Einbeziehung sämtlicher Interessengruppen, einschließlich Lieferanten und Kunden, von entscheidender Bedeutung, um ein umfassendes und erfolgreiches  #acrs("QM")  zu gewährleisten @iso9001de.
 
 === Software Qualität
 

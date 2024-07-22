@@ -63,7 +63,26 @@ Diese Beispiele zeigen, dass die #acrs("ISO") durch ihre Normungsarbeit einen be
 // Muss ich quellen wie verschiedene Links auf der ISO Website unterscheiden.
 
 == Qualitätsmanagement
+Eine Erörterung der spezifischen Anforderungen und Herausforderungen des Qualitätsmanagements erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der ISO zu den Begriffen "Qualität" und "Management" von entscheidender Bedeutung, da diese Definitionen als weltweite Referenzstandards dienen.
 
+Laut ISO 9000:2015 wird "Qualität" definiert als:
+#set quote(block: true)
+#quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt." 
+Wobei "Inhärente Merkmale", Merkmale sind die einem Produkt, einer Dienstleistung oder einem Prozess innewohnen und "Anforderungen", Bedürfnisse oder Erwartungen, die festgelegt, üblicherweise vorausgesetzt oder verpflichtend sind. @iso9000de])
+
+Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens @iso9000de.
+
+Laut ISO 9000:2015 wird "Management" definiert als:
+
+#set quote(block: true)
+#quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000de])
+Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die notwendig sind, um die Ziele einer Organisation zu erreichen, einschließlich der Planung, Organisation, Leitung, Koordination und Kontrolle aller Aktivitäten und Ressourcen. Diese Definition ist wesentlich für das Verständnis von Qualitätsmanagement, da sie die systematische und methodische Herangehensweise betont, die notwendig ist, um eine Organisation effektiv und effizient zu führen und zu steuern @iso9000de.
+
+
+
+
+
+Der Begriff "Qualitätsmanagement"
 
 - Verhaltensnormen: Die #acrs("ISO") 9000-Familie, insbesondere die Qualitätsmanagementnorm #acrs("ISO") 9001, ist eine weit verbreitete Norm, die Unternehmen bei der Verbesserung und Zertifizierung ihrer Qualitätsmanagementsysteme unterstützt. Diese Norm wird häufig in der Softwareindustrie angewandt, um sicherzustellen, dass die Entwicklungsprozesse von hoher Qualität und konsistent sind, was letztlich zur Verbesserung der Produktqualität und der Kundenzufriedenheit beiträgt.
 

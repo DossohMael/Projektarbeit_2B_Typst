@@ -10,5 +10,4 @@
   PA: "Process Approach",
   PDCA: "Plan-Do-Check-Act",
   RBT: "Risk-Based Thinking",
-  KPI: "Key Performance Indicators",
 )

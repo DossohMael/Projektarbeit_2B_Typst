@@ -216,7 +216,6 @@
     outline(
       title: [#heading(level:2, outlined: true)[#if (language == "de") {
       [Inhaltsverzeichnis]
-
     } else {
       [Table of Contents]
     }]], 
@@ -290,7 +289,7 @@
   set page(
     numbering: "1",
     footer: context align(numbering-alignment, numbering(
-    // hätte gerne das Format :"Seite" + #Seitennummer"
+    // Hätte gerne das Format :"Seite" + #Seitennummer".
     "1 / 1", 
     ..counter(page).get(),
     ..counter(page).at(<end>),
@@ -312,7 +311,7 @@
 
   // set page numberung of references
   counter(page).update(6)
-  //je nach letzter Seitenanzahl anpassen
+  // Je nach letzter Seitenanzahl anpassen.
 
   // Display bibliography.
   if bibliography != none {

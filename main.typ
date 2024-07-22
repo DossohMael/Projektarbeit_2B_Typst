@@ -24,7 +24,7 @@
 = Einleitung
 
 Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001de. In seiner Doktorarbeit "Handwerk in der postindustriellen Gesellschaft...Leipzig" 
-// Titel evtl. anders zitieren
+// Titel evtl. anders zitieren.
 beschreibt Tobias Werner, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
 
 Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe ISO 9000, etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für acrs("QMS") setzte @iso9000de. Die Konzepte des "Process Approach (#acrs("PA"))", des "Plan-Do-Check-Act cycle (#acrs("PDCA"))" sowie des "Risk-Based Thinking (#acrs("RBT"))" haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001de.
@@ -42,7 +42,7 @@ ProSystems GmbH entwickelt Softwarelösungen und hat sich auf die Systemintegrat
 Das Leistungsspektrum des Unternehmens umfasst die komplette Realisierung von IT-basierten Automatisierungsprojekten sowie die Integration von Systemen zur Produktionsplanung, Fertigungssteuerung und Unternehmensressourcenplanung @prosy170724. Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung, da die Qualität der Softwareprodukte und die Kundenzufriedenheit maßgeblich von der Effizienz und Effektivität dieser Prozesse abhängen.
 
 Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und eine Übersicht über die behandelten Themen und Kapitel gegeben: Das nachfolgende Kapitel „Grundlagen und Begriffsdefinitionen” dient der Einführung in die für das Verständnis dieser Arbeit grundlegenden Konzepte. Im Anschluss erfolgt eine Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse im Kapitel „Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse”. Zu Beginn des Prozesses erfolgt eine Befragung der Mitarbeitenden, um deren Meinungen und Erfahrungen mit den bestehenden Prozessen zu erfassen. Daraufhin erfolgt eine Auswertung der Befragung sowie eine formale Erfassung und Darstellung der Entwicklungsprozesse. Das nachfolgende Kapitel, „Vorschläge zur Prozessoptimierung”, basiert auf den Resultaten der durchgeführten Mitarbeiterbefragung, der formalen Analyse sowie auf etablierten Normen und Industriestandards.Im Rahmen dessen erfolgt eine Identifikation und Priorisierung von Verbesserungspotenzialen. Die abgeleiteten Maßnahmen werden daraufhin an die spezifischen Bedürfnisse eines #acrs("KMU") adaptiert. Das finale Kapitel „Fazit und Ausblick” dient der Zusammenfassung der essenziellen Ergebnisse der Projektarbeit. Darüber hinaus wird ein Ausblick auf potenzielle zukünftige Aufgaben und Herausforderungen gegeben, die sich aus den vorgeschlagenen Optimierungen ergeben können.
-// Kapiteltitel und Inhalte anpassen falls sie sich ändern
+// Kapiteltitel und Inhalte anpassen falls sie sich ändern.
 
 = Grundlagen und Begriffsdefinitionen
 Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem Prozessansatz sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Dabei wird sich hauptsächlich auf die von der #acrs("ISO") in den Normen "#acrs("ISO") 9000", "#acrs("ISO") 9001" sowie "#acrs("ISO") 25000" verwendeten Definitionen bezogen.
@@ -53,17 +53,30 @@ Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die 
 Die #acrs("ISO") ist eine internationale Vereinigung nationaler Normungsorganisationen mit derzeit 172 Mitgliedsländern. Sie wird insgesamt von 839 Technischen Komitees und Unterkomitees unterstützt (Stand Juli 2024). Sie wurde 1947 in Genf, Schweiz, gegründet und hat seitdem 25.488 internationale Normen herausgegeben @isoabout.
 #acrs("ISO")-Standards sind Formeln, welche die optimale Vorgehensweise für eine Tätigkeit definieren. Sie werden von internationalen Experten festgelegt und umfassen die Bereiche der Produktfertigung, des Prozessmanagements, der Erbringung von Dienstleistungen sowie der Materialwirtschaft @isostandards. 
 
-Typische Beispiele für von der ISO erarbeitete Standards sind:
+Typische Beispiele für von der #acrs("ISO") erarbeitete Standards sind:
 
-- Der MP3-Standard für Audiodateien und Standards für Telefonkarten sind typische Beispiele für  Standards, die von der ISO entwickelt wurden. Sie spielen eine entscheidende Rolle in der Softwareindustrie, indem sie die Kompatibilität und Interoperabilität zwischen verschiedenen Systemen und Anwendungen sicherstellen @isopopstandards.
+- Der MP3-Standard für Audiodateien und Standards für Telefonkarten sind typische Beispiele für  Standards, die von der #acrs("ISO") entwickelt wurden. Sie spielen eine entscheidende Rolle in der Softwareindustrie, indem sie die Kompatibilität und Interoperabilität zwischen verschiedenen Systemen und Anwendungen sicherstellen @isopopstandards.
 
 - Ländercodes wie DE für Deutschland, NL für die Niederlande und JP für Japan basieren auf ISO-Standards. Diese Codes sind in vielen internationalen Anwendungen und Datenbanken unverzichtbar, da sie eine einheitliche Identifizierung und Verwaltung von Länderinformationen ermöglichen @isopopstandards.
 
-Diese Beispiele zeigen, dass die ISO durch ihre Normungsarbeit einen bedeutenden Einfluss auf viele Bereiche ausübt, insbesondere auf die Softwareindustrie, indem sie Normen festlegt, die sowohl technische als auch organisatorische Aspekte abdecken.
+Diese Beispiele zeigen, dass die #acrs("ISO") durch ihre Normungsarbeit einen bedeutenden Einfluss auf viele Bereiche ausübt, insbesondere auf die Softwareindustrie, indem sie Normen festlegt, die sowohl technische als auch organisatorische Aspekte abdecken.
+// Muss ich quellen wie verschiedene Links auf der ISO Website unterscheiden.
 
 == Qualitätsmanagement
-- Verhaltensnormen: Die ISO 9000-Familie, insbesondere die Qualitätsmanagementnorm ISO 9001, ist eine weit verbreitete Norm, die Unternehmen bei der Verbesserung und Zertifizierung ihrer Qualitätsmanagementsysteme unterstützt. Diese Norm wird häufig in der Softwareindustrie angewandt, um sicherzustellen, dass die Entwicklungsprozesse von hoher Qualität und konsistent sind, was letztlich zur Verbesserung der Produktqualität und der Kundenzufriedenheit beiträgt.
 
+
+- Verhaltensnormen: Die #acrs("ISO") 9000-Familie, insbesondere die Qualitätsmanagementnorm #acrs("ISO") 9001, ist eine weit verbreitete Norm, die Unternehmen bei der Verbesserung und Zertifizierung ihrer Qualitätsmanagementsysteme unterstützt. Diese Norm wird häufig in der Softwareindustrie angewandt, um sicherzustellen, dass die Entwicklungsprozesse von hoher Qualität und konsistent sind, was letztlich zur Verbesserung der Produktqualität und der Kundenzufriedenheit beiträgt.
+
+Iso 9000:
+- Kundenorientierung
+- Verantwortlichkeit der Führung
+- Einbeziehung der beteiligten Personen
+- Prozessorientierter Ansatz und (früher eigenständig) Systemorientierter Managementansatz
+- Kontinuierliche Verbesserung
+- Sachbezogener Entscheidungsfindungsansatz
+- Lieferantenbeziehungen zum gegenseitigen Nutzen
+
+ ISO 9001 legt die Mindestanforderungen an ein Qualitätsmanagementsystem (QM-System) fest, denen eine Organisation zu genügen hat, um Produkte und Dienstleistungen bereitstellen zu können, welche die Kundenerwartungen sowie allfällige behördliche Anforderungen erfüllen. Zugleich soll das Managementsystem einem stetigen Verbesserungsprozess unterliegen.
 
 === Software Qualität
 
@@ -81,7 +94,7 @@ Wie wird qualität gemessen? Key performance indicators
 
 === Erhebung und Dokumentation 
 Dokumentationspflicht gegenüber Auftraggebern
-// Reihenfolge der Kapitel überdenken
+// Reihenfolge der Kapitel überdenken.
 
 = Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
 
@@ -108,9 +121,9 @@ Basierend auf den Ergebnissen der Mitarbeiterumfrage, der Analyse, sowie den Ind
 = Schlussfolgerung und Ausblick
 == Zusammenfassung der wichtigsten Erkenntnisse
 == Ausblick auf zukünftige Aufgaben und Herausforderungen
-// Vorstellung möglicher software tools (nächste PA)
+// Vorstellung möglicher software tools (nächste PA).
 
-//Use the `acr` function to insert acronyms, which looks like this #acr("HTTP").
+// Use the `acr` function to insert acronyms, which looks like this #acr("HTTP").
 // #acrlpl("API") are used to define the interaction between different software systems.
 // #acrs("REST") is an architectural style for networked applications.
 // #acrs("URL") is a reference to a web resource.

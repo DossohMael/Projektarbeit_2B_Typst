@@ -59,12 +59,13 @@ Diese Beispiele zeigen, dass die #acrs("ISO") durch ihre Normungsarbeit einen be
 // Muss ich quellen wie verschiedene Links auf der ISO Website unterscheiden.
 
 == Qualitätsmanagement
-Eine Erörterung der spezifischen Anforderungen und Herausforderungen des #acrs("QM") erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der ISO zu den Begriffen "Qualität" und "Management" von entscheidender Bedeutung, da diese Definitionen als weltweite Referenzstandards dienen.
+Eine Diskussion der spezifischen Anforderungen und Herausforderungen des #acrs("QM") erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der Begriffe "Qualität" und "Management" der #acrs("ISO") von zentraler Bedeutung, da sie internationale Referenzstandards darstellen.
 
-Laut ISO 9000:2015 wird "Qualität" definiert als:
+Laut ISO 9000:2015 wird Qualität definiert als:
 #set quote(block: true)
 #quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000de]) 
-Wobei "Inhärente Merkmale", Merkmale sind die einem Produkt, einer Dienstleistung oder einem Prozess innewohnen und "Anforderungen", Bedürfnisse oder Erwartungen, die festgelegt, üblicherweise vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens @iso9000de.
+// Hier vielleicht kein Zitat verwenden?
+Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, einer Dienstleistung oder eines Prozesses verstanden, die diesem innewohnen. Demgegenüber stehen die „Anforderungen“, welche Bedürfnisse oder Erwartungen widerspiegeln, die in der Regel festgelegt, vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens @iso9000de.
 
 Laut ISO 9000:2015 wird "Management" definiert als:
 
@@ -76,7 +77,7 @@ Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die not
 
 Die Kombination der zuvor dargelegten Definitionen bildet die Grundlage für das #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen. Dies impliziert die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt.
 
-Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits, Überprüfungen sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten. Des Weiteren ist die Einbeziehung sämtlicher Interessengruppen, einschließlich Lieferanten und Kunden, von entscheidender Bedeutung, um ein umfassendes und erfolgreiches  #acrs("QM")  zu gewährleisten @iso9001de.
+Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits, Überprüfungen sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten. Des Weiteren ist die Einbeziehung sämtlicher Interessengruppen, einschließlich Lieferanten und Kunden, von entscheidender Bedeutung, um ein umfassendes und erfolgreiches #acrs("QM") zu gewährleisten @iso9001de.
 
 #acrs("ISO") 9001 definiert die sieben wesentlichen Grundsätze des #acrs("QM") wie folgt:
 

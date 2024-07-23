@@ -75,11 +75,13 @@ Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die not
 
 #pagebreak()
 
-Die Kombination der zuvor dargelegten Definitionen bildet die Grundlage für das #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen. Dies impliziert die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt.
+Die Kombination der zuvor dargelegten Definitionen bildet die Grundlage für das #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen. Dies kann durch die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt erreicht werden.
+// Satzbau bearbeiten
 
 Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits, Überprüfungen sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten. Des Weiteren ist die Einbeziehung sämtlicher Interessengruppen, einschließlich Lieferanten und Kunden, von entscheidender Bedeutung, um ein umfassendes und erfolgreiches #acrs("QM") zu gewährleisten @iso9001de.
 
-#acrs("ISO") 9001 definiert die sieben wesentlichen Grundsätze des #acrs("QM") wie folgt:
+#acrs("ISO") 9000 das als grundlagende  für ISO 9001 gilt,   definiert diese sieben Aspkte als wesentliche Grundsätze des #acrs("QM") @iso9000de:
+// Satz bearbeiten 
 
 1. Kundenorientierung: Die Bedürfnisse und Erwartungen der Kunden stehen im Mittelpunkt und bestimmen die Qualitätsstandards.
 2. Führung: Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
@@ -113,6 +115,8 @@ Dokumentationspflicht gegenüber Auftraggebern
 
 == Mitarbeiterumfrage 
 - Was, warum? Als Anhang hinzufügen.
+- Wie kommen sie mit der priorisierung von Aufgaben zurecht
+- Wie kommen sie mit der definition von aufgaen zurecht?
 === Durchführung
 - Wie? Mit Befolgung welcher Normen und Konzepte?
 === Ergebnisse und Auswertung

@@ -77,8 +77,7 @@ Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die not
 
 Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage für #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen @iso9000de. Dies kann durch die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt erreicht werden. Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten @iso9001de.
 
-Gemäß #acrs("ISO") (@fig-7qmprinciples) sind die zentralen Konzepte des #acrs("QM") @iso9000de:
-
+#acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in #acrs("ISO") 9001 verwendet werden. Dies gewährleistet, dass alle Anwender über ein einheitliches Verständnis der verwendeten Begriffe und Konzepte verfügen. Die in @fig-7qmprinciples dargestellten Konzepte bilden gemäß #acrs("ISO") 9000 das Fundament des #acrs("QM") @iso9000de:
 
 #figure(caption: [7 Prinzipien des Qualitätsmanagements @qm7principles] , image(width: 9cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
 
@@ -92,7 +91,8 @@ Gemäß #acrs("ISO") (@fig-7qmprinciples) sind die zentralen Konzepte des #acrs(
 6. Faktengestützte Entscheidungsfindung: Die Grundlage für Entscheidungen bildet die Auswertung von Daten und Fakten.
 7. Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
-Die #acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in der #acrs("ISO") 9001 verwendet werden. Diese Konzepte bilden die Grundlage für die Entwicklung und Implementierung von #acrs("QMS") gemäß #acrs("ISO") 9001 und tragen dazu bei, dass Organisationen konsistente und qualitativ hochwertige Produkte und Dienstleistungen liefern können @iso9001de.
+Diese Konzepte dienen als Grundlage für die Entwicklung und Implementierung von #acrs("QMS") gemäß #acrs("ISO") 9001 und tragen dazu bei, dass Organisationen konsistente und qualitativ hochwertige Produkte und Dienstleistungen liefern können @iso9001de.
+
 
 #pagebreak()
 

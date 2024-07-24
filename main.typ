@@ -25,7 +25,7 @@
 
 Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001de. In seiner Doktorarbeit "Handwerk in der postindustriellen Gesellschaft...Leipzig" beschreibt Tobias Werner, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
 
-Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe ISO 9000, etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000de. Die Konzepte des "Process Approach (#acrs("PA"))", des "Plan-Do-Check-Act cycle (#acrs("PDCA"))" sowie des "Risk-Based Thinking (#acrs("RBT"))" haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001de.
+Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe "ISO 9000", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000de. Die Konzepte des "Process Approach (#acrs("PA"))", des "Plan-Do-Check-Act cycle (#acrs("PDCA"))" sowie des "Risk-Based Thinking (#acrs("RBT"))" haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001de.
 #pagebreak()
 
 Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen #acrs("KMU") eine signifikante Herausforderung dar. Der Mangel an notwendigen finanziellen Mitteln und verantwortlichen Personen führt dazu, dass ein wirksames #acrs("QMS") in diesen Unternehmensformen oft nicht etabliert werden kann. Infolgedessen kann es in diesen Unternehmen an einer etablierten Qualitätskultur sowie an dem notwendigen Engagement für das #acrs("QM") fehlen.
@@ -53,21 +53,21 @@ Typische Beispiele für von der #acrs("ISO") erarbeitete Standards sind:
 
 - Der MP3-Standard für Audiodateien und Standards für Telefonkarten sind typische Beispiele für  Standards, die von der #acrs("ISO") entwickelt wurden. Sie spielen eine entscheidende Rolle in der Softwareindustrie, indem sie die Kompatibilität und Interoperabilität zwischen verschiedenen Systemen und Anwendungen sicherstellen @isopopstandards.
 
-- Ländercodes wie DE für Deutschland, NL für die Niederlande und JP für Japan basieren auf ISO-Standards. Diese Codes sind in vielen internationalen Anwendungen und Datenbanken unverzichtbar, da sie eine einheitliche Identifizierung und Verwaltung von Länderinformationen ermöglichen @isopopstandards.
+- Ländercodes wie DE für Deutschland, NL für die Niederlande und JP für Japan basieren auf #acrs("ISO")-Standards. Diese Codes sind in vielen internationalen Anwendungen und Datenbanken unverzichtbar, da sie eine einheitliche Identifizierung und Verwaltung von Länderinformationen ermöglichen @isopopstandards.
 
 Diese Beispiele zeigen, dass die #acrs("ISO") durch ihre Normungsarbeit einen bedeutenden Einfluss auf viele Bereiche ausübt, insbesondere auf die Softwareindustrie, indem sie Normen festlegt, die sowohl technische als auch organisatorische Aspekte abdecken.
 // Muss ich quellen wie verschiedene Links auf der ISO Website unterscheiden.
 
-== Qualitätsmanagement
-Eine Diskussion der spezifischen Anforderungen und Herausforderungen des #acrs("QM") erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der Begriffe "Qualität" und "Management" der #acrs("ISO") von zentraler Bedeutung, da sie internationale Referenzstandards darstellen.
+== Qualitätsmanagementsystem
+Eine Diskussion der spezifischen Anforderungen und Herausforderungen eines #acrs("QMS") erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der Begriffe "Qualität" und "Management" der #acrs("ISO") von zentraler Bedeutung, da sie internationale Referenzstandards darstellen.
 
-Laut ISO 9000:2015 wird Qualität definiert als:
+Gemäß #acrs("ISO") 9000:2015 wird Qualität definiert als:
 #set quote(block: true)
 #quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000de]) 
 // Hier vielleicht kein Zitat verwenden?
 Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, einer Dienstleistung oder eines Prozesses verstanden, die diesem innewohnen. Demgegenüber stehen die „Anforderungen“, welche Bedürfnisse oder Erwartungen widerspiegeln, die in der Regel festgelegt, vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens @iso9000de.
 
-Laut ISO 9000:2015 wird "Management" definiert als:
+Gemäß #acrs("ISO") 9000:2015 wird "Management" definiert als:
 
 #set quote(block: true)
 #quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000de])
@@ -75,23 +75,27 @@ Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die not
 
 #pagebreak()
 
-Die Kombination der zuvor dargelegten Definitionen bildet die Grundlage für das #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen. Dies kann durch die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt erreicht werden.
-// Satzbau bearbeiten
+Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage für #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen @iso9000de. Dies kann durch die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt erreicht werden. Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten @iso9001de.
 
-Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits, Überprüfungen sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten. Des Weiteren ist die Einbeziehung sämtlicher Interessengruppen, einschließlich Lieferanten und Kunden, von entscheidender Bedeutung, um ein umfassendes und erfolgreiches #acrs("QM") zu gewährleisten @iso9001de.
+Gemäß #acrs("ISO") (@fig-7qmprinciples) sind die zentralen Konzepte des #acrs("QM") @iso9000de:
 
-#acrs("ISO") 9000 das als grundlagende  für ISO 9001 gilt,   definiert diese sieben Aspkte als wesentliche Grundsätze des #acrs("QM") @iso9000de:
-// Satz bearbeiten 
 
-1. Kundenorientierung: Die Bedürfnisse und Erwartungen der Kunden stehen im Mittelpunkt und bestimmen die Qualitätsstandards.
+#figure(caption: "7 Prinzipien des Qualitätsmanagements #qm7principles", image(width: 9cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
+
+#pagebreak()
+
+1. Kundenorientierung: Die Bedürfnisse und Erwartungen der Kunden stellen den Mittelpunkt dar und determinieren die Qualitätsstandards.
 2. Führung: Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
 3. Einbeziehung von Personen: Alle Mitarbeitenden sollen einbezogen und motiviert werden, zur Erreichung der Qualitätsziele beizutragen.
 4. Prozessorientierter Ansatz: Die Aktivitäten und Ressourcen einer Organisation werden als zusammenhängende Prozesse verstanden, die systematisch verwaltet werden.
 5. Verbesserung: Die Organisation verpflichtet sich zu einem fortlaufenden Verbesserungsprozess in allen Bereichen.
-6. Faktengestützte Entscheidungsfindung: Entscheidungen werden auf der Grundlage von Daten und Fakten getroffen.
+6. Faktengestützte Entscheidungsfindung: Die Grundlage für Entscheidungen bildet die Auswertung von Daten und Fakten.
 7. Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
+Die #acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in der #acrs("ISO") 9001 verwendet werden. Diese Konzepte bilden die Grundlage für die Entwicklung und Implementierung von #acrs("QMS") gemäß #acrs("ISO") 9001 und tragen dazu bei, dass Organisationen konsistente und qualitativ hochwertige Produkte und Dienstleistungen liefern können @iso9001de.
+
 #pagebreak()
+
 
 === Software Qualität
 

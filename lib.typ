@@ -100,7 +100,7 @@
   let heading-font = "Arial"
   
   // customize look of figure
-  set figure.caption(separator: [ --- ], position: bottom)
+  set figure.caption(separator: [ -- ], position: bottom)
 
   // set body font family
   set text(font: body-font, lang: language, 12pt)

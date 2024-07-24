@@ -80,7 +80,7 @@ Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage fü
 Gemäß #acrs("ISO") (@fig-7qmprinciples) sind die zentralen Konzepte des #acrs("QM") @iso9000de:
 
 
-#figure(caption: "7 Prinzipien des Qualitätsmanagements #qm7principles", image(width: 9cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
+#figure(caption: [7 Prinzipien des Qualitätsmanagements @qm7principles] , image(width: 9cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
 
 #pagebreak()
 

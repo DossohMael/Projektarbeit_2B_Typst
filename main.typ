@@ -43,7 +43,7 @@ Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und ei
 // Kapiteltitel und Inhalte anpassen falls sie sich ändern.
 
 = Grundlagen und Begriffsdefinitionen
-Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem Prozessansatz sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Dabei erfolgt eine primäre Orientierung an den Definitionen der #acrs("ISO") in den Normen "#acrs("ISO") 9000 "@iso9000de, "#acrs("ISO") 9001"@iso9001de sowie "#acrs("ISO") 25000"@iso25000en.
+Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem daraus entspringedem #acrs("QMS"), Software-Qualitätsanforderungen sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Dabei erfolgt eine primäre Orientierung an den Definitionen der #acrs("ISO") in den Normen "#acrs("ISO") 9000 "@iso9000de, "#acrs("ISO") 9001"@iso9001de sowie "#acrs("ISO") 25000"@iso25000en.
 
 == Die Internationale Organisation für Normung
 Die #acrs("ISO") ist eine internationale Vereinigung nationaler Normungsorganisationen mit derzeit 172 Mitgliedsländern. Insgesamt wird die Organisation von 839 technischen Komitees und Unterkomitees unterstützt (Stand Juli 2024). Sie wurde 1947 in Genf, Schweiz, gegründet und hat seitdem 25.488 internationale Normen herausgegeben @isoabout.
@@ -91,7 +91,9 @@ Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage fü
 6. Faktengestützte Entscheidungsfindung: Die Grundlage für Entscheidungen bildet die Auswertung von Daten und Fakten.
 7. Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
-Diese Konzepte dienen als Grundlage für die Entwicklung und Implementierung von #acrs("QMS") gemäß #acrs("ISO") 9001 und tragen dazu bei, dass Organisationen konsistente und qualitativ hochwertige Produkte und Dienstleistungen liefern können @iso9001de.
+Es kann festgehalten werden, dass #acrs("QM") eine systematische Vorgehensweise bezeichnet, deren Ziel die Optimierung der Qualität von Produkten und Dienstleistungen ist. Dies erfolgt durch eine kontinuierliche Evaluierung und gegebenenfalls Modifikation der internen Prozesse einer Organisation. Ein wesentlicher Bestandteil des #acrs("QM") stellt das #acrs("QMS") dar. Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
+
+
 
 
 #pagebreak()

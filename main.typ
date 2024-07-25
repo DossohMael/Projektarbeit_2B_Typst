@@ -58,7 +58,7 @@ Typische Beispiele für von der #acrs("ISO") erarbeitete Standards sind:
 Diese Beispiele zeigen, dass die #acrs("ISO") durch ihre Normungsarbeit einen bedeutenden Einfluss auf viele Bereiche ausübt, insbesondere auf die Softwareindustrie, indem sie Normen festlegt, die sowohl technische als auch organisatorische Aspekte abdecken.
 // Muss ich quellen wie verschiedene Links auf der ISO Website unterscheiden.
 
-== Qualitätsmanagementsystem
+== Qualitätsmanagement und Qualitätsmanagementsystem
 Eine Diskussion der spezifischen Anforderungen und Herausforderungen eines #acrs("QMS") erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der Begriffe "Qualität" und "Management" der #acrs("ISO") von zentraler Bedeutung, da sie internationale Referenzstandards darstellen.
 
 Gemäß #acrs("ISO") 9000:2015 wird Qualität definiert als:
@@ -91,10 +91,25 @@ Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage fü
 6. Faktengestützte Entscheidungsfindung: Die Grundlage für Entscheidungen bildet die Auswertung von Daten und Fakten.
 7. Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
-
 Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische Vorgehensweise bezeichnet, deren Ziel die Optimierung der Qualität von Produkten und Dienstleistungen ist. Dies erfolgt durch eine kontinuierliche Evaluierung und gegebenenfalls Modifikation der internen Prozesse einer Organisation. #acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in #acrs("ISO") 9001 verwendet werden. Dies gewährleistet, dass alle Anwender über ein einheitliches Verständnis der verwendeten Begriffe und Konzepte verfügen. 
 
+#pagebreak()
+
 Ein wesentlicher Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
+
+#acrs("QMS") laut #acrs("ISO") befolgen die Struktur des Plan-Do-Check-Act (#acrs("PDCA")) -Zyklus, auch Shewhart- oder Deming-Zyklus gennant. Der Physicist und Statistiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion. Damals hatte der Zyklus nur 3 Phasen (Plan, Do, Check). Der Zyklus wurde später von W. Edwards Deming um eine vierte Phase (Act) erweitert. Der PDCA-Zyklus umfasst vier Phasen:
+
+#figure(caption: "Der Plan-Do-Check-Act Zyklus", image(width: 12cm, "figures/PDCA_Cycle.png"))
+
+
+ die in einem kontinuierlichen Kreislauf durchlaufen werden
+
+der Dieser Zyklus enstand im Jahre 1939 wurde im Jahre  umfasst vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
+
+- Plan: Festlegung der Qualitätsziele und der notwendigen Prozesse zur Erreichung dieser Ziele.
+- Do: Umsetzung der geplanten Prozesse.
+- Check:  Überwachung und Bewertung der Prozesse und Ergebnisse im Hinblick auf die definierten Qualitätsziele.
+- Act: Durchführung von Maßnahmen zur Verbesserung der Prozesse und Ergebnisse.
 
 #pagebreak()
 

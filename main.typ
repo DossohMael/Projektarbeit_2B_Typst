@@ -64,7 +64,7 @@ Eine Diskussion der spezifischen Anforderungen und Herausforderungen eines #acrs
 Gemäß #acrs("ISO") 9000:2015 wird Qualität definiert als:
 #set quote(block: true)
 #quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000de]) 
-// Hier vielleicht kein Zitat verwenden?
+
 Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, einer Dienstleistung oder eines Prozesses verstanden, die diesem innewohnen. Demgegenüber stehen die „Anforderungen“, welche Bedürfnisse oder Erwartungen widerspiegeln, die in der Regel festgelegt, vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens. @iso9000de
 
 Gemäß #acrs("ISO") 9000:2015 wird "Management" definiert als:
@@ -97,14 +97,17 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 
 Ein wesentlicher Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
 
-#acrs("QMS") laut #acrs("ISO") befolgen die Struktur des Plan-Do-Check-Act (#acrs("PDCA")) -Zyklus, auch Shewhart- oder Deming-Zyklus gennant. Der Physicist und Statistiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion. Damals hatte der Zyklus nur 3 Phasen (Plan, Do, Check). Der Zyklus wurde später von W. Edwards Deming um eine vierte Phase (Act) erweitert. Der PDCA-Zyklus umfasst vier Phasen:
+#acrs("QMS") laut #acrs("ISO") befolgen die Struktur des Plan-Do-Check-Act (#acrs("PDCA")) -Zyklus, auch Shewhart- oder Deming-Zyklus gennant. Der Physicist und Statistiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion. Damals hatte der Zyklus nur 3 Phasen (Specification → Production → Inspection) shewman : 
 
-#figure(caption: "Der Plan-Do-Check-Act Zyklus", image(width: 12cm, "figures/PDCA_Cycle.png"))
+#set quote(block: true)
+#quote(["These three steps must go in a circle instead of in a straight line, as shown … It may be helpful to think of the three steps in the mass production process as steps in the scientific method. In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @moen2009pdca])
+
+Der Zyklus wurde in den 1950er Jahren von W. Edwards Deming verändert (Plan, Do, Check) und um eine vierte Phase (Act) erweitert. Der PDCA-Zyklus umfasst vier Phasen und wird in einem kontinuierlichen Kreislauf durchlaufen:
+
+#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 12cm, "figures/PDCA_Cycle.png"))
 
 
- die in einem kontinuierlichen Kreislauf durchlaufen werden
 
-der Dieser Zyklus enstand im Jahre 1939 wurde im Jahre  umfasst vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
 
 - Plan: Festlegung der Qualitätsziele und der notwendigen Prozesse zur Erreichung dieser Ziele.
 - Do: Umsetzung der geplanten Prozesse.

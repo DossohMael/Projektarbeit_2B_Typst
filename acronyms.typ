@@ -11,5 +11,7 @@
   PDCA: "Plan-Do-Check-Act",
   RBT: "Risk-Based Thinking",
   MP3: "MPEG-1 Audio Layer III",
-  
+  DE: "Deutschland",
+  NL: "Niederlande",
+  JP: "Japan",
 )

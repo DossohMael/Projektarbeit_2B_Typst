@@ -46,14 +46,14 @@ Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und ei
 Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Fokus liegt dabei auf dem #acrs("QM"), dem daraus entspringedem #acrs("QMS"), Software-Qualitätsanforderungen sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Dabei erfolgt eine primäre Orientierung an den Definitionen der #acrs("ISO") in den Normen "#acrs("ISO") 9000 "@iso9000de, "#acrs("ISO") 9001"@iso9001de sowie "#acrs("ISO") 25000"@iso25000en.
 
 == Die Internationale Organisation für Normung
-Die #acrs("ISO") ist eine internationale Vereinigung nationaler Normungsorganisationen mit derzeit 172 Mitgliedsländern. Insgesamt wird die Organisation von 839 technischen Komitees und Unterkomitees unterstützt (Stand Juli 2024). Sie wurde 1947 in Genf, Schweiz, gegründet und hat seitdem 25.488 internationale Normen herausgegeben @isoabout.
+Die #acrs("ISO") wurde 1947 in Genf, Schweiz, gegründet und ist eine internationale Vereinigung nationaler Normungsorganisationen mit derzeit 172 Mitgliedsländern. Insgesamt wird die Organisation von 839 technischen Komitees und Unterkomitees unterstützt und hat bis heute 25.488 internationale Normen herausgegeben (Stand Juli 2024) @isoabout.
 #acrs("ISO")-Standards sind Formeln, welche die optimale Vorgehensweise für eine Tätigkeit definieren. Sie werden von internationalen Experten festgelegt und umfassen die Bereiche der Produktfertigung, des Prozessmanagements, der Erbringung von Dienstleistungen sowie der Materialwirtschaft @isostandards. 
 
 Typische Beispiele für von der #acrs("ISO") erarbeitete Standards sind:
 
-- Der MP3-Standard für Audiodateien und Standards für Telefonkarten sind typische Beispiele für  Standards, die von der #acrs("ISO") entwickelt wurden. Sie spielen eine entscheidende Rolle in der Softwareindustrie, indem sie die Kompatibilität und Interoperabilität zwischen verschiedenen Systemen und Anwendungen sicherstellen @isopopstandards.
+- Der MP3-Standard für Audiodateien und Standards für Telefonkarten. Sie spielen eine wichtige Rolle in der Software- und Telekommunikationsindustrie, indem sie die Kompatibilität und Interoperabilität zwischen verschiedenen Systemen und Anwendungen gewährleisten @isopopstandards.
 
-- Ländercodes wie DE für Deutschland, NL für die Niederlande und JP für Japan basieren auf #acrs("ISO")-Standards. Diese Codes sind in vielen internationalen Anwendungen und Datenbanken unverzichtbar, da sie eine einheitliche Identifizierung und Verwaltung von Länderinformationen ermöglichen @isopopstandards.
+- Ländercodes wie "DE" für Deutschland, "NL" für die Niederlande und "JP" für Japan. Diese Codes sind in vielen internationalen Anwendungen und Datenbanken unverzichtbar, da sie eine einheitliche Identifizierung und Verwaltung von Länderinformationen ermöglichen @isopopstandards.
 
 Diese Beispiele zeigen, dass die #acrs("ISO") durch ihre Normungsarbeit einen bedeutenden Einfluss auf viele Bereiche ausübt, insbesondere auf die Softwareindustrie, indem sie Normen festlegt, die sowohl technische als auch organisatorische Aspekte abdecken.
 // Muss ich quellen wie verschiedene Links auf der ISO Website unterscheiden.
@@ -65,21 +65,21 @@ Gemäß #acrs("ISO") 9000:2015 wird Qualität definiert als:
 #set quote(block: true)
 #quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000de]) 
 // Hier vielleicht kein Zitat verwenden?
-Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, einer Dienstleistung oder eines Prozesses verstanden, die diesem innewohnen. Demgegenüber stehen die „Anforderungen“, welche Bedürfnisse oder Erwartungen widerspiegeln, die in der Regel festgelegt, vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens @iso9000de.
+Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, einer Dienstleistung oder eines Prozesses verstanden, die diesem innewohnen. Demgegenüber stehen die „Anforderungen“, welche Bedürfnisse oder Erwartungen widerspiegeln, die in der Regel festgelegt, vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens. @iso9000de
 
 Gemäß #acrs("ISO") 9000:2015 wird "Management" definiert als:
 
 #set quote(block: true)
 #quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000de])
-Diese Definition verdeutlicht, dass Management die Aktivitäten umfasst, die notwendig sind, um die Ziele einer Organisation zu erreichen, einschließlich der Planung, Organisation, Leitung, Koordination und Kontrolle aller Aktivitäten und Ressourcen. Diese Definition ist wesentlich für das Verständnis von #acrs("QM"), da sie die systematische und methodische Herangehensweise betont, die notwendig ist, um eine Organisation effektiv und effizient zu führen und zu steuern @iso9000de.
+Die angeführte Definition verdeutlicht, dass Management die Aktivitäten umfasst, die notwendig sind, um die Ziele einer Organisation zu erreichen. Dies umfasst die Planung, Organisation, Leitung, Koordination und Kontrolle aller Aktivitäten und Ressourcen. Diese Definition ist wesentlich für das Verständnis von #acrs("QM"), da sie die Notwendigkeit einer systematischen und methodischen Herangehensweise betont, die notwendig ist, um eine Organisation effektiv und effizient zu führen und zu steuern. @iso9000de
 
 #pagebreak()
 
-Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage für #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen @iso9000de. Dies kann durch die Implementierung eines #acrs("QMS"), welches auf den Grundsätzen der #acrs("ISO") 9001 basiert und eine Struktur für die kontinuierliche Verbesserung und Kundenzufriedenheit bereitstellt erreicht werden. Ein effektives #acrs("QMS") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten @iso9001de.
+Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage für #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen @iso9000de. Ein effektives #acrs("QM") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dazu zählen regelmäßige Audits sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten @iso9001de.
 
-#acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in #acrs("ISO") 9001 verwendet werden. Dies gewährleistet, dass alle Anwender über ein einheitliches Verständnis der verwendeten Begriffe und Konzepte verfügen. Die in @fig-7qmprinciples dargestellten Konzepte bilden gemäß #acrs("ISO") 9000 das Fundament des #acrs("QM") @iso9000de:
+ Die in @fig-7qmprinciples dargestellten Konzepte bilden gemäß #acrs("ISO") 9000 das Fundament des #acrs("QM") @iso9000de:
 
-#figure(caption: [7 Prinzipien des Qualitätsmanagements @qm7principles] , image(width: 9cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
+#figure(caption: [7 Prinzipien des Qualitätsmanagements @qm7principles], image(width: 9cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
 
 #pagebreak()
 
@@ -91,7 +91,11 @@ Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage fü
 6. Faktengestützte Entscheidungsfindung: Die Grundlage für Entscheidungen bildet die Auswertung von Daten und Fakten.
 7. Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
-Es kann festgehalten werden, dass #acrs("QM") eine systematische Vorgehensweise bezeichnet, deren Ziel die Optimierung der Qualität von Produkten und Dienstleistungen ist. Dies erfolgt durch eine kontinuierliche Evaluierung und gegebenenfalls Modifikation der internen Prozesse einer Organisation. Ein wesentlicher Bestandteil des #acrs("QM") stellt das #acrs("QMS") dar. Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
+
+Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische Vorgehensweise bezeichnet, deren Ziel die Optimierung der Qualität von Produkten und Dienstleistungen ist. Dies erfolgt durch eine kontinuierliche Evaluierung und gegebenenfalls Modifikation der internen Prozesse einer Organisation. #acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in #acrs("ISO") 9001 verwendet werden. Dies gewährleistet, dass alle Anwender über ein einheitliches Verständnis der verwendeten Begriffe und Konzepte verfügen. 
+
+Ein wesentlicher Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
+
 
 
 

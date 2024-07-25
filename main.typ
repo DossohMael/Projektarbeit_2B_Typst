@@ -95,16 +95,27 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 
 #pagebreak()
 
-Ein wesentlicher Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
+Ein Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
 
-#acrs("QMS") laut #acrs("ISO") befolgen die Struktur des Plan-Do-Check-Act (#acrs("PDCA")) -Zyklus, auch Shewhart- oder Deming-Zyklus gennant. Der Physicist und Statistiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion. Damals hatte der Zyklus nur 3 Phasen (Specification → Production → Inspection) shewman : 
+#acrs("QMS") laut #acrs("ISO") befolgen die Struktur des Plan-Do-Check-Act (#acrs("PDCA")) -Zyklus, auch Shewhart- oder Deming-Zyklus gennant. Der Physicist und Statistiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion. Damals hatte der Zyklus nur 3 Phasen (Specification → Production → Inspection): 
 
 #set quote(block: true)
-#quote(["These three steps must go in a circle instead of in a straight line, as shown … It may be helpful to think of the three steps in the mass production process as steps in the scientific method. In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @moen2009pdca])
+#quote(["These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @moen2009pdca])
 
-Der Zyklus wurde in den 1950er Jahren von W. Edwards Deming verändert (Plan, Do, Check) und um eine vierte Phase (Act) erweitert. Der PDCA-Zyklus umfasst vier Phasen und wird in einem kontinuierlichen Kreislauf durchlaufen:
+Der ursprüngliche Zyklus, wie in dem Zitat beschrieben, wurde in den 1950er Jahren von W. Edwards Deming verändert und erweitert. Deming führte die Phase "Plan" ein, um das systematische Vorgehen bei der Problemlösung zu betonen. Dies erfolgte vor dem Hintergrund der Notwendigkeit, Qualität und Effizienz in der Massenproduktion zu verbessern. Die Erweiterung zu einem vierphasigen Zyklus, bekannt als PDCA-Zyklus (Plan, Do, Check, Act), zielte darauf ab, kontinuierliche Verbesserungen in Prozessen zu ermöglichen und die Qualitätssicherung zu stärken. @moen2009pdca
 
-#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 12cm, "figures/PDCA_Cycle.png"))
+#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 9cm, "figures/PDCA Cycle 1994.png"))
+
+
+Der PDCA-Zyklus umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
+
+1. Plan: In dieser Phase werden Ziele festgelegt und die notwendigen Schritte zur Erreichung dieser Ziele geplant. Dies beinhaltet die Analyse von Daten und die Entwicklung von Hypothesen, ähnlich dem wissenschaftlichen Ansatz des Hypothesentestens.
+2. Do: Die geplanten Schritte werden umgesetzt. Dies entspricht der Durchführung eines Experiments im wissenschaftlichen Sinne, wobei die Umsetzung unter kontrollierten Bedingungen erfolgt.
+3. Check: In dieser Phase werden die Ergebnisse der Umsetzung überprüft und mit den festgelegten Zielen verglichen. Dies entspricht dem Testen der Hypothese und der Analyse der Daten, um Abweichungen zu identifizieren.
+4. Act: Basierend auf den Ergebnissen der Überprüfung werden notwendige Anpassungen vorgenommen und Verbesserungen implementiert. Diese Phase schließt den Zyklus ab und bereitet den Weg für eine erneute Durchlaufphase.
+
+Durch diese systematische und iterative Vorgehensweise ermöglicht der PDCA-Zyklus eine fortlaufende Verbesserung von Prozessen und die kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen. Die Einführung dieses Zyklus durch Deming hatte weitreichende Auswirkungen auf das Qualitätsmanagement und trug maßgeblich zur Entwicklung moderner Managementpraktiken bei.
+
 
 
 

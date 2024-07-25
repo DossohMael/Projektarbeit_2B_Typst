@@ -96,30 +96,27 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 
 Ein wesentlicher Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
 
-
-
-
-
 #pagebreak()
 
-
-=== Software Qualität
 
 == Der Prozessansatz
 - "Process Approach (#acrs("PA"))", 
 - "Plan-Do-Check-Act (#acrs("PDCA")) cycle" 
-- "Risk-Based Thinking (#acrs("RBT"))"
-
-Wie wird qualität gemessen? Key performance indicators
+- Wie wird qualität gemessen? Key performance indicators
 === Methoden zur Identifikation von Schwachstellen
+Capability Maturity Model Integration
+
+== Software Qualität
 
 == Entwicklungs-, Test- und Release-Prozesse
 CICD CYCLE SCHAUBILD 
 == Kleine und mittlere Unternehmen
-
 === Erhebung und Dokumentation 
 Dokumentationspflicht gegenüber Auftraggebern
 // Reihenfolge der Kapitel überdenken.
+
+
+
 
 = Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
 

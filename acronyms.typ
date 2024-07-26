@@ -8,7 +8,7 @@
   KMU: "Kleine und mittlere Unternehmen",
   ISO: "International Organization for Standardization",
   PA: "Process Approach",
-  PDCA: "Plan-Do-Check-Act-Cycle",
+  PDCA: "Plan-Do-Check-Act Cycle",
   RBT: "Risk-Based Thinking",
   MP3: "MPEG-1 Audio Layer III",
   DE: "Deutschland",

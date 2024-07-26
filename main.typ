@@ -105,7 +105,7 @@ Der ursprüngliche Zyklus umfasste lediglich drei Phasen (Specification, Product
 
 In den 1950er Jahren wurde der in diesem Zitat beschriebene Zyklus von W. Edwards Deming ergänzt und weiterentwickelt. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde. Der #acrs("PDCA") basiert auf einer systematischen und iterativen Vorgehensweise, die eine fortlaufende Verbesserung von Prozessen und eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht. @moen2009pdca
 
-#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 8cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
+#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 7cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
 
 
 Wie Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
@@ -115,15 +115,16 @@ Wie Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuier
 3. Check: In dieser Phase erfolgt eine Evaluierung der Ergebnisse der Umsetzung, welche mit den zuvor definierten Zielen verglichen wird. Dieser Prozess kann als Test der aufgestellten Hypothese sowie als Analyse der Daten bezeichnet werden, mit dem Ziel, etwaige Abweichungen zu identifizieren.
 4. Act: Auf Basis der Resultate der Evaluierung werden erforderliche Modifikationen vorgenommen und Optimierungen implementiert. Dieser Schritt schließt den Zyklus ab und ebnet den Weg für eine erneute Durchlaufphase.
 
-Durch diese systematische und iterative Vorgehensweise ermöglicht der #acrs("PDCA") eine fortlaufende Verbesserung von Prozessen und die kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen. Die Einführung dieses Zyklus durch Deming hatte weitreichende Auswirkungen auf das Qualitätsmanagement und trug maßgeblich zur Entwicklung moderner Managementpraktiken bei.
- 
- #pagebreak()
-
-
-
-
+Durch diese systematische und iterative Vorgehensweise ermöglicht der #acrs("PDCA") eine fortlaufende Verbesserung von Prozessen und die kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen. Die Einführung dieses Zyklus durch Deming hatte weitreichende Auswirkungen auf das Qualitätsmanagement und trug maßgeblich zur Entwicklung moderner Managementpraktiken bei @moen2009pdca.
 
 #pagebreak()
+
+#acrs("QMS") sowie wie #acrs("ISO") 9001 sie definiert verwenden eine dem #acrs("QM") angepasste form des #acrs("PDCA"): 
+
+#figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanageme @iso9001de], image(width: 13cm, "figures/ISO9001PDCA.png"))
+ 
+#pagebreak()
+
 
 
 == Der Prozessansatz
@@ -194,11 +195,6 @@ Create bullet lists or numbered lists.
 == Figures and Tables
 
 Create figures or tables like this:
-
-=== Figures
-
-#figure(caption: "Image Example", image(width: 4cm, "figures/ts.svg"))
-#figure(caption: "Image Example", image(width: 4cm, "figures/dhbw.svg"))
 
 === Tables
 

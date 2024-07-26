@@ -25,7 +25,7 @@
 
 Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001de. In seiner Doktorarbeit "Handwerk in der postindustriellen Gesellschaft...Leipzig" beschreibt Tobias Werner, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
 
-Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe "ISO 9000", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000de. Die Konzepte des "Process Approach (#acrs("PA"))", des "Plan-Do-Check-Act cycle (#acrs("PDCA"))" sowie des "Risk-Based Thinking (#acrs("RBT"))" haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001de.
+Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe "ISO 9000", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000de. Die Konzeptedes "Plan-Do-Check-Act-Cycle (#acrs("PDCA")) " des "Process Approach (#acrs("PA"))",  haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001de.
 #pagebreak()
 
 Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen #acrs("KMU") eine signifikante Herausforderung dar. Der Mangel an notwendigen finanziellen Mitteln und verantwortlichen Personen führt dazu, dass ein wirksames #acrs("QMS") in diesen Unternehmensformen oft nicht etabliert werden kann. Infolgedessen kann es in diesen Unternehmen an einer etablierten Qualitätskultur sowie an dem notwendigen Engagement für das #acrs("QM") fehlen.
@@ -95,35 +95,33 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 
 #pagebreak()
 
-Ein Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verantwortlichkeiten, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen und die Kundenzufriedenheit zu steigern. @iso9001de
-
-#acrs("QMS") laut #acrs("ISO") befolgen die Struktur des Plan-Do-Check-Act (#acrs("PDCA")) -Zyklus, auch Shewhart- oder Deming-Zyklus gennant. Der Physicist und Statistiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion. Damals hatte der Zyklus nur 3 Phasen (Specification → Production → Inspection): 
+Ein Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). 
+Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen. @iso9001de 
+Gemäß #acrs("ISO") befolgen #acrs("QMS") die Struktur des #acrs("PDCA"), auch Shewhart- oder Deming-Zyklus gennant. Der Physiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion der Firma Bell Telephone Laboratories. 
+Der ursprüngliche Zyklus umfasste lediglich drei Phasen (Specification, Production und Inspection):
 
 #set quote(block: true)
 #quote(["These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @moen2009pdca])
 
-Der ursprüngliche Zyklus, wie in dem Zitat beschrieben, wurde in den 1950er Jahren von W. Edwards Deming verändert und erweitert. Deming führte die Phase "Plan" ein, um das systematische Vorgehen bei der Problemlösung zu betonen. Dies erfolgte vor dem Hintergrund der Notwendigkeit, Qualität und Effizienz in der Massenproduktion zu verbessern. Die Erweiterung zu einem vierphasigen Zyklus, bekannt als PDCA-Zyklus (Plan, Do, Check, Act), zielte darauf ab, kontinuierliche Verbesserungen in Prozessen zu ermöglichen und die Qualitätssicherung zu stärken. @moen2009pdca
+In den 1950er Jahren wurde der in diesem Zitat beschriebene Zyklus von W. Edwards Deming ergänzt und weiterentwickelt. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde. Der #acrs("PDCA") basiert auf einer systematischen und iterativen Vorgehensweise, die eine fortlaufende Verbesserung von Prozessen und eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht. @moen2009pdca
 
-#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 9cm, "figures/PDCA Cycle 1994.png"))
-
-
-Der PDCA-Zyklus umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
-
-1. Plan: In dieser Phase werden Ziele festgelegt und die notwendigen Schritte zur Erreichung dieser Ziele geplant. Dies beinhaltet die Analyse von Daten und die Entwicklung von Hypothesen, ähnlich dem wissenschaftlichen Ansatz des Hypothesentestens.
-2. Do: Die geplanten Schritte werden umgesetzt. Dies entspricht der Durchführung eines Experiments im wissenschaftlichen Sinne, wobei die Umsetzung unter kontrollierten Bedingungen erfolgt.
-3. Check: In dieser Phase werden die Ergebnisse der Umsetzung überprüft und mit den festgelegten Zielen verglichen. Dies entspricht dem Testen der Hypothese und der Analyse der Daten, um Abweichungen zu identifizieren.
-4. Act: Basierend auf den Ergebnissen der Überprüfung werden notwendige Anpassungen vorgenommen und Verbesserungen implementiert. Diese Phase schließt den Zyklus ab und bereitet den Weg für eine erneute Durchlaufphase.
-
-Durch diese systematische und iterative Vorgehensweise ermöglicht der PDCA-Zyklus eine fortlaufende Verbesserung von Prozessen und die kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen. Die Einführung dieses Zyklus durch Deming hatte weitreichende Auswirkungen auf das Qualitätsmanagement und trug maßgeblich zur Entwicklung moderner Managementpraktiken bei.
+#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 8cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
 
 
+Wie Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
+
+1. Plan: In dieser Phase werden Ziele festgelegt und die notwendigen Schritte zur Erreichung dieser Ziele geplant. Dies beinhaltet die Analyse von Daten und die Entwicklung von Hypothesen.
+2. Die geplanten Schritte werden in der vorgesehenen Weise durchgeführt, wobei die Umsetzung als Experiment im wissenschaftlichen Sinne zu betrachten ist. Die Durchführung erfolgt unter kontrollierten Bedingungen.
+3. Check: In dieser Phase erfolgt eine Evaluierung der Ergebnisse der Umsetzung, welche mit den zuvor definierten Zielen verglichen wird. Dieser Prozess kann als Test der aufgestellten Hypothese sowie als Analyse der Daten bezeichnet werden, mit dem Ziel, etwaige Abweichungen zu identifizieren.
+4. Act: Auf Basis der Resultate der Evaluierung werden erforderliche Modifikationen vorgenommen und Optimierungen implementiert. Dieser Schritt schließt den Zyklus ab und ebnet den Weg für eine erneute Durchlaufphase.
+
+Durch diese systematische und iterative Vorgehensweise ermöglicht der #acrs("PDCA") eine fortlaufende Verbesserung von Prozessen und die kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen. Die Einführung dieses Zyklus durch Deming hatte weitreichende Auswirkungen auf das Qualitätsmanagement und trug maßgeblich zur Entwicklung moderner Managementpraktiken bei.
+ 
+ #pagebreak()
 
 
 
-- Plan: Festlegung der Qualitätsziele und der notwendigen Prozesse zur Erreichung dieser Ziele.
-- Do: Umsetzung der geplanten Prozesse.
-- Check:  Überwachung und Bewertung der Prozesse und Ergebnisse im Hinblick auf die definierten Qualitätsziele.
-- Act: Durchführung von Maßnahmen zur Verbesserung der Prozesse und Ergebnisse.
+
 
 #pagebreak()
 

@@ -289,7 +289,7 @@
   set page(
     numbering: "1",
     footer: context align(numbering-alignment, numbering(
-    // Hätte gerne das Format :"Seite" + #Seitennummer".
+    // TODO: Hätte gerne das Format :"Seite" + #Seitennummer".
     "1 / 1", 
     ..counter(page).get(),
     ..counter(page).at(<end>),
@@ -311,7 +311,7 @@
 
   // set page numberung of references
   counter(page).update(6)
-  // Je nach letzter Seitenanzahl anpassen.
+  // TODO: Je nach letzter Seitenanzahl anpassen.
 
   // Display bibliography.
   if bibliography != none {

@@ -59,7 +59,9 @@ Diese Beispiele zeigen, dass die #acrs("ISO") durch ihre Normungsarbeit einen be
 // Muss ich quellen wie verschiedene Links auf der ISO Website unterscheiden.
 
 == Qualitätsmanagement und Qualitätsmanagementsystem
-Eine Diskussion der spezifischen Anforderungen und Herausforderungen eines #acrs("QMS") erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der Begriffe "Qualität" und "Management" der #acrs("ISO") von zentraler Bedeutung, da sie internationale Referenzstandards darstellen.
+Eine Diskussion der spezifischen Anforderungen und Herausforderungen eines #acrs("QMS") erfordert eine grundlegende Begriffsklärung. Dabei sind insbesondere die Definitionen der Begriffe #acrs("QM") unddafür auch von "Qualität" und "Management" der #acrs("ISO") von zentraler Bedeutung, da sie internationale Referenzstandards darstellen.
+
+=== Qualitätsmanagement
 
 Gemäß #acrs("ISO") 9000:2015 wird Qualität definiert als:
 #set quote(block: true)
@@ -95,6 +97,7 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 
 #pagebreak()
 
+=== Qualitätsmanagementsystem
 Ein Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). 
 Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Verfahren, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Aspekte ist erforderlich, um die Qualitätsziele zu erreichen. @iso9001de 
 Gemäß #acrs("ISO") befolgen #acrs("QMS") die Struktur des #acrs("PDCA"), auch Shewhart- oder Deming-Zyklus gennant. Der Physiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion der Firma Bell Telephone Laboratories. 
@@ -119,28 +122,32 @@ Durch diese systematische und iterative Vorgehensweise ermöglicht der #acrs("PD
 
 #pagebreak()
 
-Ein #acrs("QMS") gemäß #acrs("ISO") 9001 verwendet eine dem #acrs("QM") angepasste Form des #acrs("PDCA"). Die #acrs("ISO") 9001 umfasst zehn Klauseln, wobei die ersten drei den Anwendungsbereich, normative Verweisungen und Begriffsbestimmungen behandeln. Die folgenden sieben Klauseln werden in @fig-pdcaiso9001 näher beschrieben.
+Ein #acrs("QMS") gemäß #acrs("ISO") 9001 verwendet eine dem #acrs("QM") angepasste Form des #acrs("PDCA"). Die #acrs("ISO") 9001 umfasst zehn Klauseln, wobei die ersten drei den Anwendungsbereich, normative Verweisungen und Begriffsbestimmungen behandeln. Die folgenden sieben Klauseln werden in @fig-pdcaiso9001 anhand des angepassten #acrs("PDCA") näher beschrieben.
 
 #figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanageme @iso9001de], image(width: 13cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 
-Die erste Phase des PDCA-Zyklus, das Planen, umfasst die Klauseln vier bis sechs. Die vierte Klausel „Understanding the Organization and Its Context“ thematisiert den Kontext der Organisation, wobei sowohl interne als auch externe Faktoren zu berücksichtigen sind. Es ist von entscheidender Bedeutung, dass die Organisation den Kontext, in dem sie sich befindet, vollständig erfasst und alle relevanten internen sowie externen Einflussfaktoren berücksichtigt. Die fünfte Klausel „Leadership“ ist von zentraler Bedeutung und bildet das Fundament des Systems, da die Führungskräfte darin die Vision und Richtung vorgeben, auf deren Basis die weiteren Elemente aufbauen. Die sechste Klausel „Planning“ umfasst die Festlegung von Maßnahmen zur Bewältigung von Risiken und Nutzung von Chancen sowie die Definition von Qualitätszielen und die Planung von Änderungen. In der Planungsphase erfolgt zunächst die Definition von Maßnahmen zur Bewältigung von Risiken sowie zur Nutzung von Chancen. @iso9001de
+Die erste Phase des #acrs("PDCA"), "Plan", umfasst die Klauseln vier bis sechs. Die vierte Klausel „Understanding the Organization and Its Context“ thematisiert den Kontext der Organisation, wobei sowohl interne als auch externe Faktoren zu berücksichtigen sind. Es ist von entscheidender Bedeutung, dass die Organisation den Kontext, in dem sie sich befindet, vollständig erfasst und alle relevanten internen sowie externen Einflussfaktoren berücksichtigt. Die fünfte Klausel „Leadership“ ist von zentraler Bedeutung und bildet das Fundament des Systems, da die Führungskräfte darin die Vision und Richtung vorgeben, auf deren Basis die weiteren Elemente aufbauen. Die sechste Klausel „Planning“ umfasst die Festlegung von Maßnahmen zur Bewältigung von Risiken und Nutzung von Chancen sowie die Definition von Qualitätszielen und die Planung von Änderungen. @iso9001de
 
-Die zweite Phase, das Durchführen, umfasst die Klauseln 7 und 8 der ISO 9001.
-n der siebten Phase, der sogenannten Support-Klausel, erfolgt eine Auseinandersetzung mit der Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen. In der Do-Phase erlangen die Bereitstellung der erforderlichen Ressourcen sowie die Umsetzung der geplanten Maßnahmen eine entscheidende Bedeutung.Die achte Klausel umfasst die operative Planung und Steuerung sowie die eigentliche Durchführung der Produktions- und Dienstleistungsprozesse. In dieser Phase erfolgt die Festlegung der Kriterien für die zu erbringenden Leistungen sowie die Auswahl und Überwachung externer Lieferanten. Zudem wird die Durchführung der Produktions- oder Dienstleistungsprozesse selbst sichergestellt, wodurch gewährleistet wird, dass die Produkte und Dienstleistungen den zuvor festgelegten Anforderungen entsprechen und die operativen Tätigkeiten in einer kontrollierten Art und Weise ablaufen. @iso9001de
+Die zweite Phase, "Do", umfasst die Klauseln 7 und 8 der ISO 9001. Gegenstand der siebten Klausel, der sogenannten „Support“-Klausel, ist die Auseinandersetzung mit der Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen. In dieser Phase erlangen die Bereitstellung der erforderlichen Ressourcen sowie die Umsetzung der geplanten Maßnahmen eine entscheidende Bedeutung. Die achte Klausel "Operation" umfasst die operative Planung und Steuerung sowie die eigentliche Durchführung der Produktions- und Dienstleistungsprozesse. In dieser Phase erfolgt die Festlegung der Kriterien für die zu erbringenden Leistungen sowie die Auswahl und Überwachung externer Lieferanten. Zudem wird die Durchführung der Produktions- oder Dienstleistungsprozesse selbst sichergestellt, wodurch gewährleistet wird, dass die Produkte und Dienstleistungen den zuvor festgelegten Anforderungen entsprechen und die operativen Tätigkeiten in einer kontrollierten Art und Weise ablaufen. @iso9001de
 
-Die dritte Phase, das Prüfen, wird durch Klausel 9 der ISO 9001 abgedeckt. Diese umfasst die Bewertung der Leistung, welche die Überwachung, Messung, Analyse und Bewertung der QMS-Leistung beinhaltet. Dies beinhaltet ebenfalls interne Audits und Managementbewertungen. Dieser Prozess entspricht der Check-Phase, in der die Ergebnisse überprüft und bewertet werden. @iso9001de
+Die dritte Phase, "Check", wird durch Klausel 9, "Performance evaluation", definiert. Diese umfasst die Bewertung der Leistung, welche die Überwachung, Messung, Analyse und Bewertung des #acrs("QMS")-Leistung beinhaltet. Dies beinhaltet ebenfalls interne Audits und Managementbewertungen. @iso9001de
 
-Die vierte Phase, das Handeln, ist in Klausel 10 der ISO 9001 geregelt. Gegenstand dieser Klausel ist die kontinuierliche Verbesserung, die Behandlung von Korrekturmaßnahmen sowie das Management von Nichtkonformitäten. In der Act-Phase werden auf Basis der Ergebnisse der Check-Phase notwendige Verbesserungsmaßnahmen abgeleitet. @iso9001de
+Die vierte Phase, "Act", ist in Klausel 10, "Improvement", geregelt. Gegenstand dieser Klausel ist die kontinuierliche Verbesserung, die Behandlung von Korrekturmaßnahmen sowie das Management von Nichtkonformitäten. In der Act-Phase werden auf Basis der Ergebnisse der Check-Phase notwendige Verbesserungsmaßnahmen abgeleitet. @iso9001de
 
 Ein Qualitätsmanagementsystem gemäß ISO 9001 stellt einen dynamischen Prozess dar, der eine kontinuierliche Überwachung und Verbesserung erfordert. Die Norm ermöglicht eine systematische Herangehensweise zur Erreichung und Aufrechterhaltung hoher Qualitätsstandards, indem sie diese in die Phasen des PDCA-Zyklus strukturiert. Dies fördert nicht nur die Kundenzufriedenheit, sondern trägt auch zur langfristigen Wettbewerbsfähigkeit und Effizienzsteigerung der Organisation bei. @iso9001de
 
+=== Software-Qualität
+
+Die Qualität von Softwareprodukten ist ein entscheidender Faktor für den Erfolg eines Unternehmens. Die #acrs("ISO") 25000 definiert Softwarequalität als:
+
+
 #pagebreak()
 
-
 == Der Prozessansatz
-- "Process Approach (#acrs("PA"))", 
-- "Plan-Do-Check-Act (#acrs("PDCA")) cycle" 
-- Wie wird qualität gemessen? Key performance indicators
+Der Prozessansatz gemäß ISO 9000, ISO 9001 und ISO 9004 ist ein zentrales Konzept des Qualitätsmanagements. Er beschreibt die Organisation als ein System von miteinander verknüpften Prozessen, die zusammenarbeiten, um die definierten Ziele zu erreichen. Ein Prozess wird dabei als eine Reihe von Tätigkeiten betrachtet, die Eingaben in Ergebnisse umwandeln. Die Anwendung des Prozessansatzes ermöglicht es, die Effektivität und Effizienz der Prozesse zu steigern, indem sie systematisch geplant, gesteuert und überwacht werden. Der Prozessansatz fördert die Transparenz und Verständlichkeit der Abläufe, indem er die Wechselwirkungen zwischen den Prozessen aufzeigt und die Verantwortlichkeiten klar definiert. Dies ermöglicht es, die Prozesse gezielt zu verbessern und die Qualität der Produkte und Dienstleistungen zu steigern. @iso9000de
+
+#pagebreak()
+
 === Methoden zur Identifikation von Schwachstellen
 Capability Maturity Model Integration
 

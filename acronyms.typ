@@ -14,4 +14,5 @@
   DE: "Deutschland",
   NL: "Niederlande",
   JP: "Japan",
+  SW: "Software"
 )

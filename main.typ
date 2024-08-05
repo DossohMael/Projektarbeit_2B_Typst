@@ -23,7 +23,7 @@
 
 Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001de. In seiner Doktorarbeit "Handwerk in der postindustriellen Gesellschaft...Leipzig" zeigt Tobias Werner auf, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
 
-Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe "ISO 9000", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000de. Die Konzeptedes "Plan-Do-Check-Act-Cycle (#acrs("PDCA")) " des "Process Approach (#acrs("PA"))",  haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001de.
+Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe "ISO 9000", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000de. Die Konzepte des "Plan-Do-Check-Act-Cycle (#acrs("PDCA")) " des "Process Approach (#acrs("PA"))",  haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001de.
 #pagebreak()
 
 Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen #acrs("KMU") eine signifikante Herausforderung dar. Der Mangel an notwendigen finanziellen Mitteln und verantwortlichen Personen führt dazu, dass ein wirksames #acrs("QMS") in diesen Unternehmensformen oft nicht etabliert werden kann. Infolgedessen kann es in diesen Unternehmen an einer etablierten Qualitätskultur sowie an dem notwendigen Engagement für das #acrs("QM") fehlen @qm2015.
@@ -35,29 +35,13 @@ In diesem Kontext ist auf den "QM-Leitfaden für kleine und mittlere Unternehmen
 Die Implementierung eines #acrs("QMS") eröffnet #acrs("KMU") demnach die Möglichkeit, ihre internen Prozesse klar zu definieren, potenzielle Fehlerquellen und die damit verbundenen Kosten zu reduzieren. Dies ist insbesondere für KMU von Interesse, da sie mit begrenzten Ressourcen arbeiten und eine effiziente Nutzung dieser ihre Wettbewerbsfähigkeit erhöht. Ein verbessertes QM führt zudem zu höherer Kundenzufriedenheit und erleichtert den Marktzugang, da konsistente und zuverlässige Produkte und Dienstleistungen das Vertrauen der Kunden stärken @qm2015.
 
 Die vorliegende Arbeit verfolgt das Ziel, bestehende Unternehmensprozesse mit anerkannten Normen und Standards zu vergleichen, um mögliche Optimierungspotenziale zu identifizieren. 
-Im Rahmen der vorliegenden Arbeit erfolgt eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU") Die Firma ProSystems GmbH entwickelt Softwarelösungen für die Systemintegration in der Gebäudeautomation.  Das Unternehmen ist ein zertifizierter Entwickler für das Niagara-4-Framework und bietet Software (#acrs("SW")), Dienstleistungen und Lösungen an, welche die Funktionalität des Frameworks in diversen Aspekten erweitern @prosy170724. Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung da optimale Prozesse eine maßgebliche Verbesserung der Qualität von Softwareprodukten bewirken @iso9001de.
+Im Rahmen der vorliegenden Arbeit erfolgt eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU"). Die Firma ProSystems GmbH entwickelt Softwarelösungen für die Systemintegration in der Gebäudeautomation.  Das Unternehmen ist ein zertifizierter Entwickler für das Niagara-4-Framework und bietet Software (#acrs("SW")), Dienstleistungen und Lösungen an, welche die Funktionalität des Frameworks in diversen Aspekten erweitern @prosy170724. Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung da optimale Prozesse eine maßgebliche Verbesserung der Qualität von Softwareprodukten bewirken @iso9001de.
 
-// Software als SW abkuerzen?
-
-Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und eine Übersicht über die behandelten Themen und Kapitel gegeben: Das nachfolgende Kapitel „Grundlagen und Begriffsdefinitionen” dient der Einführung in die für das Verständnis dieser Arbeit grundlegenden Konzepte. Im Anschluss erfolgt eine Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse im Kapitel „Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse”. Zu Beginn des Prozesses erfolgt eine Befragung der Mitarbeitenden, um deren Meinungen und Erfahrungen mit den bestehenden Prozessen zu erfassen. Daraufhin erfolgt eine Auswertung der Befragung sowie eine formale Erfassung und Darstellung der Entwicklungsprozesse. Das nachfolgende Kapitel, „Vorschläge zur Prozessoptimierung”, basiert auf den Resultaten der durchgeführten Mitarbeiterbefragung, der formalen Analyse sowie auf etablierten Normen und Industriestandards. Im Rahmen dessen erfolgt eine Identifikation und Priorisierung von Verbesserungspotenzialen. Die abgeleiteten Maßnahmen werden daraufhin an die spezifischen Bedürfnisse von ProSystems adaptiert. Das finale Kapitel „Fazit und Ausblick” dient der Zusammenfassung der essenziellen Ergebnisse der Projektarbeit. Darüber hinaus wird ein Ausblick auf potenzielle zukünftige Aufgaben und Herausforderungen gegeben, die sich aus den vorgeschlagenen Optimierungen ergeben können.
+Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und eine Übersicht über die behandelten Themen und Kapitel gegeben: @grundlagen "Grundlagen und Begriffsdefinitionen" dient der Einführung in die für das Verständnis dieser Arbeit grundlegenden Konzepte. In @analyse erfolgt eine Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse   der bestehenden Entwicklungs-, Test- und Release-Prozesse”. Zu Beginn des Prozesses erfolgt eine Befragung der Mitarbeitenden, um deren Meinungen und Erfahrungen mit den bestehenden Prozessen zu erfassen. Daraufhin erfolgt eine Auswertung der Befragung sowie eine formale Erfassung und Darstellung der Entwicklungsprozesse. Das nachfolgende Kapitel, „Vorschläge zur Prozessoptimierung”, basiert auf den Resultaten der durchgeführten Mitarbeiterbefragung, der formalen Analyse sowie auf etablierten Normen und Industriestandards. Im Rahmen dessen erfolgt eine Identifikation und Priorisierung von Verbesserungspotenzialen. Die abgeleiteten Maßnahmen werden daraufhin an die spezifischen Bedürfnisse von ProSystems adaptiert. Das finale Kapitel „Fazit und Ausblick” dient der Zusammenfassung der essenziellen Ergebnisse der Projektarbeit. Darüber hinaus wird ein Ausblick auf potenzielle zukünftige Aufgaben und Herausforderungen gegeben, die sich aus den vorgeschlagenen Optimierungen ergeben können.
 // TODO: Kapiteltitel und Inhalte anpassen falls sie sich ändern.
 
-= Grundlagen und Begriffsdefinitionen
-Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Schwerpunkt liegt dabei auf dem #acrs("QM"), dem daraus entspringenden #acrs("QMS"), #acrs("SW")-Qualitätsanforderungen sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Die vorliegende Untersuchung orientiert sich in erster Linie #acrs("ISO") in den Normen "#acrs("ISO") 9000"@iso9000de, "#acrs("ISO") 9001"@iso9001de sowie "#acrs("ISO") 25000"@iso25000en.
-
-== Die Internationale Organisation für Normung
-
-Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Schwerpunkt liegt dabei auf dem #acrs("QM"), dem daraus entspringenden #acrs("QMS"), #acrs("SW")-Qualitätsanforderungen sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Die vorliegende Untersuchung orientiert sich in erster Linie #acrs("ISO") an die Normen "#acrs("ISO") 9000"@iso9000de, "#acrs("ISO") 9001"@iso9001de sowie "#acrs("ISO") 25000"@iso25000en.
-
-Typische Beispiele für von der #acrs("ISO") erarbeitete Standards sind:
-
-- Der MP3-Standard für Audiodateien sowie Standards für Telefonkarten. Sie spielen eine wichtige Rolle in der #acrs("SW")- und Telekommunikationsindustrie, indem sie die Kompatibilität und Interoperabilität zwischen verschiedenen Systemen und Anwendungen gewährleisten @isopopstandards.
-
-- Ländercodes wie "DE" für Deutschland, "NL" für die Niederlande und "JP" für Japan. Diese Codes sind in zahlreichen internationalen Anwendungen und Datenbanken von essenzieller Bedeutung, da sie eine einheitliche Identifizierung und Verwaltung von Länderinformationen ermöglichen @isopopstandards.
-
-Die angeführten Beispiele veranschaulichen, dass die #acrs("ISO") durch ihre Normungsarbeit einen maßgeblichen Einfluss auf eine Vielzahl von Bereichen ausübt. Dies erfolgt durch die Festlegung von Normen, welche sowohl technische als auch organisatorische Aspekte umfassen.
-
-#pagebreak()
+= Grundlagen und Begriffsdefinitionen <grundlagen>
+Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Schwerpunkt liegt dabei auf dem #acrs("QM"), dem daraus entspringenden #acrs("QMS"), #acrs("SW")-Qualitätsanforderungen sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Die vorliegende Untersuchung orientiert sich in erster Linie an die Normen "#acrs("ISO") 9000"@iso9000de, "#acrs("ISO") 9001"@iso9001de sowie "#acrs("ISO") 25000"@iso25000en.
 
 == Qualitätsmanagement und Qualitätsmanagementsysteme
 Eine Erörterung der spezifischen Anforderungen und Herausforderungen eines #acrs("QMS") erfordert eine grundlegende Begriffsklärung. Von besonderer Relevanz sind dabei die Definitionen der Begriffe "#acrs("QM"), "Qualität" sowie "Management" der #acrs("ISO"), da sie internationale Referenzstandards darstellen.
@@ -70,29 +54,28 @@ Gemäß #acrs("ISO") 9000:2015 wird Qualität definiert als:
 
 Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, einer Dienstleistung oder eines Prozesses verstanden, die diesem innewohnen @iso9000de. Demgegenüber stehen die „Anforderungen“, welche Bedürfnisse oder Erwartungen widerspiegeln, die in der Regel festgelegt, vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens. @iso9000de
 
+#pagebreak()
+
 Gemäß #acrs("ISO") 9000:2015 wird "Management" definiert als:
 
 #set quote(block: true)
 #quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000de])
 Die angeführte Definition verdeutlicht, dass Management die Aktivitäten umfasst, die notwendig sind, um die Ziele einer Organisation zu erreichen. Dies umfasst die Planung, Leitung und Koordination sämtlicher Aktivitäten und Ressourcen. Diese Definition ist wesentlich für das Verständnis von #acrs("QM"), da sie die Notwendigkeit einer systematischen und methodischen Herangehensweise betont, die notwendig ist, um eine Organisation effektiv und effizient zu führen und zu steuern. @iso9000de
 
-#pagebreak()
-
 Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage für #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen @iso9000de. Ein effektives #acrs("QM") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dies umfasst regelmäßige Audits sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten @iso9001de.
 
- Die in @fig-7qmprinciples dargestellten Konzepte bilden gemäß #acrs("ISO") 9000 das Fundament des #acrs("QM") @iso9000de:
-
-#figure(caption: [7 Prinzipien des Qualitätsmanagements @qm7principles], image(width: 9cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
+#figure(caption: [Die sieben Prinzipien des Qualitätsmanagements @qm7principles], image(width: 7.8cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
 
 #pagebreak()
+Gemäß gemäß #acrs("ISO") bilden die in @fig-7qmprinciples dargestellten Konzepte  9000 das Fundament des #acrs("QM") @iso9000de:
 
-1. Kundenorientierung: Die Bedürfnisse und Erwartungen der Kunden stellen den Mittelpunkt dar und determinieren die Qualitätsstandards.
-2. Führung: Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
-3. Einbeziehung von Personen: Alle Mitarbeitenden sollen einbezogen und motiviert werden, zur Erreichung der Qualitätsziele beizutragen.
-4. Prozessorientierter Ansatz: Die Aktivitäten und Ressourcen einer Organisation werden als zusammenhängende Prozesse verstanden, die systematisch verwaltet werden.
-5. Verbesserung: Die Organisation verpflichtet sich zu einem fortlaufenden Verbesserungsprozess in allen Bereichen.
-6. Faktengestützte Entscheidungsfindung: Die Grundlage für Entscheidungen bildet die Auswertung von Daten und Fakten.
-7. Beziehungsmanagement: Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
+1. Kundenorientierung (Customer Focus): Die Bedürfnisse und Erwartungen der Kunden stellen den Mittelpunkt dar und determinieren die Qualitätsstandards.
+2. Führung (Leadership): Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
+3. Einbeziehung von Personen (Engagement of People): Alle Mitarbeitenden sollen einbezogen und motiviert werden, zur Erreichung der Qualitätsziele beizutragen.
+4. Prozessorientierter Ansatz (Process Approach): Die Aktivitäten und Ressourcen einer Organisation werden als zusammenhängende Prozesse verstanden, die systematisch verwaltet werden.
+5. Verbesserung (Improvement): Die Organisation verpflichtet sich zu einem fortlaufenden Verbesserungsprozess in allen Bereichen.
+6. Faktengestützte Entscheidungsfindung (Evidence-based Decision Making): Die Grundlage für Entscheidungen bildet die Auswertung von Daten und Fakten.
+7. Beziehungsmanagement (Relationship Management): Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
 Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische Vorgehensweise bezeichnet, deren Ziel die Optimierung der Qualität von Produkten und Dienstleistungen ist. Dies erfolgt durch eine kontinuierliche Evaluierung und gegebenenfalls Modifikation der internen Prozesse einer Organisation. #acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in #acrs("ISO") 9001 verwendet werden. Dadurch wird gewährleistet, dass alle Anwender über ein einheitliches Verständnis der verwendeten Begriffe und Konzepte verfügen. 
 
@@ -101,15 +84,15 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 === Qualitätsmanagementsystem
 Ein Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). 
 Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Kriterien ist erforderlich, um die Qualitätsziele zu erreichen. @iso9001de 
-Gemäß #acrs("ISO") befolgen #acrs("QMS") die Struktur des #acrs("PDCA"), auch Shewhart- oder Deming-Zyklus gennant. Der Physiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion der Firma Bell Telephone Laboratories. 
-Der ursprüngliche Zyklus umfasste lediglich drei Phasen (Specification, Production und Inspection):
+Gemäß #acrs("ISO") befolgen #acrs("QMS") die Struktur des #acrs("PDCA"), auch Shewhart- oder Deming-Zyklus gennant. Der Physiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion der Firma Bell Telephone Laboratories. In seinem Buch "Statistical Method from the Viewpoint of Quality Control" beschrieb Shewhart den ursprünglichen Zyklus so: 
 
 #set quote(block: true)
 #quote(["These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @moen2009pdca])
 
-In den 1950er Jahren wurde der in diesem Zitat beschriebene Zyklus von W. Edwards Deming ergänzt und weiterentwickelt. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde. Der #acrs("PDCA") basiert auf einer systematischen und iterativen Vorgehensweise, welche eine fortlaufende Verbesserung von Prozessen sowie eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht. @moen2009pdca
+Er umfasste amals lediglich drei Phasen : "Specification", "Production" und "Inspection".
+In den 1950er Jahren wurde er von W. Edwards Deming, Shewharts damaligen Editor, ergänzt und weiterentwickelt @moen2009pdca. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde. Der #acrs("PDCA") basiert auf einer systematischen und iterativen Vorgehensweise, welche eine fortlaufende Verbesserung von Prozessen sowie eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht @moen2009pdca. @fig-PDCA veranschaulicht seine Idee des #acrs("PDCA"):
 
-#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 7cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
+#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 8cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
 
 
 Wie Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
@@ -164,7 +147,7 @@ Dokumentationspflicht gegenüber Auftraggebern
 
 
 
-= Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse
+= Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse <analyse>
 
 == Mitarbeiterumfrage 
 - Was, warum? Als Anhang hinzufügen.
@@ -182,7 +165,7 @@ Darstellung der aktuellen Prozesse mir Diagrammen (Flussdiagramme, BPMN)
 - Analyse der Bestehenden Einarbeitungsprozesse, Dokumentation und Schulungsmaterialien
 - Analyse der Effizienz und Effektivität der bestehenden Prozesse
 
-= Vorschläge zur Prozessoptimierung 
+= Vorschläge zur Prozessoptimierung <prozessoptimierung>
 Basierend auf den Ergebnissen der Mitarbeiterumfrage, der Analyse, sowie den Industriestandards
 == Identifikation und Priorisierung von Verbesserungspotenzialen
 == Anpassung der Vorschläge auf die Bedürfnisse kleiner und mittlerer Unternehmen

@@ -116,7 +116,7 @@ Die dritte Phase, "Check", wird durch Klausel neun, "Performance evaluation", de
 
 Die vierte Phase, "Act", ist in Klausel zehn, "Improvement", geregelt. Gegenstand dieser Klausel ist die kontinuierliche Verbesserung, die Behandlung von Korrekturmaßnahmen sowie das Management von Nichtkonformitäten. In der Act-Phase werden auf Basis der Ergebnisse der Check-Phase notwendige Verbesserungsmaßnahmen abgeleitet. @iso9001de
 
-Ein #acrs("QMS") gemäß ISO 9001 stellt einen dynamischen Prozess dar, der eine kontinuierliche Überwachung und Verbesserung erfordert. Die Norm ermöglicht eine systematische Herangehensweise zur Erreichung und Aufrechterhaltung hoher Qualitätsstandards, indem sie diese in die Phasen des PDCA-Zyklus strukturiert. Dies fördert nicht nur die Kundenzufriedenheit, sondern trägt auch zur langfristigen Wettbewerbsfähigkeit und Effizienzsteigerung der Organisation bei. @iso9001de
+Ein auf dem #acrs("PDCA") basierendes #acrs("QMS") stellt somit eine systematische Vorgehensweise zur Umsetzung von #acrs("QM") dar. Die klar definierten Phasen "Plan", "Do", "Check" und "Act" ermöglichen es Organisationen, ihre Prozesse kontinuierlich zu überwachen, zu bewerten und zu optimieren @iso9001de. Die Berücksichtigung relevanter Einflussfaktoren, von der Führung und Planung über die operative Umsetzung bis hin zur Bewertung und kontinuierlichen Verbesserung, gewährleistet, dass Qualitätsziele erreicht und bei Bedarf entsprechende Anpassungen vorgenommen werden können @iso9001de.
 
 === Software-Qualität
 

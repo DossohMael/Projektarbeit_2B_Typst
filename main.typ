@@ -92,7 +92,7 @@ Gemäß #acrs("ISO") befolgen #acrs("QMS") die Struktur des #acrs("PDCA"), auch 
 Der seinerzeit implementierte Zyklus umfasste lediglich drei Phasen : "Specification", "Production" und "Inspection". In den 1950er Jahren erfolgte eine Ergänzung und Weiterentwicklung des Zyklus durch W. Edwards Deming, dem damaligen Editor Shewharts @moen2009pdca. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde.
 @fig-PDCA veranschaulicht die entsprechende Idee des #acrs("PDCA").
 
-#figure(caption: [Der Plan-Do-Check-Act Zyklus @qmscycle23], image(width: 10.1cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
+#figure(caption: [Der Plan-Do-Check-Act Zyklus @moen2009pdca], image(width: 10.1cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
 
 
 Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:

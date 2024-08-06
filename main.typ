@@ -21,14 +21,14 @@
 
 = Einleitung
 
-Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001[Requirements]. In seiner Doktorarbeit "Handwerk in der postindustriellen Gesellschaft...Leipzig" zeigt Tobias Werner auf, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
+Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001[Requirements]. In seiner Doktorarbeit _"Handwerk in der postindustriellen Gesellschaft...Leipzig"_ zeigt Tobias Werner auf, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
 
 Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe "ISO 9000", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000[Fundamentals]. Die Konzepte des "Plan-Do-Check-Act-Cycle (#acrs("PDCA"))" des "Process Approach (#acrs("PA"))",  haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001[Requirements].
 
 #pagebreak()
 
 Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen #acrs("KMU") eine signifikante Herausforderung dar. Der Mangel an notwendigen finanziellen Mitteln und verantwortlichen Personen führt dazu, dass ein wirksames #acrs("QMS") in diesen Unternehmensformen oft nicht etabliert werden kann. Infolgedessen kann es in diesen Unternehmen an einer etablierten Qualitätskultur sowie an dem notwendigen Engagement für das #acrs("QM") fehlen @qm2015.
-In diesem Kontext ist auf den "QM-Leitfaden für kleine und mittlere Unternehmen" des Bayerischen Staatsministeriums für Wirtschaft und Medien, Energie und Technologie zu verweisen, in dem betont wird, dass:
+In diesem Kontext ist auf den _"QM-Leitfaden für kleine und mittlere Unternehmen"_ des Bayerischen Staatsministeriums für Wirtschaft und Medien, Energie und Technologie zu verweisen, in dem betont wird, dass:
 
 #set quote(block: true) 
 #quote["Mit der Einführung eines #acrs("QMS") können #acrs("KMU") u.a. die Transparenz betrieblicher Abläufe erhöht, die Fehlerquoten und somit die Kosten reduziert, höhere Kundenzufriedenheit erzielt, der Marktzugang verbessert und potenzielle Risiken aufgrund von Nichtkonformitäten gesenkt werden."@qm2015]  
@@ -49,7 +49,7 @@ Eine Erörterung der spezifischen Anforderungen und Herausforderungen eines #acr
 
 === Qualitätsmanagement
 
-Gemäß "#acrs("ISO") 9000 :Quality management systems - Fundamentals" @iso9000 wird Qualität definiert als:
+Gemäß _"#acrs("ISO") 9000: Quality management systems - Fundamentals"_ @iso9000[Fundamentals] wird Qualität definiert als:
 #set quote(block: true)
 #quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000[Fundamentals]]) 
 

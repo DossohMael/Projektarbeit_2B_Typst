@@ -87,10 +87,10 @@ Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein form
 Gemäß #acrs("ISO") befolgen #acrs("QMS") die Struktur des #acrs("PDCA"), auch Shewhart- oder Deming-Zyklus gennant. Der Physiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion der Firma Bell Telephone Laboratories. In seinem Buch "Statistical Method from the Viewpoint of Quality Control" beschrieb Shewhart den ursprünglichen Zyklus so: 
 
 #set quote(block: true)
-#quote(["These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @moen2009pdca])
+#quote(["These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @shewhart])
 
-Der seinerzeit implementierte Zyklus umfasste lediglich drei Phasen : "Specification", "Production" und "Inspection". In den 1950er Jahren erfolgte eine Ergänzung und Weiterentwicklung des Zyklus durch W. Edwards Deming, dem damaligen Editor Shewharts @moen2009pdca. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde.
-@fig-PDCA veranschaulicht die entsprechende Idee des #acrs("PDCA").
+Der seinerzeit implementierte Zyklus umfasste lediglich drei Phasen : "Specification", "Production" und "Inspection" @shewhart. In den 1950er Jahren erfolgte eine Ergänzung und Weiterentwicklung des Zyklus durch W. Edwards Deming in dessen Buch "Out of the Crisis, Center for Advanced Engineering Study" @deming. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde @moen2009pdca.
+@fig-PDCA veranschaulicht seine Idee des #acrs("PDCA").
 
 #figure(caption: [Der Plan-Do-Check-Act Zyklus @moen2009pdca], image(width: 10.1cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
 

@@ -104,8 +104,7 @@ Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlich
 
 Deming zufolge basiert das Konzept des #acrs("PDCA") auf einer systematischen und iterativen Vorgehensweise, welche eine fortlaufende Verbesserung von Prozessen sowie eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht. @moen2009pdca
 
-
-Ein #acrs("QMS") gemäß #acrs("ISO") 9001 basiert auf einer an das #acrs("QM") angepassten Version des #acrs("PDCA"), welcher insgesamt zehn Klauseln umfasst. Die ersten drei Klauseln behandeln den Anwendungsbereich, normative Verweisungen und Begriffsbestimmungen. Die folgende Abbildung veranschaulicht die Zuordnung der Klauseln (4 bis 10) zu den Phasen ("Plan", "Do", "Check", "Act") des #acrs("PDCA").
+Ein #acrs("QMS"), welches den Anforderungen der ISO-Norm 9001 entspricht, basiert auf einer an das #acrs("QM") angepassten Version des #acrs("PDCA"). Die Norm umfasst insgesamt zehn Klauseln, welche eine umfassende Grundlage für die Implementierung und Aufrechterhaltung eines effektiven #acrs("QMS") bieten. Die ersten drei Klauseln behandeln die Anwendungsbereiche, normative Verweisungen und Begriffsbestimmungen. Die übrigen Klauseln (vier bis zehn) werden gemäß Abbildung 3 den vier Phasen des #acrs("PDCA") zugeordnet.
 
 #figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 13cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 

@@ -67,7 +67,7 @@ Die angeführte Definition verdeutlicht, dass Management die Aktivitäten umfass
 Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage für #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen @iso9000. Ein effektives #acrs("QM") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dies umfasst regelmäßige Audits sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten @iso9001.
 
 #figure(caption: [Die sieben Prinzipien des Qualitätsmanagements @qm7principles], image(width: 7.8cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
-
+// Abbildungen auf deutsch übersetzen 
 #pagebreak()
 Gemäß gemäß #acrs("ISO") bilden die in @fig-7qmprinciples dargestellten Konzepte  9000 das Fundament des #acrs("QM") @iso9000:
 
@@ -84,7 +84,7 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 #pagebreak()
 
 === Qualitätsmanagementsysteme
-Die Einführung eines #acrs("QMS") stellt einen wesentlichen Bestandteil des #acrs("QM") dar. Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, die Prozesse und die Ressourcen umfasst. Die Umsetzung der sieben Kriterien des #acrs("QM") stellt ein Instrument zur Erreichung der Qualitätsziele dar @iso9001. Ein solches #acrs("QMS") befolgt die Struktur des sogenannten #acrs("PDCA"), welcher auch als Shewhart- oder Deming-Zyklus bezeichnet wird. Der Physiker Walter A. Shewhart entwickelte den #acrs("PDCA") im Jahre 1939 für die Qualitätskontrolle in der Produktion des Unternehmens Bell Telephone Laboratories. Erstmals beschrieben wurde der ursprüngliche Zyklus in Shewharts 1939 veröffentlichtem Buch _"Statistical Method from the Viewpoint of Quality Control"_ wie folgt:
+Die Einführung eines #acrs("QMS") stellt einen wesentlichen Bestandteil des #acrs("QM") dar. Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, die Prozesse und die Ressourcen umfasst. Die Implementierung der sieben Kriterien des #acrs("QM") stellt ein Mittel zur Erreichung der Qualitätsziele dar @iso9001. Ein solches #acrs("QMS") befolgt die Struktur des sogenannten #acrs("PDCA"), welcher auch als Shewhart- oder Deming-Zyklus bezeichnet wird. Der Physiker Walter A. Shewhart entwickelte den #acrs("PDCA") im Jahre 1939 für die Qualitätskontrolle in der Produktion des Unternehmens Bell Telephone Laboratories. Erstmals beschrieben wurde der ursprüngliche Zyklus in Shewharts 1939 veröffentlichtem Buch _"Statistical Method from the Viewpoint of Quality Control"_ wie folgt:
 
 #set quote(block: true)
 #quote(["These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @shewhart])
@@ -100,11 +100,12 @@ Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlich
 1. Plan: In dieser Phase erfolgt die Definition von Zielen sowie die Planung der erforderlichen Maßnahmen zu deren Realisierung. Dies umfasst die Analyse von Daten sowie die Entwicklung von Hypothesen.
 2. Do: Die geplanten Schritte werden in der vorgesehenen Weise durchgeführt, wobei die Umsetzung als Experiment im wissenschaftlichen Sinne zu betrachten ist. Die Durchführung erfolgt unter kontrollierten Bedingungen, sodass eine valide Evaluation gewährleistet werden kann.
 3. Check: In dieser Phase erfolgt eine Evaluierung der Ergebnisse der Umsetzung, welche mit den zuvor definierten Zielen verglichen wird. Dieser Prozess kann als Test der aufgestellten Hypothese bezeichnet werden. Ziel ist die Identifizierung etwaiger Abweichungen.
-4. Act: Die Resultate der Evaluierung dienen als Grundlage für die Implementierung von Modifikationen und Optimierungen. Dieser Schritt stellt den Abschluss des Zyklus dar und ebnet den Weg für eine erneute Durchlaufphase.
+4. Act: Die Resultate der Evaluierung dienen als Grundlage für die Implementierung von Modifikationen und Optimierungen. Dieser Schritt stellt den Abschluss des Zyklus dar und ebnet den Weg für einen erneuten Durchlauf deer Phasen.
 
-Deming zufolge basiert das Konzept des #acrs("PDCA") auf einer systematischen und iterativen Vorgehensweise, welche eine fortlaufende Verbesserung von Prozessen sowie eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht.  @moen2009pdca.
+Deming zufolge basiert das Konzept des #acrs("PDCA") auf einer systematischen und iterativen Vorgehensweise, welche eine fortlaufende Verbesserung von Prozessen sowie eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht. @moen2009pdca
 
-Ein #acrs("QMS") gemäß #acrs("ISO") 9001 basiert auf eine dem #acrs("QM") angepasste Form des #acrs("PDCA"). Die #acrs("ISO") 9001 umfasst zehn Klauseln, wobei die ersten drei den Anwendungsbereich, normative Verweisungen und Begriffsbestimmungen behandeln. Die folgenden sieben Klauseln werden in @fig-pdcaiso9001 anhand des angepassten #acrs("PDCA") näher beschrieben.
+
+Ein #acrs("QMS") gemäß #acrs("ISO") 9001 basiert auf einer an das #acrs("QM") angepassten Version des #acrs("PDCA"), welcher insgesamt zehn Klauseln umfasst. Die ersten drei Klauseln behandeln den Anwendungsbereich, normative Verweisungen und Begriffsbestimmungen. Die folgende Abbildung veranschaulicht die Zuordnung der Klauseln (4 bis 10) zu den Phasen ("Plan", "Do", "Check", "Act") des #acrs("PDCA").
 
 #figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 13cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 

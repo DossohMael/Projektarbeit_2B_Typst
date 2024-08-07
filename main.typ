@@ -49,7 +49,8 @@ Eine Erörterung der spezifischen Anforderungen und Herausforderungen eines #acr
 
 === Qualitätsmanagement
 
-Gemäß _"#acrs("ISO") 9000: Quality management systems - Fundamentals"_ @iso9000 wird Qualität definiert als:
+Gemäß _"#acrs("ISO") 9000:2005 Quality management systems - Fundamentals"_ @iso9000 wird "Qualität" definiert als:
+
 #set quote(block: true)
 #quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000]) 
 
@@ -57,7 +58,7 @@ Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, ein
 
 #pagebreak()
 
-Gemäß #acrs("ISO") 9000:2015 wird "Management" definiert als:
+Gemäß _"#acrs("ISO") 9000:2005 Quality management systems - Fundamentals"_ @iso9000 wird "Management" definiert als:
 
 #set quote(block: true)
 #quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000])
@@ -82,15 +83,13 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 
 #pagebreak()
 
-=== Qualitätsmanagementsystem
-Ein Bestandteil des #acrs("QM") ist die Implementierung eines #acrs("QMS"). 
-Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, Prozesse und Ressourcen umfasst. Die Umsetzung der genannten Kriterien ist erforderlich, um die Qualitätsziele zu erreichen. @iso9001 
-Gemäß #acrs("ISO") befolgen #acrs("QMS") die Struktur des #acrs("PDCA"), auch Shewhart- oder Deming-Zyklus gennant. Der Physiker Walter A. Shewhart entwickelte diesen Zyklus im Jahre 1939 für die Qualitätskontrolle in der Produktion der Firma Bell Telephone Laboratories. In seinem Buch "Statistical Method from the Viewpoint of Quality Control" beschrieb Shewhart den ursprünglichen Zyklus so: 
+=== Qualitätsmanagementsysteme
+Die Einführung eines #acrs("QMS") stellt einen wesentlichen Bestandteil des #acrs("QM") dar. Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, die Prozesse und die Ressourcen umfasst. Die Umsetzung der sieben Kriterien des #acrs("QM") stellt ein Instrument zur Erreichung der Qualitätsziele dar @iso9001. Ein solches #acrs("QMS") befolgt die Struktur des sogenannten #acrs("PDCA"), welcher auch als Shewhart- oder Deming-Zyklus bezeichnet wird. Der Physiker Walter A. Shewhart entwickelte den #acrs("PDCA") im Jahre 1939 für die Qualitätskontrolle in der Produktion des Unternehmens Bell Telephone Laboratories. Erstmals beschrieben wurde der ursprüngliche Zyklus in Shewharts 1939 veröffentlichtem Buch _"Statistical Method from the Viewpoint of Quality Control"_ wie folgt:
 
 #set quote(block: true)
 #quote(["These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @shewhart])
 
-Der seinerzeit implementierte Zyklus umfasste lediglich drei Phasen : "Specification", "Production" und "Inspection" @shewhart. In den 1950er Jahren erfolgte eine Ergänzung und Weiterentwicklung des Zyklus durch W. Edwards Deming in dessen Buch "Out of the Crisis, Center for Advanced Engineering Study" @deming. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde @moen2009pdca.
+Der seinerzeit implementierte Zyklus umfasste lediglich drei Phasen: "Specification", "Production" und "Inspection" @shewhart. In den 1950er Jahren erfolgte eine Ergänzung und Weiterentwicklung des Zyklus durch W. Edwards Deming in dessen Buch _"Out of the Crisis, Center for Advanced Engineering Study"_ @deming. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde @moen2009pdca.
 @fig-PDCA veranschaulicht seine Idee des #acrs("PDCA").
 
 #figure(caption: [Der Plan-Do-Check-Act Zyklus @moen2009pdca], image(width: 10.1cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>

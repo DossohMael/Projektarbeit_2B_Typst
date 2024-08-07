@@ -106,7 +106,7 @@ Deming zufolge basiert das Konzept des #acrs("PDCA") auf einer systematischen un
 
 Ein #acrs("QMS"), welches den Anforderungen der ISO-Norm 9001 entspricht, basiert auf einer an das #acrs("QM") angepassten Version des #acrs("PDCA"). Die Norm umfasst insgesamt zehn Klauseln, welche eine umfassende Grundlage für die Implementierung und Aufrechterhaltung eines effektiven #acrs("QMS") bieten. Die ersten drei Klauseln behandeln die Anwendungsbereiche, normative Verweisungen und Begriffsbestimmungen. Die übrigen Klauseln (vier bis zehn) werden gemäß Abbildung 3 den vier Phasen des #acrs("PDCA") zugeordnet:
 
-#figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 13cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
+#figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 14cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 
 Die erste Phase des #acrs("PDCA"), "Planen" ("Plan"), umfasst die Klauseln vier bis sechs. Klausel vier "Organisation und deren Kontext" thematisiert den Kontext der Organisation, wobei sowohl interne als auch externe Faktoren zu berücksichtigen sind. Es ist von wesentlicher Bedeutung, dass die Organisation den Kontext, in dem sie sich befindet, vollständig erfasst und alle relevanten internen sowie externen Einflussfaktoren berücksichtigt. Die fünfte Klausel "Führung" ist von zentraler Bedeutung und bildet das Fundament des Systems, da die Führungskräfte darin die Vision und Richtung vorgeben, auf deren Basis die weiteren Elemente aufbauen. Die sechste Klausel "Planung" umfasst die Festlegung von Maßnahmen zur Bewältigung von Risiken und Nutzung von Chancen sowie die Definition von Qualitätszielen und die Planung von Änderungen. @iso9001
 
@@ -116,19 +116,13 @@ Die dritte Phase, "Prüfen" ("Check"), wird durch Klausel neun, "Bewertung der L
 
 Die vierte Phase, "Handeln" ("Act"), ist in Klausel zehn, "Verbesserung", geregelt. Gegenstand dieser Klausel ist die kontinuierliche Verbesserung, die Behandlung von Korrekturmaßnahmen sowie das Management von Nichtkonformitäten. In der Act-Phase werden auf Basis der Ergebnisse der Check-Phase notwendige Verbesserungsmaßnahmen abgeleitet. @iso9001
 
-Ein auf dem #acrs("PDCA") basierendes #acrs("QMS") stellt somit eine systematische Vorgehensweise zur Umsetzung von #acrs("QM") dar. Die klar definierten Phasen "Plan", "Do", "Check" und "Act" ermöglichen es Organisationen, ihre Prozesse kontinuierlich zu überwachen, zu bewerten und zu optimieren @iso9001. Die Berücksichtigung relevanter Einflussfaktoren, von der Führung und Planung über die operative Umsetzung bis hin zur Bewertung und kontinuierlichen Verbesserung, gewährleistet, dass Qualitätsziele erreicht und bei Bedarf entsprechende Anpassungen vorgenommen werden können @iso9001.
+Ein auf dem #acrs("PDCA") basierendes #acrs("QMS") stellt somit eine systematische Vorgehensweise zur Umsetzung von #acrs("QM")s dar. Die klar definierten Phasen "Plan", "Do", "Check" und "Act" ermöglichen es Organisationen, ihre Prozesse kontinuierlich zu überwachen, zu bewerten und zu optimieren @iso9001. Die Berücksichtigung relevanter Einflussfaktoren, von der Führung und Planung über die operative Umsetzung bis hin zur Bewertung und kontinuierlichen Verbesserung, gewährleistet, dass Qualitätsziele erreicht und bei Bedarf entsprechende Anpassungen vorgenommen werden können @iso9001.
 
 === Software-Qualität
 
-Die Qualität von Softwareprodukten ist ein entscheidender Faktor für den Erfolg eines Unternehmens. Die #acrs("ISO") 25000 definiert Softwarequalität als:
-
-
-#pagebreak()
+Zur Einhaltung von Software Qualität wird sich hier auf die #acrs("Iso") Norm 25000 _"Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE"_ bezogen @iso25000. Diese befasst sich vor allem mit Anforderungen und Bewertung von Software Qualität.  
 
 == Der Prozessansatz
-@iso9000
-
-#pagebreak()
 
 === Methoden zur Identifikation von Schwachstellen
 Capability Maturity Model Integration

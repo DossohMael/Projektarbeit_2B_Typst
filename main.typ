@@ -31,7 +31,7 @@ Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere 
 In diesem Kontext ist auf den _"QM-Leitfaden für kleine und mittlere Unternehmen"_ des Bayerischen Staatsministeriums für Wirtschaft und Medien, Energie und Technologie zu verweisen, in dem betont wird, dass:
 
 #set quote(block: true) 
-#quote["Mit der Einführung eines #acrs("QMS") können #acrs("KMU") u.a. die Transparenz betrieblicher Abläufe erhöht, die Fehlerquoten und somit die Kosten reduziert, höhere Kundenzufriedenheit erzielt, der Marktzugang verbessert und potenzielle Risiken aufgrund von Nichtkonformitäten gesenkt werden."@qm2015]  
+#quote[_"Mit der Einführung eines #acrs("QMS") können #acrs("KMU") u.a. die Transparenz betrieblicher Abläufe erhöht, die Fehlerquoten und somit die Kosten reduziert, höhere Kundenzufriedenheit erzielt, der Marktzugang verbessert und potenzielle Risiken aufgrund von Nichtkonformitäten gesenkt werden._"@qm2015]  
 
 Die Implementierung eines #acrs("QMS") eröffnet #acrs("KMU") demnach die Möglichkeit, ihre internen Prozesse klar zu definieren, potenzielle Fehlerquellen und die damit verbundenen Kosten zu reduzieren. Dies ist insbesondere für KMU von Interesse, da sie mit begrenzten Ressourcen arbeiten und eine effiziente Nutzung dieser ihre Wettbewerbsfähigkeit erhöht. Ein verbessertes QM führt zudem zu höherer Kundenzufriedenheit und erleichtert den Marktzugang, da konsistente und zuverlässige Produkte und Dienstleistungen das Vertrauen der Kunden stärken @qm2015.
 
@@ -49,19 +49,19 @@ Eine Erörterung der spezifischen Anforderungen und Herausforderungen eines #acr
 
 === Qualitätsmanagement
 
-Gemäß #acrs("ISO") 9000 @iso9000 wird "Qualität" definiert als:
+Gemäß #acrs("ISO") 9000 @iso9000 wird "Qualität" definiert als @iso9000:
 
 #set quote(block: true)
-#quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000]) 
+#quote([_"Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt._"  @iso9000]) 
 
 Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, einer Dienstleistung oder eines Prozesses verstanden, die diesem innewohnen @iso9000. Demgegenüber stehen die „Anforderungen“, welche Bedürfnisse oder Erwartungen widerspiegeln, die in der Regel festgelegt, vorausgesetzt oder verpflichtend sind. Die vorliegende Definition verdeutlicht, dass der Begriff der Qualität nicht als absolut, sondern als relativ zu den jeweils spezifischen Anforderungen zu betrachten ist. In diesem Kontext können die Anforderungen sowohl die Bedürfnisse und Erwartungen der Kundinnen und Kunden als auch gesetzliche und regulatorische Vorgaben sowie weitere, festgelegte Anforderungen umfassen. Die Erfüllung dieser Anforderungen ist von entscheidender Bedeutung für die Zufriedenheit der Kundinnen und Kunden sowie für den Erfolg eines Unternehmens. @iso9000
 
 #pagebreak()
 
-Gemäß #acrs("ISO") 9000 @iso9000 wird "Management" definiert als:
+Gemäß #acrs("ISO") 9000 wird "Management" definiert als @iso9000:
 
 #set quote(block: true)
-#quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000])
+#quote([_"Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation."_ @iso9000])
 Die angeführte Definition verdeutlicht, dass Management die Aktivitäten umfasst, die notwendig sind, um die Ziele einer Organisation zu erreichen. Dies umfasst die Planung, Leitung und Koordination sämtlicher Aktivitäten und Ressourcen. Diese Definition ist wesentlich für das Verständnis von #acrs("QM"), da sie die Notwendigkeit einer systematischen und methodischen Herangehensweise betont, die notwendig ist, um eine Organisation effektiv und effizient zu führen und zu steuern. @iso9000
 
 Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage für #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen @iso9000. Ein effektives #acrs("QM") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dies umfasst regelmäßige Audits sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten @iso9001.
@@ -86,16 +86,15 @@ Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische V
 #pagebreak()
 
 === Qualitätsmanagementsysteme
-Die Einführung eines #acrs("QMS") stellt einen wesentlichen Bestandteil des #acrs("QM") dar. Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, die Prozesse und die Ressourcen umfasst. Die Implementierung der sieben Kriterien des #acrs("QM") stellt ein Mittel zur Erreichung der Qualitätsziele dar @iso9001. Ein solches #acrs("QMS") befolgt die Struktur des sogenannten #acrs("PDCA"), welcher auch als Shewhart- oder Deming-Zyklus bezeichnet wird. Der Physiker Walter A. Shewhart entwickelte den #acrs("PDCA") im Jahre 1939 für die Qualitätskontrolle in der Produktion des Unternehmens Bell Telephone Laboratories. Erstmals beschrieben wurde der ursprüngliche Zyklus in Shewharts 1939 veröffentlichtem Buch _"Statistical Method from the Viewpoint of Quality Control"_ wie folgt:
+Die Einführung eines #acrs("QMS") stellt einen wesentlichen Bestandteil des #acrs("QM") dar. Ein #acrs("QMS"), wie es in der #acrs("ISO") 9001 definiert ist, stellt ein formales System dar, welches die Organisationsstruktur, die Prozesse und die Ressourcen umfasst. Die Implementierung der sieben Kriterien des #acrs("QM") stellt, wie im vorangehenden Abschnitt dargelegt, ein Mittel zur Erreichung der Qualitätsziele dar @iso9000. Ein solches #acrs("QMS") befolgt die Struktur des sogenannten #acrs("PDCA"), welcher auch als Shewhart- oder Deming-Zyklus bezeichnet wird. Der Physiker Walter A. Shewhart entwickelte den #acrs("PDCA") im Jahre 1939 für die Qualitätskontrolle in der Produktion des Unternehmens Bell Telephone Laboratories. Erstmals beschrieben wurde der ursprüngliche Zyklus in Shewharts 1939 veröffentlichtem Buch _"Statistical Method from the Viewpoint of Quality Control"_ wie folgt:
 
 #set quote(block: true)
-#quote(["These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge" @shewhart])
+#quote([_"These three steps must go in a circle instead of in a straight line ... In this sense, specification, production and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge"_ @shewhart])
 
 Der seinerzeit implementierte Zyklus umfasste lediglich drei Phasen: "Specification", "Production" und "Inspection" @shewhart. In den 1950er Jahren erfolgte eine Ergänzung und Weiterentwicklung des Zyklus durch W. Edwards Deming in dessen Buch _"Out of the Crisis, Center for Advanced Engineering Study"_ @deming. Die ursprünglichen drei Bestandteile wurden in "Plan", "Do" und "Check" umbenannt und die Phase "Act" eingeführt, wodurch der ursprünglich statische Prozess in einen dynamischen und zyklischen Prozess transformiert wurde @moen2009pdca.
 @fig-PDCA veranschaulicht seine Idee des #acrs("PDCA").
 
 #figure(caption: [Der Plan-Do-Check-Act Zyklus @moen2009pdca], image(width: 10.1cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
-
 
 Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
 
@@ -110,6 +109,36 @@ Ein #acrs("QMS"), welches den Anforderungen der #acrs("ISO") 9001 entspricht, ba
 
 #figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 14cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 
+#figure(caption: "Übersicht der ISO 9001 Klauseln im Kontext des PDCA-Zyklus", table(
+  columns: (auto, auto, auto),
+  inset: 10pt,
+  align: horizon,
+  table.header(
+    [*Phasen des PDCA-Zyklus (English)*], [*Klauseln der ISO 9001*], [*Kurzbeschreibung der Klauseln*],
+  ),
+text("Planen (Plan)	"),
+text("Klausel 4: Organisation und deren Kontext 
+  Klausel 5: Führung, 
+  Klausel 6: Planung"),
+text("Klausel 4: Organisation und deren Kontext: Thematisiert den Kontext der Organisation unter Berücksichtigung interner und externer Faktoren.
+Klausel 5: Führung: Zentral für die Vision und Richtung der Organisation, die die Basis des Systems bildet.
+Klausel 6: Planung: Festlegung von Maßnahmen zur Risikobewältigung und Nutzung von Chancen, Definition von Qualitätszielen und Planung von Änderungen."),
+
+text("Durchführen (Do)"),
+text("Klausel 7: Unterstützung
+Klausel 8: Betrieb"),
+ text("Klausel 7: Unterstützung: Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen.
+Klausel 8: Betrieb: Operative Planung und Steuerung sowie Durchführung der Produktions- und Dienstleistungsprozesse. Festlegung von Leistungskriterien und Überwachung externer Lieferanten."),
+
+text("Prüfen (Check)	"),
+text("Klausel 9: Bewertung der Leistung"),
+text("Klausel 9: Bewertung der Leistung: Überwachung, Messung, Analyse und Bewertung der QMS-Leistung, inklusive interner Audits und Managementbewertungen."),
+
+text("Handeln (Act)	"),
+text("Klausel 10: Verbesserung"),
+text("Klausel 10: Verbesserung: Kontinuierliche Verbesserung, Behandlung von Korrekturmaßnahmen und Management von Nichtkonformitäten. Ableitung von Verbesserungsmaßnahmen basierend auf den Ergebnissen der Check-Phase.")
+))<table>
+
 Die erste Phase des #acrs("PDCA"), "Planen" ("Plan"), umfasst die Klauseln vier bis sechs. Klausel vier "Organisation und deren Kontext" thematisiert den Kontext der Organisation, wobei sowohl interne als auch externe Faktoren zu berücksichtigen sind. Es ist von wesentlicher Bedeutung, dass die Organisation den Kontext, in dem sie sich befindet, vollständig erfasst und alle relevanten internen sowie externen Einflussfaktoren berücksichtigt. Die fünfte Klausel "Führung" ist von zentraler Bedeutung und bildet das Fundament des Systems, da die Führungskräfte darin die Vision und Richtung vorgeben, auf deren Basis die weiteren Elemente aufbauen. Die sechste Klausel "Planung" umfasst die Festlegung von Maßnahmen zur Bewältigung von Risiken und Nutzung von Chancen sowie die Definition von Qualitätszielen und die Planung von Änderungen. @iso9001
 
 Die zweite Phase, "Durchführen" ("Do"), umfasst die Klauseln sieben und acht der #acrs("ISO") 9001. Gegenstand der siebten Klausel, der sogenannten "Unterstützung"-Klausel, ist die Auseinandersetzung mit der Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen. In dieser Phase erlangen die Bereitstellung der erforderlichen Ressourcen sowie die Umsetzung der geplanten Maßnahmen eine entscheidende Bedeutung. Die achte Klausel "Betrieb" umfasst die operative Planung und Steuerung sowie die eigentliche Durchführung der Produktions- und Dienstleistungsprozesse. In dieser Phase erfolgt die Festlegung der Kriterien für die zu erbringenden Leistungen sowie die Auswahl und Überwachung externer Lieferanten. Zudem wird die Durchführung der Produktions- oder Dienstleistungsprozesse selbst sichergestellt, wodurch gewährleistet wird, dass die Produkte und Dienstleistungen den zuvor festgelegten Anforderungen entsprechen und die operativen Tätigkeiten in einer kontrollierten Art und Weise ablaufen. @iso9001
@@ -121,7 +150,7 @@ Die vierte Phase, "Handeln" ("Act"), ist in Klausel zehn, "Verbesserung", gerege
 Ein auf dem #acrs("PDCA") basierendes #acrs("QMS") stellt somit eine systematische Vorgehensweise zur Umsetzung von #acrs("QM")s dar. Die klar definierten Phasen "Plan", "Do", "Check" und "Act" ermöglichen es Organisationen, ihre Prozesse kontinuierlich zu überwachen, zu bewerten und zu optimieren @iso9001. Die Berücksichtigung relevanter Einflussfaktoren, von der Führung und Planung über die operative Umsetzung bis hin zur Bewertung und kontinuierlichen Verbesserung, gewährleistet, dass Qualitätsziele erreicht und bei Bedarf entsprechende Anpassungen vorgenommen werden können @iso9001.
 
 === Software-Qualität
-Die #acrs("ISO") 25000, auch als _"Systems and Software Engineering – Systems and Software Quality Requirements and Evaluation (SQuaRE) – Guide to SQuaRE"_ bezeichnet, stellt ein internationales Referenzmodell zur Definition und Bewertung der Qualität von Systemen und Softwareprodukten während ihres gesamten Lebenszyklus dar @iso25000. Die vorliegende Norm verfolgt das Ziel, zwei Hauptprozesse zu etablieren, welche im Folgenden näher erläutert werden. In diesem Kontext sind insbesondere die Spezifikation von Softwarequalitätsanforderungen sowie die Bewertung von System- und Softwarequalität von Interesse. Die Normenreihe (@fig-organisationofSQuaRe) ist in sechs Divisionen unterteilt, welche die verschiedenen Aspekte der Qualität von Systemen und Softwareprodukten abdecken.
+Die #acrs("ISO") 25000, auch als _"Systems and Software Engineering – Systems and Software Quality Requirements and Evaluation (SQuaRE) – Guide to SQuaRE"_ bezeichnet, stellt ein internationales Referenzmodell zur Definition und Bewertung der Qualität von Systemen und Softwareprodukten während ihres gesamten Lebenszyklus dar @iso25000. Die vorliegende Norm verfolgt das Ziel, Prozesse zu etablieren, welche im Folgenden näher erläutert werden. In diesem Kontext sind insbesondere die Spezifikation von Softwarequalitätsanforderungen sowie die Bewertung von System- und Softwarequalität von Interesse. Die Normenreihe (@fig-organisationofSQuaRe) ist in sechs Divisionen unterteilt, welche die verschiedenen Aspekte der Qualität von Systemen und Softwareprodukten abdecken.
 
 #figure(caption: [Organisation of SQuaRE series of standards @iso25000], image(width: 12.3cm, "figures/Organisation of SQuaRE series of standards.png"))<fig-organisationofSQuaRe>
 

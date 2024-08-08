@@ -119,8 +119,12 @@ Die vierte Phase, "Handeln" ("Act"), ist in Klausel zehn, "Verbesserung", gerege
 Ein auf dem #acrs("PDCA") basierendes #acrs("QMS") stellt somit eine systematische Vorgehensweise zur Umsetzung von #acrs("QM")s dar. Die klar definierten Phasen "Plan", "Do", "Check" und "Act" ermöglichen es Organisationen, ihre Prozesse kontinuierlich zu überwachen, zu bewerten und zu optimieren @iso9001. Die Berücksichtigung relevanter Einflussfaktoren, von der Führung und Planung über die operative Umsetzung bis hin zur Bewertung und kontinuierlichen Verbesserung, gewährleistet, dass Qualitätsziele erreicht und bei Bedarf entsprechende Anpassungen vorgenommen werden können @iso9001.
 
 === Software-Qualität
+Die #acrs("ISO") 25000 _"Systems and software Quality Requirements and Evaluation Guide"_ (auch SQuaRE genannt), ist eine Norm, die sich mit Anforderungen und Bewertung von Software Qualität befasst. 
+Sie umfasst die folgenden Aspekte: 
 
 Zur Einhaltung von Software Qualität wird sich hier auf die #acrs("ISO") Norm 25000 _"Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE"_ bezogen @iso25000. Diese befasst sich vor allem mit Anforderungen und Bewertung von Software Qualität.  
+
+Sie umfasst 
 
 == Der Prozessansatz
 
@@ -135,9 +139,6 @@ CICD CYCLE SCHAUBILD
 === Erhebung und Dokumentation 
 Dokumentationspflicht gegenüber Auftraggebern
 // Reihenfolge der Kapitel überdenken.
-
-
-
 
 = Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse <analyse>
 

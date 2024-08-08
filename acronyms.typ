@@ -6,5 +6,5 @@
   PA: "Process Approach",
   PDCA: "Plan-Do-Check-Act Cycle",
   SW: "Software",
-  SQuaRE: "Software Product Quality Requirements and Evaluation Guide",
+  SQuaRE: "Software Product Quality Requirements and Evaluation",
 )

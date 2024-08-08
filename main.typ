@@ -21,9 +21,9 @@
 
 = Einleitung
 
-SDas Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001. In seiner Doktorarbeit _"Handwerk in der postindustriellen Gesellschaft...Leipzig"_ zeigt Tobias Werner auf, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
+Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001. In seiner Doktorarbeit _"Handwerk in der postindustriellen Gesellschaft...Leipzig"_ zeigt Tobias Werner auf, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
 
-Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe "ISO 9000", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000. Die Konzepte des "Plan-Do-Check-Act-Cycle (#acrs("PDCA"))" des "Process Approach (#acrs("PA"))",  haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001.
+Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe #acrs("ISO") 9000, _"Quality management systems - Fundamentals and vocabulary_", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000. Die Konzepte des "Plan-Do-Check-Act-Cycle (#acrs("PDCA"))" des "Process Approach (#acrs("PA"))",  haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001.
 
 #pagebreak()
 
@@ -42,14 +42,14 @@ Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und ei
 // TODO: Kapiteltitel und Inhalte anpassen falls sie sich ändern.
 
 = Grundlagen und Begriffsdefinitionen <grundlagen>
-Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Schwerpunkt liegt dabei auf dem #acrs("QM"), dem daraus entspringenden #acrs("QMS"), #acrs("SW")-Qualitätsanforderungen sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Die vorliegende Untersuchung orientiert sich in erster Linie an die Normen "#acrs("ISO") 9000" @iso9000, "#acrs("ISO") 9001" @iso9001 sowie "#acrs("ISO") 25000" @iso25000.
+Das vorliegende Kapitel dient der Erläuterung von Konzepten und Begriffen, die für das Verständnis dieser Arbeit erforderlich sind. Der Schwerpunkt liegt dabei auf dem #acrs("QM"), dem daraus entspringenden #acrs("QMS"), #acrs("SW")-Qualitätsanforderungen sowie den spezifischen Anforderungen und Herausforderungen von #acrs("KMU"). Die vorliegende Untersuchung orientiert sich in erster Linie an die Normen der Reihen #acrs("ISO") 9000, #acrs("ISO") 9001 sowie #acrs("ISO") 25000.
 
 == Qualitätsmanagement und Qualitätsmanagementsysteme
 Eine Erörterung der spezifischen Anforderungen und Herausforderungen eines #acrs("QMS") erfordert eine grundlegende Begriffsklärung. Von besonderer Relevanz sind dabei die Definitionen der Begriffe "#acrs("QM"), "Qualität" sowie "Management" der #acrs("ISO"), da sie internationale Referenzstandards darstellen.
 
 === Qualitätsmanagement
 
-Gemäß _"#acrs("ISO") 9000:2005 Quality management systems - Fundamentals"_ @iso9000 wird "Qualität" definiert als:
+Gemäß #acrs("ISO") 9000 @iso9000 wird "Qualität" definiert als:
 
 #set quote(block: true)
 #quote(["Der Grad, in dem ein Satz inhärenter Merkmale Anforderungen erfüllt."  @iso9000]) 
@@ -58,7 +58,7 @@ Unter „Inhärenten Merkmalen“ werden diejenigen Merkmale eines Produkts, ein
 
 #pagebreak()
 
-Gemäß _"#acrs("ISO") 9000:2005 Quality management systems - Fundamentals"_ @iso9000 wird "Management" definiert als:
+Gemäß #acrs("ISO") 9000 @iso9000 wird "Management" definiert als:
 
 #set quote(block: true)
 #quote(["Koordinierte Tätigkeiten zum Leiten und Steuern einer Organisation." @iso9000])
@@ -67,9 +67,11 @@ Die angeführte Definition verdeutlicht, dass Management die Aktivitäten umfass
 Die zuvor dargelegten Definitionen bilden in ihrer Kombination die Grundlage für #acrs("QM"). Dieses befasst sich mit der Sicherstellung, dass sämtliche Tätigkeiten innerhalb einer Organisation so geplant und durchgeführt werden, dass sie die festgelegten Anforderungen erfüllen @iso9000. Ein effektives #acrs("QM") bedingt eine fortwährende Überwachung und Evaluierung der Prozesse und Produkte, um die Einhaltung der definierten Standards sicherzustellen. Dies umfasst regelmäßige Audits sowie Schulungen der Mitarbeitenden, um sicherzustellen, dass alle Organisationsebenen die Qualitätsziele verstehen und darauf hinarbeiten @iso9001.
 
 #figure(caption: [Die sieben Prinzipien des Qualitätsmanagements @qm7principles], image(width: 7.8cm, "figures/The 7 principles of quality management.png"))<fig-7qmprinciples>
-// Abbildungen auf deutsch übersetzen 
+// TODO:Abbildungen auf deutsch übersetzen 
+
 #pagebreak()
-Gemäß gemäß #acrs("ISO") bilden die in @fig-7qmprinciples dargestellten Konzepte  9000 das Fundament des #acrs("QM") @iso9000:
+
+Gemäß #acrs("ISO") bilden die in @fig-7qmprinciples dargestellten Konzepte  9000 das Fundament des #acrs("QM") @iso9000:
 
 1. Kundenorientierung (Customer Focus): Die Bedürfnisse und Erwartungen der Kunden stellen den Mittelpunkt dar und determinieren die Qualitätsstandards.
 2. Führung (Leadership): Führungskräfte müssen eine klare Vision und Richtung vorgeben, um die Qualitätsziele zu erreichen.
@@ -79,7 +81,7 @@ Gemäß gemäß #acrs("ISO") bilden die in @fig-7qmprinciples dargestellten Konz
 6. Faktengestützte Entscheidungsfindung (Evidence-based Decision Making): Die Grundlage für Entscheidungen bildet die Auswertung von Daten und Fakten.
 7. Beziehungsmanagement (Relationship Management): Die Beziehungen zu Lieferanten werden so gestaltet, dass beide Seiten Vorteile daraus ziehen.
 
-Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische Vorgehensweise bezeichnet, deren Ziel die Optimierung der Qualität von Produkten und Dienstleistungen ist. Dies erfolgt durch eine kontinuierliche Evaluierung und gegebenenfalls Modifikation der internen Prozesse einer Organisation. #acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in #acrs("ISO") 9001 verwendet werden. Dadurch wird gewährleistet, dass alle Anwender über ein einheitliches Verständnis der verwendeten Begriffe und Konzepte verfügen. 
+Es kann festgehalten werden, dass der Begriff "#acrs("QM")" eine systematische Vorgehensweise bezeichnet, deren Ziel die Optimierung der Qualität von Produkten und Dienstleistungen ist. Dies erfolgt durch eine kontinuierliche Evaluierung und gegebenenfalls Modifikation der internen Prozesse einer Organisation. #acrs("ISO") 9000 definiert grundlegende Begriffe und Definitionen, die in #acrs("ISO") 9001, _"Quality management systems - Requirements"_, verwendet werden. Dadurch wird gewährleistet, dass alle Anwender über ein einheitliches Verständnis der verwendeten Begriffe und Konzepte verfügen. 
 
 #pagebreak()
 
@@ -104,13 +106,13 @@ Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlich
 
 Deming zufolge basiert das Konzept des #acrs("PDCA") auf einer systematischen und iterativen Vorgehensweise, welche eine fortlaufende Verbesserung von Prozessen sowie eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht. @moen2009pdca
 
-Ein #acrs("QMS"), welches den Anforderungen der ISO-Norm 9001 entspricht, basiert auf einer an das #acrs("QM") angepassten Version des #acrs("PDCA"). Die Norm umfasst insgesamt zehn Klauseln, welche eine umfassende Grundlage für die Implementierung und Aufrechterhaltung eines effektiven #acrs("QMS") bieten. Die ersten drei Klauseln behandeln die Anwendungsbereiche, normative Verweisungen und Begriffsbestimmungen. Die übrigen Klauseln (vier bis zehn) werden gemäß Abbildung 3 den vier Phasen des #acrs("PDCA") zugeordnet:
+Ein #acrs("QMS"), welches den Anforderungen der #acrs("ISO") 9001 entspricht, basiert auf einer an das #acrs("QM") angepassten Version des #acrs("PDCA"). Die Norm umfasst insgesamt zehn Klauseln, welche eine umfassende Grundlage für die Implementierung und Aufrechterhaltung eines effektiven #acrs("QMS") bieten. Die ersten drei Klauseln behandeln die Anwendungsbereiche, normative Verweisungen und Begriffsbestimmungen. Die übrigen Klauseln (vier bis zehn) werden gemäß Abbildung 3 den vier Phasen des #acrs("PDCA") zugeordnet:
 
 #figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 14cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 
 Die erste Phase des #acrs("PDCA"), "Planen" ("Plan"), umfasst die Klauseln vier bis sechs. Klausel vier "Organisation und deren Kontext" thematisiert den Kontext der Organisation, wobei sowohl interne als auch externe Faktoren zu berücksichtigen sind. Es ist von wesentlicher Bedeutung, dass die Organisation den Kontext, in dem sie sich befindet, vollständig erfasst und alle relevanten internen sowie externen Einflussfaktoren berücksichtigt. Die fünfte Klausel "Führung" ist von zentraler Bedeutung und bildet das Fundament des Systems, da die Führungskräfte darin die Vision und Richtung vorgeben, auf deren Basis die weiteren Elemente aufbauen. Die sechste Klausel "Planung" umfasst die Festlegung von Maßnahmen zur Bewältigung von Risiken und Nutzung von Chancen sowie die Definition von Qualitätszielen und die Planung von Änderungen. @iso9001
 
-Die zweite Phase, "Durchführen" ("Do"), umfasst die Klauseln sieben und acht der ISO 9001. Gegenstand der siebten Klausel, der sogenannten "Unterstützung"-Klausel, ist die Auseinandersetzung mit der Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen. In dieser Phase erlangen die Bereitstellung der erforderlichen Ressourcen sowie die Umsetzung der geplanten Maßnahmen eine entscheidende Bedeutung. Die achte Klausel "Betrieb" umfasst die operative Planung und Steuerung sowie die eigentliche Durchführung der Produktions- und Dienstleistungsprozesse. In dieser Phase erfolgt die Festlegung der Kriterien für die zu erbringenden Leistungen sowie die Auswahl und Überwachung externer Lieferanten. Zudem wird die Durchführung der Produktions- oder Dienstleistungsprozesse selbst sichergestellt, wodurch gewährleistet wird, dass die Produkte und Dienstleistungen den zuvor festgelegten Anforderungen entsprechen und die operativen Tätigkeiten in einer kontrollierten Art und Weise ablaufen. @iso9001
+Die zweite Phase, "Durchführen" ("Do"), umfasst die Klauseln sieben und acht der #acrs("ISO") 9001. Gegenstand der siebten Klausel, der sogenannten "Unterstützung"-Klausel, ist die Auseinandersetzung mit der Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen. In dieser Phase erlangen die Bereitstellung der erforderlichen Ressourcen sowie die Umsetzung der geplanten Maßnahmen eine entscheidende Bedeutung. Die achte Klausel "Betrieb" umfasst die operative Planung und Steuerung sowie die eigentliche Durchführung der Produktions- und Dienstleistungsprozesse. In dieser Phase erfolgt die Festlegung der Kriterien für die zu erbringenden Leistungen sowie die Auswahl und Überwachung externer Lieferanten. Zudem wird die Durchführung der Produktions- oder Dienstleistungsprozesse selbst sichergestellt, wodurch gewährleistet wird, dass die Produkte und Dienstleistungen den zuvor festgelegten Anforderungen entsprechen und die operativen Tätigkeiten in einer kontrollierten Art und Weise ablaufen. @iso9001
 
 Die dritte Phase, "Prüfen" ("Check"), wird durch Klausel neun, "Bewertung der Leistung", definiert. Diese umfasst die Bewertung der Leistung, welche die Überwachung, Messung, Analyse und Bewertung des #acrs("QMS")-Leistung beinhaltet. Dies beinhaltet ebenfalls interne Audits und Managementbewertungen. @iso9001
 
@@ -118,13 +120,19 @@ Die vierte Phase, "Handeln" ("Act"), ist in Klausel zehn, "Verbesserung", gerege
 
 Ein auf dem #acrs("PDCA") basierendes #acrs("QMS") stellt somit eine systematische Vorgehensweise zur Umsetzung von #acrs("QM")s dar. Die klar definierten Phasen "Plan", "Do", "Check" und "Act" ermöglichen es Organisationen, ihre Prozesse kontinuierlich zu überwachen, zu bewerten und zu optimieren @iso9001. Die Berücksichtigung relevanter Einflussfaktoren, von der Führung und Planung über die operative Umsetzung bis hin zur Bewertung und kontinuierlichen Verbesserung, gewährleistet, dass Qualitätsziele erreicht und bei Bedarf entsprechende Anpassungen vorgenommen werden können @iso9001.
 
+#pagebreak()
+
 === Software-Qualität
-Die #acrs("ISO") 25000 _"Systems and software Quality Requirements and Evaluation Guide"_ (auch SQuaRE genannt), ist eine Norm, die sich mit Anforderungen und Bewertung von Software Qualität befasst. 
-Sie umfasst die folgenden Aspekte: 
+Die #acrs("ISO") 25000, auch als _"Systems and Software Engineering – Systems and Software Quality Requirements and Evaluation (SQuaRE) – Guide to SQuaRE"_ bezeichnet, stellt ein internationales Referenzmodell zur Definition und Bewertung der Qualität von Systemen und Softwareprodukten während ihres gesamten Lebenszyklus dar @iso25000. Die vorliegende Norm verfolgt das Ziel, zwei Hauptprozesse zu etablieren, welche im Folgenden näher erläutert werden. In diesem Kontext sind insbesondere die Spezifikation von Softwarequalitätsanforderungen sowie die Bewertung von System- und Softwarequalität von Interesse. Die Normenreihe (@fig-organisationofSQuaRe) ist in sechs Divisionen unterteilt, welche die verschiedenen Aspekte der Qualität von Systemen und Softwareprodukten abdecken.
 
-Zur Einhaltung von Software Qualität wird sich hier auf die #acrs("ISO") Norm 25000 _"Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE"_ bezogen @iso25000. Diese befasst sich vor allem mit Anforderungen und Bewertung von Software Qualität.  
+#figure(caption: [Organisation of SQuaRE series of standards @iso9001], image(width: 13cm, "figures/Organisation of SQuaRE series of standards.png"))<fig-organisationofSQuaRe>
 
-Sie umfasst 
+2500n "Quality Management Division" definiert in allgemeiner Form Modelle, Begriffe und Definitionen, welche in den übrigen Standards der Reihe Anwendung finden. Dies bildet die Grundlage für die Verwaltung der Spezifikation sowie die Bewertung von Produktanforderungen @iso25000. 2501n "Quality Model Division" präsentiert Qualitätsmodelle für Systeme, Softwareprodukte, Qualität im Gebrauch und Datenqualität @iso25000. 2502n "Quality Measurement Division" beinhaltet ein Referenzmodell zur Qualitätsmessung sowie mathematische Definitionen von Qualitätsmaßen @iso25000. 2503n "Quality Requirements Division" behandelt die Spezifikation der Konzeption von Qualitätsanforderungen für zu entwickelnde Produkte sowie Bewertungsprozesse @iso25000. 2504n "Quality Evaluation Division" definiert Anforderungen, Empfehlungen und Richtlinien zur Produktbewertung, konzipiert für unabhängige Bewerter, Erwerber und Entwickler, und unterstützt die Dokumentation eines Maßes als Evaluationsmodul @iso25000. Schließlich umfasst die 25050-25099 "Extension Division" internationale Standards und technische Berichte, die spezifische Anwendungsdomänen adressieren oder andere #acrs("SQuaRE")-Standards ergänzen. 
+Diese Gliederung bietet umfassende Leitlinien zur Spezifikation, Messung und Bewertung der Qualität von Systemen und Softwareprodukten.
+
+Diese Arbeit focussiert sich hauptsätlich auf "Quality Model Division" sowie "Quality Requirements Division" der #acrs("ISO") 25000, da diese die Grundlage für die Spezifikation und Bewertung von Softwarequalitätsanforderungen bilden. Die Anwendung dieser Normen ermöglicht es, die Qualität von Softwareprodukten systematisch zu erfassen und zu bewerten, wodurch eine kontinuierliche Verbesserung der Produkte gewährleistet wird. Die Berücksichtigung der spezifischen Anforderungen und Qualitätsmerkmale von Softwareprodukten ist von entscheidender Bedeutung, um die Zufriedenheit der Kundinnen und Kunden zu gewährleisten und die Wettbewerbsfähigkeit des Unternehmens zu steigern. @iso25000 
+
+
 
 == Der Prozessansatz
 

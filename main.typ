@@ -130,6 +130,8 @@ Diese Gliederung bietet umfassende Leitlinien zur Spezifikation, Messung und Bew
 
 Diese Arbeit focussiert sich hauptsätlich auf "Quality Model Division" sowie "Quality Requirements Division" der #acrs("ISO") 25000, da diese die Grundlage für die Spezifikation und Bewertung von Softwarequalitätsanforderungen bilden. Die Anwendung dieser Normen ermöglicht es, die Qualität von Softwareprodukten systematisch zu erfassen und zu bewerten, wodurch eine kontinuierliche Verbesserung der Produkte gewährleistet wird. Die Berücksichtigung der spezifischen Anforderungen und Qualitätsmerkmale von Softwareprodukten ist von entscheidender Bedeutung, um die Zufriedenheit der Kundinnen und Kunden zu gewährleisten und die Wettbewerbsfähigkeit des Unternehmens zu steigern. @iso25000
 
+In 
+
 
 Aber Vorsicht: ISO 25000 ist keine Vorgabe für die Software an sich, sondern nur für deren Bewertung. Allerdings gibt sie kein Bewertungstool vor – Developer und Softwareunternehmen müssen sich also im Prinzip auf Basis der Norm eigene Bewertungssysteme zurechtlegen.
 // TODO: Ende muss noch bearbeitet werden

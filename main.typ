@@ -120,7 +120,7 @@ Ein auf dem #acrs("PDCA") basierendes #acrs("QMS") stellt somit eine systematisc
 
 === Software-Qualität
 
-Zur Einhaltung von Software Qualität wird sich hier auf die #acrs("Iso") Norm 25000 _"Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE"_ bezogen @iso25000. Diese befasst sich vor allem mit Anforderungen und Bewertung von Software Qualität.  
+Zur Einhaltung von Software Qualität wird sich hier auf die #acrs("ISO") Norm 25000 _"Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE"_ bezogen @iso25000. Diese befasst sich vor allem mit Anforderungen und Bewertung von Software Qualität.  
 
 == Der Prozessansatz
 

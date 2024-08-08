@@ -120,26 +120,23 @@ Die vierte Phase, "Handeln" ("Act"), ist in Klausel zehn, "Verbesserung", gerege
 
 Ein auf dem #acrs("PDCA") basierendes #acrs("QMS") stellt somit eine systematische Vorgehensweise zur Umsetzung von #acrs("QM")s dar. Die klar definierten Phasen "Plan", "Do", "Check" und "Act" ermöglichen es Organisationen, ihre Prozesse kontinuierlich zu überwachen, zu bewerten und zu optimieren @iso9001. Die Berücksichtigung relevanter Einflussfaktoren, von der Führung und Planung über die operative Umsetzung bis hin zur Bewertung und kontinuierlichen Verbesserung, gewährleistet, dass Qualitätsziele erreicht und bei Bedarf entsprechende Anpassungen vorgenommen werden können @iso9001.
 
-#pagebreak()
-
 === Software-Qualität
 Die #acrs("ISO") 25000, auch als _"Systems and Software Engineering – Systems and Software Quality Requirements and Evaluation (SQuaRE) – Guide to SQuaRE"_ bezeichnet, stellt ein internationales Referenzmodell zur Definition und Bewertung der Qualität von Systemen und Softwareprodukten während ihres gesamten Lebenszyklus dar @iso25000. Die vorliegende Norm verfolgt das Ziel, zwei Hauptprozesse zu etablieren, welche im Folgenden näher erläutert werden. In diesem Kontext sind insbesondere die Spezifikation von Softwarequalitätsanforderungen sowie die Bewertung von System- und Softwarequalität von Interesse. Die Normenreihe (@fig-organisationofSQuaRe) ist in sechs Divisionen unterteilt, welche die verschiedenen Aspekte der Qualität von Systemen und Softwareprodukten abdecken.
 
-#figure(caption: [Organisation of SQuaRE series of standards @iso9001], image(width: 13cm, "figures/Organisation of SQuaRE series of standards.png"))<fig-organisationofSQuaRe>
+#figure(caption: [Organisation of SQuaRE series of standards @iso25000], image(width: 12.3cm, "figures/Organisation of SQuaRE series of standards.png"))<fig-organisationofSQuaRe>
 
-2500n "Quality Management Division" definiert in allgemeiner Form Modelle, Begriffe und Definitionen, welche in den übrigen Standards der Reihe Anwendung finden. Dies bildet die Grundlage für die Verwaltung der Spezifikation sowie die Bewertung von Produktanforderungen @iso25000. 2501n "Quality Model Division" präsentiert Qualitätsmodelle für Systeme, Softwareprodukte, Qualität im Gebrauch und Datenqualität @iso25000. 2502n "Quality Measurement Division" beinhaltet ein Referenzmodell zur Qualitätsmessung sowie mathematische Definitionen von Qualitätsmaßen @iso25000. 2503n "Quality Requirements Division" behandelt die Spezifikation der Konzeption von Qualitätsanforderungen für zu entwickelnde Produkte sowie Bewertungsprozesse @iso25000. 2504n "Quality Evaluation Division" definiert Anforderungen, Empfehlungen und Richtlinien zur Produktbewertung, konzipiert für unabhängige Bewerter, Erwerber und Entwickler, und unterstützt die Dokumentation eines Maßes als Evaluationsmodul @iso25000. Schließlich umfasst die 25050-25099 "Extension Division" internationale Standards und technische Berichte, die spezifische Anwendungsdomänen adressieren oder andere #acrs("SQuaRE")-Standards ergänzen. 
+2500n "Quality Management Division" definiert in allgemeiner Form Modelle, Begriffe und Definitionen, welche in den übrigen Standards der Reihe Anwendung finden. Dies bildet die Grundlage für die Verwaltung der Spezifikation sowie die Bewertung von Produktanforderungen @iso25000. 2501n "Quality Model Division" präsentiert Qualitätsmodelle für Systeme, Softwareprodukte, Qualität im Gebrauch und Datenqualität @iso25000. 2502n "Quality Measurement Division" beinhaltet ein Referenzmodell zur Qualitätsmessung sowie mathematische Definitionen von Qualitätsmaßen @iso25000. 2503n "Quality Requirements Division" behandelt die Spezifikation der Konzeption von Qualitätsanforderungen für zu entwickelnde Produkte sowie Bewertungsprozesse @iso25000. 2504n "Quality Evaluation Division" definiert Anforderungen, Empfehlungen und Richtlinien zur Produktbewertung, konzipiert für unabhängige Bewerter, Erwerber und Entwickler, und unterstützt die Dokumentation eines Maßes als Evaluationsmodul @iso25000. Schließlich umfasst die 25050-25099 "Extension Division" internationale Standards und technische Berichte, die spezifische Anwendungsdomänen adressieren oder andere #acrs("SQuaRE")-Standards ergänzen @iso25000. 
 Diese Gliederung bietet umfassende Leitlinien zur Spezifikation, Messung und Bewertung der Qualität von Systemen und Softwareprodukten.
 
-Diese Arbeit focussiert sich hauptsätlich auf "Quality Model Division" sowie "Quality Requirements Division" der #acrs("ISO") 25000, da diese die Grundlage für die Spezifikation und Bewertung von Softwarequalitätsanforderungen bilden. Die Anwendung dieser Normen ermöglicht es, die Qualität von Softwareprodukten systematisch zu erfassen und zu bewerten, wodurch eine kontinuierliche Verbesserung der Produkte gewährleistet wird. Die Berücksichtigung der spezifischen Anforderungen und Qualitätsmerkmale von Softwareprodukten ist von entscheidender Bedeutung, um die Zufriedenheit der Kundinnen und Kunden zu gewährleisten und die Wettbewerbsfähigkeit des Unternehmens zu steigern. @iso25000 
+Diese Arbeit focussiert sich hauptsätlich auf "Quality Model Division" sowie "Quality Requirements Division" der #acrs("ISO") 25000, da diese die Grundlage für die Spezifikation und Bewertung von Softwarequalitätsanforderungen bilden. Die Anwendung dieser Normen ermöglicht es, die Qualität von Softwareprodukten systematisch zu erfassen und zu bewerten, wodurch eine kontinuierliche Verbesserung der Produkte gewährleistet wird. Die Berücksichtigung der spezifischen Anforderungen und Qualitätsmerkmale von Softwareprodukten ist von entscheidender Bedeutung, um die Zufriedenheit der Kundinnen und Kunden zu gewährleisten und die Wettbewerbsfähigkeit des Unternehmens zu steigern. @iso25000
 
 
-
+Aber Vorsicht: ISO 25000 ist keine Vorgabe für die Software an sich, sondern nur für deren Bewertung. Allerdings gibt sie kein Bewertungstool vor – Developer und Softwareunternehmen müssen sich also im Prinzip auf Basis der Norm eigene Bewertungssysteme zurechtlegen.
+// TODO: Ende muss noch bearbeitet werden
 == Der Prozessansatz
 
 === Methoden zur Identifikation von Schwachstellen
 Capability Maturity Model Integration
-
-== Software Qualität
 
 == Entwicklungs-, Test- und Release-Prozesse
 CICD CYCLE SCHAUBILD 

@@ -95,16 +95,16 @@ Der seinerzeit implementierte Zyklus umfasste lediglich drei Phasen: "Specificat
 
 #figure(caption: [Der Plan-Do-Check-Act Zyklus @moen2009pdca], image(width: 10.1cm, "figures/PDCA Cycle 1994.png"))<fig-PDCA>
 
-Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden:
+Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlichen Kreislauf durchlaufen werden @moen2009pdca:
 
 1. Plan: In dieser Phase erfolgt die Definition von Zielen sowie die Planung der erforderlichen Maßnahmen zu deren Realisierung. Dies umfasst die Analyse von Daten sowie die Entwicklung von Hypothesen.
 2. Do: Die geplanten Schritte werden in der vorgesehenen Weise durchgeführt, wobei die Umsetzung als Experiment im wissenschaftlichen Sinne zu betrachten ist. Die Durchführung erfolgt unter kontrollierten Bedingungen, sodass eine valide Evaluation gewährleistet werden kann.
 3. Check: In dieser Phase erfolgt eine Evaluierung der Ergebnisse der Umsetzung, welche mit den zuvor definierten Zielen verglichen wird. Dieser Prozess kann als Test der aufgestellten Hypothese bezeichnet werden. Ziel ist die Identifizierung etwaiger Abweichungen.
 4. Act: Die Resultate der Evaluierung dienen als Grundlage für die Implementierung von Modifikationen und Optimierungen. Dieser Schritt stellt den Abschluss des Zyklus dar und ebnet den Weg für einen erneuten Durchlauf deer Phasen.
 
-Deming zufolge basiert das Konzept des #acrs("PDCA") auf einer systematischen und iterativen Vorgehensweise, welche eine fortlaufende Verbesserung von Prozessen sowie eine kontinuierliche Anpassung an veränderte Bedingungen und Anforderungen ermöglicht. @moen2009pdca
+#pagebreak()
 
-Ein #acrs("QMS"), welches den Anforderungen der #acrs("ISO") 9001 entspricht, basiert auf einer an das #acrs("QM") angepassten Version des #acrs("PDCA"). Die Norm umfasst insgesamt zehn Klauseln, welche eine umfassende Grundlage für die Implementierung und Aufrechterhaltung eines effektiven #acrs("QMS") bieten. Die ersten drei Klauseln behandeln die Anwendungsbereiche, normative Verweisungen und Begriffsbestimmungen. Die übrigen Klauseln (vier bis zehn) werden gemäß Abbildung 3 den vier Phasen des #acrs("PDCA") zugeordnet:
+#acrs("ISO") 9001 definiert in zehn Klauseln die Implementierung eines #acrs("QMS"). Dabei werden in den ersten drei Klauseln die Anwendungsbereiche, normative Verweisungen und Begriffsbestimmungen erläutert. Die übrigen Klauseln (vier bis zehn) werden gemäß @fig-pdcaiso9001 den vier Phasen "Plan", "Do", "Check" und "Act" des #acrs("PDCA") zugeordnet @iso9001:
 
 #figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 14cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 
@@ -113,28 +113,30 @@ Ein #acrs("QMS"), welches den Anforderungen der #acrs("ISO") 9001 entspricht, ba
   inset: 5pt,
   align: horizon,
   table.header(
-    [*Phasen des PDCA-Zyklus (English)*], [*Klauseln der ISO 9001*], 
+    [*Phasen des PDCA-Zyklus*], [*Klauseln der ISO 9001*], 
    // [*Kurzbeschreibung der Klauseln*],
   ),
-text("Planen (Plan)	"),
-text("Klausel 4: Organisation und deren Kontext 
-  Klausel 5: Führung, 
-  Klausel 6: Planung"),
+text("Plan"),
+text("
+Klausel 4: Organisation und deren Kontext 
+Klausel 5: Führung,
+Klausel 6: Planung"),
 //text("Klausel 4: Organisation und deren Kontext: Thematisiert den Kontext der Organisation unter Berücksichtigung interner und externer Faktoren.
 // Klausel 5: Führung: Zentral für die Vision und Richtung der Organisation, die die Basis des Systems bildet.
 //Klausel 6: Planung: Festlegung von Maßnahmen zur Risikobewältigung und Nutzung von Chancen, Definition von Qualitätszielen und Planung von Änderungen."),
 
-text("Durchführen (Do)"),
-text("Klausel 7: Unterstützung
+text("Do"),
+text("
+Klausel 7: Unterstützung
 Klausel 8: Betrieb"),
 //  text("Klausel 7: Unterstützung: Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen.
 // Klausel 8: Betrieb: Operative Planung und Steuerung sowie Durchführung der Produktions- und Dienstleistungsprozesse. Festlegung von Leistungskriterien und Überwachung externer Lieferanten."),
 
-text("Prüfen (Check)	"),
+text("Check"),
 text("Klausel 9: Bewertung der Leistung"),
 // text("Klausel 9: Bewertung der Leistung: Überwachung, Messung, Analyse und Bewertung der QMS-Leistung, inklusive interner Audits und Managementbewertungen."),
 
-text("Handeln (Act)	"),
+text("An"),
 text("Klausel 10: Verbesserung"),
 // text("Klausel 10: Verbesserung: Kontinuierliche Verbesserung, Behandlung von Korrekturmaßnahmen und Management von Nichtkonformitäten. Ableitung von Verbesserungsmaßnahmen basierend auf den Ergebnissen der Check-Phase.")
 ))<table>

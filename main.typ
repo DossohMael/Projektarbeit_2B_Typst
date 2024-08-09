@@ -104,14 +104,14 @@ Der #acrs("PDCA") umfasst die folgenden vier Phasen, die in einem kontinuierlich
 
 #pagebreak()
 
-#acrs("ISO") 9001 definiert in zehn Klauseln die Implementierung eines #acrs("QMS"). Dabei werden in den ersten drei Klauseln die Anwendungsbereiche, normative Verweisungen und Begriffsbestimmungen erläutert. Die übrigen Klauseln (vier bis zehn) werden gemäß @fig-pdcaiso9001 den vier Phasen "Plan", "Do", "Check" und "Act" des #acrs("PDCA") zugeordnet @iso9001:
+Die #acrs("ISO") 9001 definiert in zehn Klauseln die Implementierung eines #acrs("QMS"). In den ersten drei Klauseln erfolgt eine Erläuterung der Anwendungsbereiche, normativen Verweisungen sowie Begriffsbestimmungen. Die übrigen Klauseln (vier bis zehn) werden gemäß @fig-pdcaiso9001 den vier Phasen "Plan", "Do", "Check" und "Act" des #acrs("PDCA") zugeordnet @iso9001. Eine tabellarische Gegenüberstellung der Zuordnung der Phasen des #acrs("PDCA") zu den Klauseln der #acrs("ISO") 9001 findet sich in @table-qmspdca.
 
-#figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 14cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
+#figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 13cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 
 #figure(caption: "Übersicht der ISO 9001 Klauseln im Kontext des PDCA-Zyklus", table(
-  columns: (auto, auto,),
+  columns: (auto, auto),
   inset: 5pt,
-  align: horizon,
+  align: left,
   table.header(
     [*Phasen des PDCA-Zyklus*], [*Klauseln der ISO 9001*], 
    // [*Kurzbeschreibung der Klauseln*],
@@ -139,7 +139,7 @@ text("Klausel 9: Bewertung der Leistung"),
 text("An"),
 text("Klausel 10: Verbesserung"),
 // text("Klausel 10: Verbesserung: Kontinuierliche Verbesserung, Behandlung von Korrekturmaßnahmen und Management von Nichtkonformitäten. Ableitung von Verbesserungsmaßnahmen basierend auf den Ergebnissen der Check-Phase.")
-))<table>
+))<table-qmspdca>
 
 Die erste Phase des #acrs("PDCA"), "Planen" ("Plan"), umfasst die Klauseln vier bis sechs. Klausel vier "Organisation und deren Kontext" thematisiert den Kontext der Organisation, wobei sowohl interne als auch externe Faktoren zu berücksichtigen sind. Es ist von wesentlicher Bedeutung, dass die Organisation den Kontext, in dem sie sich befindet, vollständig erfasst und alle relevanten internen sowie externen Einflussfaktoren berücksichtigt. Die fünfte Klausel "Führung" ist von zentraler Bedeutung und bildet das Fundament des Systems, da die Führungskräfte darin die Vision und Richtung vorgeben, auf deren Basis die weiteren Elemente aufbauen. Die sechste Klausel "Planung" umfasst die Festlegung von Maßnahmen zur Bewältigung von Risiken und Nutzung von Chancen sowie die Definition von Qualitätszielen und die Planung von Änderungen. @iso9001
 

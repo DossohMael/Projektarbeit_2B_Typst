@@ -21,13 +21,13 @@
 
 = Einleitung
 
-Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9001. In seiner Doktorarbeit _"Handwerk in der postindustriellen Gesellschaft...Leipzig"_ zeigt Tobias Werner auf, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
+Das Qualitätsmanagement (#acrs("QM")) hat sich als eine fundamentale Disziplin etabliert, deren Ziel es ist, die Qualität von Produkten und Dienstleistungen kontinuierlich zu gewährleisten und zu optimieren. Die historische Entwicklung von #acrs("QM") verdeutlicht, dass ein signifikanter Wandel von der handwerklichen Einzelanfertigung bis zur heutigen Massenproduktion und Dienstleistungsorientierung stattgefunden hat @iso9000. In seiner Doktorarbeit _"Handwerk in der postindustriellen Gesellschaft...Leipzig"_ zeigt Tobias Werner auf, dass in der Zeit vor dem 20. Jahrhundert die Sicherung der Qualität handwerklicher Produkte in erster Linie durch den jeweiligen Meister erfolgte, der die Verantwortung für die Endqualität der hergestellten Waren trug @handwerk2014. Diese Vorgehensweise wurde mit der industriellen Revolution und der damit einhergehenden Massenproduktion jedoch zunehmend als unzureichend erachtet, sodass erste Ansätze zur systematischeren Qualitätskontrolle entwickelt wurden @handwerk2014. 
 
-Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe #acrs("ISO") 9000, _"Quality management systems - Fundamentals and vocabulary_", etabliert von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren, markierte einen Wendepunkt, indem sie weltweit anerkannte Standards für #acrs("QMS") setzte @iso9000. Die Konzepte des "Plan-Do-Check-Act-Cycle (#acrs("PDCA"))" des "Process Approach (#acrs("PA"))",  haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001.
+Die Automobilindustrie kann als Vorreiterin bei der Einführung von Qualitätsmanagementsystemen (#acrs("QMS")) bezeichnet werden. Die Motivation hierfür resultiert aus dem Bestreben, sowohl die Produktqualität als auch die Sicherheit zu erhöhen. Die Normenreihe #acrs("ISO") 9000, _"Quality management systems - Fundamentals and vocabulary_", wurde von der International Organization for Standardization (#acrs("ISO")) in den 1980er Jahren etabliert. Sie markierte einen Meilenstein in der Entwicklung von #acrs("QMS") indem sie weltweit anerkannte Standards für diese setzte @iso9000. Die Konzepte des "Plan-Do-Check-Act-Cycle (#acrs("PDCA"))" und des "Process Approach (#acrs("PA"))" (@grundlagen),  haben in diesem Kontext maßgeblich zur Entwicklung beigetragen und genießen bis heute weltweit Anerkennung. Diese Prinzipien bilden unter anderem die Grundlage für nationale Gesetzgebungen sowie Unternehmensstandards und werden unter anderem eingesetzt, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen, die Wettbewerbsfähigkeit zu verbessern und die Einhaltung gesetzlicher Anforderungen sicherzustellen @iso9001.
 
 #pagebreak()
 
-Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen #acrs("KMU") eine signifikante Herausforderung dar. Der Mangel an notwendigen finanziellen Mitteln und verantwortlichen Personen führt dazu, dass ein wirksames #acrs("QMS") in diesen Unternehmensformen oft nicht etabliert werden kann. Infolgedessen kann es in diesen Unternehmen an einer etablierten Qualitätskultur sowie an dem notwendigen Engagement für das #acrs("QM") fehlen @qm2015.
+Die Implementierung eines formalen #acrs("QMS") stellt für kleine und mittlere Unternehmen (#acrs("KMU")) eine signifikante Herausforderung dar. Der Mangel an notwendigen finanziellen Mitteln und verantwortlichen Personen führt dazu, dass ein wirksames #acrs("QMS") in diesen Unternehmensformen oft nicht etabliert werden kann @qm2015. Infolgedessen kann es in diesen Unternehmen an einer etablierten Qualitätskultur sowie an dem notwendigen Engagement für das #acrs("QM") fehlen @qm2015.
 In diesem Kontext ist auf den _"QM-Leitfaden für kleine und mittlere Unternehmen"_ des Bayerischen Staatsministeriums für Wirtschaft und Medien, Energie und Technologie zu verweisen, in dem betont wird, dass:
 
 #set quote(block: true) 
@@ -35,8 +35,8 @@ In diesem Kontext ist auf den _"QM-Leitfaden für kleine und mittlere Unternehme
 
 Die Implementierung eines #acrs("QMS") eröffnet #acrs("KMU") demnach die Möglichkeit, ihre internen Prozesse klar zu definieren, potenzielle Fehlerquellen und die damit verbundenen Kosten zu reduzieren. Dies ist insbesondere für KMU von Interesse, da sie mit begrenzten Ressourcen arbeiten und eine effiziente Nutzung dieser ihre Wettbewerbsfähigkeit erhöht. Ein verbessertes QM führt zudem zu höherer Kundenzufriedenheit und erleichtert den Marktzugang, da konsistente und zuverlässige Produkte und Dienstleistungen das Vertrauen der Kunden stärken @qm2015.
 
-Die vorliegende Arbeit verfolgt das Ziel, bestehende Unternehmensprozesse mit anerkannten Normen und Standards zu vergleichen, um mögliche Optimierungspotenziale zu identifizieren. 
-Im Rahmen der vorliegenden Arbeit erfolgt eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU"). Die Firma ProSystems GmbH entwickelt Softwarelösungen für die Systemintegration in der Gebäudeautomation.  Das Unternehmen ist ein zertifizierter Entwickler für das Niagara-4-Framework™ und bietet Software (#acrs("SW")), Dienstleistungen und Lösungen an, welche die Funktionalität des Frameworks in diversen Aspekten erweitern @prosy170724. Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung da optimale Prozesse eine maßgebliche Verbesserung der Qualität von Softwareprodukten bewirken @iso9001.
+Die Firma ProSystems GmbH entwickelt Softwarelösungen für die Systemintegration in der Gebäudeautomation und wird gemäß statistischem Bundesamt als #acrs("KMU") kategorisiert @statbuamt.  Das Unternehmen ist ein zertifizierter Entwickler für das Niagara-4-Framework™ und bietet Software (#acrs("SW")), Dienstleistungen und Lösungen an, welche die Funktionalität des Frameworks in diversen Aspekten erweitern @prosy170724. Die vorliegende Arbeit verfolgt das Ziel, bestehende Unternehmensprozesse ProSystems mit anerkannten Normen und Standards zu vergleichen, um mögliche Optimierungspotenziale zu identifizieren.
+Im Rahmen der vorliegenden Arbeit erfolgt eine Analyse und Dokumentation der bestehenden Prozesse des #acrs("KMU").  Im Rahmen der Analyse sind insbesondere die Entwicklungs-, Test- und Release-Prozesse von Relevanz, da diese einen entscheidenden Einfluss auf die Gesamteffizienz des Unternehmens ausüben. Eine detaillierte Untersuchung dieser Prozesse erlaubt die Identifikation von Stärken und Schwächen sowie die Ableitung von Optimierungspotenzialen. Dies ist von besonderer Bedeutung da optimale Prozesse eine maßgebliche Verbesserung der Qualität von Softwareprodukten bewirken @iso9001.
 
 Im Folgenden wird das geplante Vorgehen der vorliegenden Arbeit dargelegt und eine Übersicht über die behandelten Themen und Kapitel gegeben: @grundlagen dient der Einführung in die für das Verständnis dieser Arbeit grundlegenden Konzepte. In @analyse erfolgt eine Analyse der bestehenden Entwicklungs-, Test- und Release-Prozesse. Zu Beginn dieses Vorhabens erfolgt eine Befragung der Mitarbeitenden, um deren Meinungen und Erfahrungen mit den bestehenden Prozessen zu erfassen. In Anschluss finden eine Auswertung der gewonnenen Erkenntnisse sowie eine formale Erfassung und Darstellung der Entwicklungsprozesse statt. Die Ergebnisse der durchgeführten Mitarbeiterbefragung, der formalen Analyse sowie etablierter Normen und Industriestandards bilden die Grundlage für den Inhalt von @prozessoptimierung. Im Rahmen dessen erfolgt eine Identifikation und Priorisierung von Verbesserungspotenzialen. Die abgeleiteten Maßnahmen werden daraufhin an die spezifischen Bedürfnisse von ProSystems adaptiert. @schlussfolgerung dient der Zusammenfassung der essenziellen Ergebnisse der Projektarbeit. Darüber hinaus wird ein Ausblick auf potenzielle zukünftige Aufgaben und Herausforderungen gegeben, die sich aus den vorgeschlagenen Optimierungen ergeben können.
 // TODO: Kapiteltitel und Inhalte anpassen falls sie sich ändern.
@@ -110,33 +110,34 @@ Ein #acrs("QMS"), welches den Anforderungen der #acrs("ISO") 9001 entspricht, ba
 #figure(caption: [Plan-Do-Check-Act Cycle für Qualitätsmanagement @iso9001], image(width: 14cm, "figures/ISO9001PDCA.png"))<fig-pdcaiso9001>
 
 #figure(caption: "Übersicht der ISO 9001 Klauseln im Kontext des PDCA-Zyklus", table(
-  columns: (auto, auto, auto),
-  inset: 10pt,
+  columns: (auto, auto,),
+  inset: 5pt,
   align: horizon,
   table.header(
-    [*Phasen des PDCA-Zyklus (English)*], [*Klauseln der ISO 9001*], [*Kurzbeschreibung der Klauseln*],
+    [*Phasen des PDCA-Zyklus (English)*], [*Klauseln der ISO 9001*], 
+   // [*Kurzbeschreibung der Klauseln*],
   ),
 text("Planen (Plan)	"),
 text("Klausel 4: Organisation und deren Kontext 
   Klausel 5: Führung, 
   Klausel 6: Planung"),
-text("Klausel 4: Organisation und deren Kontext: Thematisiert den Kontext der Organisation unter Berücksichtigung interner und externer Faktoren.
-Klausel 5: Führung: Zentral für die Vision und Richtung der Organisation, die die Basis des Systems bildet.
-Klausel 6: Planung: Festlegung von Maßnahmen zur Risikobewältigung und Nutzung von Chancen, Definition von Qualitätszielen und Planung von Änderungen."),
+//text("Klausel 4: Organisation und deren Kontext: Thematisiert den Kontext der Organisation unter Berücksichtigung interner und externer Faktoren.
+// Klausel 5: Führung: Zentral für die Vision und Richtung der Organisation, die die Basis des Systems bildet.
+//Klausel 6: Planung: Festlegung von Maßnahmen zur Risikobewältigung und Nutzung von Chancen, Definition von Qualitätszielen und Planung von Änderungen."),
 
 text("Durchführen (Do)"),
 text("Klausel 7: Unterstützung
 Klausel 8: Betrieb"),
- text("Klausel 7: Unterstützung: Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen.
-Klausel 8: Betrieb: Operative Planung und Steuerung sowie Durchführung der Produktions- und Dienstleistungsprozesse. Festlegung von Leistungskriterien und Überwachung externer Lieferanten."),
+//  text("Klausel 7: Unterstützung: Bereitstellung von Ressourcen, Kompetenzen, Bewusstsein, Kommunikation und dokumentierten Informationen.
+// Klausel 8: Betrieb: Operative Planung und Steuerung sowie Durchführung der Produktions- und Dienstleistungsprozesse. Festlegung von Leistungskriterien und Überwachung externer Lieferanten."),
 
 text("Prüfen (Check)	"),
 text("Klausel 9: Bewertung der Leistung"),
-text("Klausel 9: Bewertung der Leistung: Überwachung, Messung, Analyse und Bewertung der QMS-Leistung, inklusive interner Audits und Managementbewertungen."),
+// text("Klausel 9: Bewertung der Leistung: Überwachung, Messung, Analyse und Bewertung der QMS-Leistung, inklusive interner Audits und Managementbewertungen."),
 
 text("Handeln (Act)	"),
 text("Klausel 10: Verbesserung"),
-text("Klausel 10: Verbesserung: Kontinuierliche Verbesserung, Behandlung von Korrekturmaßnahmen und Management von Nichtkonformitäten. Ableitung von Verbesserungsmaßnahmen basierend auf den Ergebnissen der Check-Phase.")
+// text("Klausel 10: Verbesserung: Kontinuierliche Verbesserung, Behandlung von Korrekturmaßnahmen und Management von Nichtkonformitäten. Ableitung von Verbesserungsmaßnahmen basierend auf den Ergebnissen der Check-Phase.")
 ))<table>
 
 Die erste Phase des #acrs("PDCA"), "Planen" ("Plan"), umfasst die Klauseln vier bis sechs. Klausel vier "Organisation und deren Kontext" thematisiert den Kontext der Organisation, wobei sowohl interne als auch externe Faktoren zu berücksichtigen sind. Es ist von wesentlicher Bedeutung, dass die Organisation den Kontext, in dem sie sich befindet, vollständig erfasst und alle relevanten internen sowie externen Einflussfaktoren berücksichtigt. Die fünfte Klausel "Führung" ist von zentraler Bedeutung und bildet das Fundament des Systems, da die Führungskräfte darin die Vision und Richtung vorgeben, auf deren Basis die weiteren Elemente aufbauen. Die sechste Klausel "Planung" umfasst die Festlegung von Maßnahmen zur Bewältigung von Risiken und Nutzung von Chancen sowie die Definition von Qualitätszielen und die Planung von Änderungen. @iso9001
